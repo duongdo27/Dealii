@@ -20,7 +20,6 @@ def generate_relation(inputfile):
 
 def write_to_dot_file(inputfile, outputfile):
     result = """digraph finite_state {
-    rankdir=LR;
     node [shape = circle];\n"""
     result += generate_relation(inputfile)
     result += "}"
@@ -29,4 +28,4 @@ def write_to_dot_file(inputfile, outputfile):
     output.close()
 
 
-write_to_dot_file("trees.csv", "grap2.dot")
+write_to_dot_file("projects.csv", "grap2.dot")
