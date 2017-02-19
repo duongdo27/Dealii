@@ -1,0 +1,12 @@
+~~~~~~~~~~~~~~~~~~~~~
+#include <iostream>
+using namespace std;
+
+
+class file2;
+
+int main(){
+    cout << "File4 depends on file2";
+}
+~~~~~~~~~~~~~~~~~~~~~
+
