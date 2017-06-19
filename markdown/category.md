@@ -1,0 +1,4 @@
+Category
+========
+
+\dotfile categories.dot

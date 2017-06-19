@@ -2,10 +2,119 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="893fc4f3-2571-4180-89cf-298ac6c9e12c" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html/bc_s.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html/bdwn.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html/closed.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html/dir_b8a629b4a32964089411333772c68dab.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html/dir_b8a629b4a32964089411333772c68dab.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html/doc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html/dot_grap2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html/dot_inline_dotgraph_1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html/doxygen.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html/doxygen.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html/dynsections.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html/file1_8cpp.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html/file1_8cpp.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html/file1_8cpp__incl.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html/file1_8cpp__incl.md5" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html/file1_8cpp__incl.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html/file1_8md.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html/file2_8cpp.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html/file2_8cpp.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html/file2_8cpp__incl.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html/file2_8cpp__incl.md5" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html/file2_8cpp__incl.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html/file2_8md.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html/file3_8cpp.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html/file3_8cpp.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html/file3_8cpp__incl.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html/file3_8cpp__incl.md5" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html/file3_8cpp__incl.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html/file3_8md.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html/file4_8cpp.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html/file4_8cpp.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html/file4_8cpp__incl.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html/file4_8cpp__incl.md5" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html/file4_8cpp__incl.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html/file4_8md.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html/files.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html/files.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html/folderclosed.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html/folderopen.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html/globals.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html/globals_func.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html/globals_vars.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html/graph_legend.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html/graph_legend.md5" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html/graph_legend.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html/intro1_01copy_8md.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html/intro1_8md.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html/intro_8java.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html/intro_8java.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html/jquery.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html/md_markdown_file1.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html/md_markdown_file2.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html/md_markdown_file3.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html/md_markdown_file4.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html/md_markdown_intro1.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html/md_markdown_intro1_copy.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html/menu.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html/menudata.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html/nav_f.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html/nav_g.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html/nav_h.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html/navtree.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html/navtree.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html/navtreedata.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html/navtreeindex0.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html/open.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html/pages.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html/resize.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html/search/all_0.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html/search/all_0.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html/search/all_1.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html/search/all_1.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html/search/all_2.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html/search/all_2.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html/search/all_3.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html/search/all_3.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html/search/close.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html/search/files_0.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html/search/files_0.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html/search/files_1.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html/search/files_1.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html/search/functions_0.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html/search/functions_0.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html/search/mag_sel.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html/search/nomatches.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html/search/pages_0.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html/search/pages_0.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html/search/pages_1.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html/search/pages_1.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html/search/pages_2.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html/search/pages_2.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html/search/search.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html/search/search.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html/search/search_l.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html/search/search_m.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html/search/search_r.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html/search/searchdata.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html/search/variables_0.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html/search/variables_0.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html/splitbar.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html/sync_off.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html/sync_on.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html/tab_a.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html/tab_b.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html/tab_h.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html/tab_s.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html/tabs.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/markdown/intro1 copy.md" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/markdown/grap2.dot" afterPath="$PROJECT_DIR$/markdown/grap2.dot" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/markdown/intro.java" afterPath="$PROJECT_DIR$/markdown/intro.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/latex/md_markdown_file1.tex" afterPath="$PROJECT_DIR$/latex/md_markdown_file1.tex" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/latex/md_markdown_intro1_copy.tex" afterPath="$PROJECT_DIR$/latex/md_markdown_intro1_copy.tex" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/latex/refman.tex" afterPath="$PROJECT_DIR$/latex/refman.tex" />
     </list>
     <ignored path="test_dealii.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -36,12 +145,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="intro1 copy.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/markdown/intro1 copy.md">
+      <file leaf-file-name="topic.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/markdown/topic.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="FIRST">
-              <first_editor vertical-scroll-proportion="0.0">
-                <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <first_editor vertical-scroll-proportion="0.095338985">
+                <caret line="3" column="15" selection-start-line="3" selection-start-column="15" selection-end-line="3" selection-end-column="15" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -52,11 +161,43 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/index.html">
+      <file leaf-file-name="category.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/markdown/category.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="FIRST">
+              <first_editor vertical-scroll-proportion="0.095744684">
+                <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+          <provider editor-type-id="MarkdownFxPreviewEditor">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="level.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/markdown/level.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="FIRST">
+              <first_editor vertical-scroll-proportion="0.095744684">
+                <caret line="3" column="15" selection-start-line="3" selection-start-column="15" selection-end-line="3" selection-end-column="15" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+          <provider editor-type-id="MarkdownFxPreviewEditor">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="levels.dot" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/markdown/levels.dot">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.20958084">
-              <caret line="23" column="52" selection-start-line="23" selection-start-column="52" selection-end-line="23" selection-end-column="52" />
+            <state vertical-scroll-proportion="-0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -66,106 +207,8 @@
         <entry file="file://$PROJECT_DIR$/markdown/intro1.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="FIRST">
-              <first_editor vertical-scroll-proportion="0.15306123">
-                <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-          <provider editor-type-id="MarkdownFxPreviewEditor">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="file1.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/markdown/file1.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-2.0689654">
-              <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
-              <folding />
-            </state>
-          </provider>
-          <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-            <state split_layout="FIRST">
-              <first_editor vertical-scroll-proportion="0.0">
-                <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-          <provider editor-type-id="MarkdownFxPreviewEditor">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/html/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="49.25">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="file2.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/markdown/file2.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-2.586207">
-              <caret line="5" column="11" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
-              <folding />
-            </state>
-          </provider>
-          <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-            <state split_layout="FIRST">
-              <first_editor vertical-scroll-proportion="0.0">
-                <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-          <provider editor-type-id="MarkdownFxPreviewEditor">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="file3.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/markdown/file3.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-2.0689654">
-              <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-          <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-            <state split_layout="FIRST">
-              <first_editor vertical-scroll-proportion="0.0">
-                <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-          <provider editor-type-id="MarkdownFxPreviewEditor">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="file4.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/markdown/file4.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-2.0689654">
-              <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-          <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-            <state split_layout="FIRST">
-              <first_editor vertical-scroll-proportion="0.0">
-                <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <first_editor vertical-scroll-proportion="0.12711865">
+                <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="18" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -205,6 +248,9 @@
         <option value="$PROJECT_DIR$/markdown/intro.java" />
         <option value="$PROJECT_DIR$/markdown/file1.md" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/markdown/topic.md" />
+        <option value="$PROJECT_DIR$/markdown/category.md" />
+        <option value="$PROJECT_DIR$/markdown/level.md" />
       </list>
     </option>
   </component>
@@ -238,6 +284,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -256,10 +304,22 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test_dealii" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test_dealii" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="markdown" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -270,13 +330,13 @@
     <property name="options.searchVisible" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/markdown" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/markdown" />
       <recent name="$PROJECT_DIR$/c++" />
       <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/markdown" />
     </key>
   </component>
   <component name="RunManager">
@@ -432,7 +492,6 @@
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24947146" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980132" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980132" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -444,6 +503,7 @@
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
@@ -464,6 +524,50 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/markdown/intro.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="50" selection-start-line="9" selection-start-column="50" selection-end-line="9" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/markdown/intro1.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor vertical-scroll-proportion="0.0">
+            <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/markdown/file1.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor vertical-scroll-proportion="0.0">
+            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
@@ -482,7 +586,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -498,7 +601,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -556,7 +658,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -564,7 +665,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -572,7 +672,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.033557046">
           <caret line="1" column="12" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -580,7 +679,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -588,23 +686,28 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="16" column="19" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/markdown/grap2.dot">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.1749503">
+          <caret line="19" column="8" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/markdown/intro1.md">
+    <entry file="file://$PROJECT_DIR$/markdown/file1.md">
+      <provider editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.0689654">
+          <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
-          <first_editor vertical-scroll-proportion="0.15306123">
-            <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+          <first_editor vertical-scroll-proportion="0.0">
+            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />
@@ -615,13 +718,13 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/markdown/file2.md">
-      <provider selected="true" editor-type-id="text-editor">
+      <provider editor-type-id="text-editor">
         <state vertical-scroll-proportion="-2.586207">
           <caret line="5" column="11" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
           <folding />
         </state>
       </provider>
-      <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
           <first_editor vertical-scroll-proportion="0.0">
             <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -635,46 +738,12 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/markdown/file3.md">
-      <provider selected="true" editor-type-id="text-editor">
+      <provider editor-type-id="text-editor">
         <state vertical-scroll-proportion="-2.0689654">
           <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
           <folding />
         </state>
       </provider>
-      <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor vertical-scroll-proportion="0.0">
-            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/markdown/file4.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-2.0689654">
-          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor vertical-scroll-proportion="0.0">
-            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/markdown/intro1 copy.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
           <first_editor vertical-scroll-proportion="0.0">
@@ -688,22 +757,14 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/markdown/intro.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="9" column="50" selection-start-line="9" selection-start-column="50" selection-end-line="9" selection-end-column="50" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/markdown/file1.md">
-      <provider selected="true" editor-type-id="text-editor">
+    <entry file="file://$PROJECT_DIR$/markdown/file4.md">
+      <provider editor-type-id="text-editor">
         <state vertical-scroll-proportion="-2.0689654">
-          <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
           <folding />
         </state>
       </provider>
-      <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
           <first_editor vertical-scroll-proportion="0.0">
             <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -716,20 +777,84 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/html/index.html">
+    <entry file="file://$PROJECT_DIR$/markdown/grap2.dot">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="49.25">
+        <state vertical-scroll-proportion="-1.6666666">
+          <caret line="3" column="26" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/markdown/intro.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="50" selection-start-line="9" selection-start-column="50" selection-end-line="9" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/markdown/intro1.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor vertical-scroll-proportion="0.12711865">
+            <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="18" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/markdown/topic.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor vertical-scroll-proportion="0.095338985">
+            <caret line="3" column="15" selection-start-line="3" selection-start-column="15" selection-end-line="3" selection-end-column="15" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/markdown/levels.dot">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.20958084">
-          <caret line="23" column="52" selection-start-line="23" selection-start-column="52" selection-end-line="23" selection-end-column="52" />
-          <folding />
+    <entry file="file://$PROJECT_DIR$/markdown/level.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor vertical-scroll-proportion="0.095744684">
+            <caret line="3" column="15" selection-start-line="3" selection-start-column="15" selection-end-line="3" selection-end-column="15" />
+            <folding />
+          </first_editor>
+          <second_editor />
         </state>
+      </provider>
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/markdown/category.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor vertical-scroll-proportion="0.095744684">
+            <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
       </provider>
     </entry>
   </component>

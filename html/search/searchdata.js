@@ -1,8 +1,8 @@
 var indexSectionsWithContent =
 {
-  0: "fit",
-  1: "fi",
-  2: "fit"
+  0: "cfilt",
+  1: "cfilt",
+  2: "cflt"
 };
 
 var indexSectionNames =
