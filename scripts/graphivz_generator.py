@@ -91,13 +91,16 @@ class ColorPicker(object):
 
 
 class GraphGenerator(object):
-    def __init__(self, data_filename, color_filename, output_filename, group_by):
+    def __init__(self, data_filename, color_filename, link_filename,
+                 output_filename, group_by):
         self.data_filename = data_filename
         self.color_filename = color_filename
+        self.link_filename = link_filename
+
         self.output_filename = output_filename
         self.group_by = group_by
 
-    def write_graphviz(self, data, colors):
+    def write_graphviz(self, data, colors, link_lookup):
         result = """digraph bettersoftware {
             rankdir = LR;
             ratio = fill;
@@ -124,6 +127,10 @@ class GraphGenerator(object):
                     cache_lookup[group] = color
                     result += '"{}" [color="{}"];\n'.format(group, color)
                 result += '"{}" ->  "{}" [color="{}"];\n'.format(group, line["name"], color)
+                url = link_lookup.get(line["name"], '')
+                result += '"{}" [URL="{}"]'.format(line["name"], url)
+        # need 1 more line: '"{}" [URL="{}"]'.format(line["name"], url)
+        # "WhatAreSwCodingStandards.md" [label="label" URL="url"] after the connection line
         result += "}"
         return result
 
@@ -135,7 +142,10 @@ class GraphGenerator(object):
         with open(self.data_filename) as f:
             data = json.loads(f.read())
 
-        text = self.write_graphviz(data, colors)
+        with open(self.link_filename) as f:
+            link_lookup = json.loads(f.read())
+
+        text = self.write_graphviz(data, colors, link_lookup)
         with open(self.output_filename, "w") as f:
             f.write(text)
 
@@ -143,12 +153,19 @@ class GraphGenerator(object):
 def graphiz_generator():
     color_filename = 'color.json'
     data_filename = 'data.json'
+    link_filename = 'link.json'
 
     # ColorPicker(color_filename).run()
-    CommentReader(data_filename).run()
-    GraphGenerator(data_filename, color_filename, "topics.dot", "Topics").run()
-    GraphGenerator(data_filename, color_filename, "categories.dot", "Categories").run()
-    GraphGenerator(data_filename, color_filename, "levels.dot", "Level").run()
+    # CommentReader(data_filename).run()
+    # TODO: LinkReader
+
+    GraphGenerator(data_filename, color_filename, link_filename,
+                   "topics.dot", "Topics").run()
+    GraphGenerator(data_filename, color_filename, link_filename,
+                   "categories.dot", "Categories").run()
+    GraphGenerator(data_filename, color_filename, link_filename,
+                   "levels.dot", "Level").run()
+
 
 if __name__ == '__main__':
     graphiz_generator()
