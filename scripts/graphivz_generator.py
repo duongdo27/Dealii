@@ -5,11 +5,13 @@ from random import shuffle
 
 
 class CommentReader(object):
-    def __init__(self, filename):
-        self.filename = filename
+    def __init__(self, data_filename, link_filename):
+        self.data_filename = data_filename
+        self.link_filename = link_filename
         self.repo = "betterscientificsoftware/betterscientificsoftware.github.io"
         self.branch = "master"
         self.sha = "5cfb05641643dec76f6282650f29a4fc8ceb74e9"
+        self.link_lookup = {}
 
     def read_one_file(self, path):
         url = "https://raw.githubusercontent.com/{}/{}/{}".format(self.repo, self.branch, path)
@@ -17,7 +19,32 @@ class CommentReader(object):
         data = {"name": path.split("/")[-1]}
 
         is_comment = False
-        for line in res.text.splitlines():
+        is_subresource = False
+        is_title = False
+        lines = res.text.splitlines()
+
+        for line in lines:
+            # Read title
+            if "#" in line and not is_title:
+                is_title = True
+                title = line.replace('#', '').strip()
+                url = 'http://bss.parallactic.com/resources/' + '-'.join(title.lower().split())
+                res = requests.get(url)
+                if res.status_code == 200:
+                    self.link_lookup[data['name']] = (url, title)
+
+            # Read subresources
+            if "Subresources:" in line:
+                is_subresource = True
+            elif is_subresource:
+                if not line.startswith('-'):
+                    is_subresource = False
+                else:
+                    subresource = line.split("(")[-1].replace(')', '')
+                    if data['name'] in self.link_lookup:
+                        self.link_lookup[subresource] = (url, title)
+
+            # Read comments
             if line.startswith("<!-"):
                 is_comment = True
             elif is_comment:
@@ -35,6 +62,7 @@ class CommentReader(object):
         url = "https://api.github.com/repos/{}/git/trees/{}?recursive=1".format(self.repo, self.sha)
         res = requests.get(url)
         data = []
+
         for row in res.json()["tree"]:
             path = row["path"]
             if (path.startswith("Articles") or path.startswith("CuratedContent") or path.startswith("Events")) \
@@ -48,8 +76,11 @@ class CommentReader(object):
         data = self.read_all_files()
         print 'Read {} files'.format(len(data))
 
-        with open(self.filename, "w") as f:
+        with open(self.data_filename, "w") as f:
             f.write(json.dumps(data))
+
+        with open(self.link_filename, "w") as f:
+            f.write(json.dumps(self.link_lookup))
 
 
 class ColorPicker(object):
@@ -127,10 +158,10 @@ class GraphGenerator(object):
                     cache_lookup[group] = color
                     result += '"{}" [color="{}"];\n'.format(group, color)
                 result += '"{}" ->  "{}" [color="{}"];\n'.format(group, line["name"], color)
-                url = link_lookup.get(line["name"], '')
-                result += '"{}" [URL="{}"]'.format(line["name"], url)
-        # need 1 more line: '"{}" [URL="{}"]'.format(line["name"], url)
-        # "WhatAreSwCodingStandards.md" [label="label" URL="url"] after the connection line
+
+                if line['name'] in link_lookup:
+                    url, title = link_lookup[line["name"]]
+                    result += '"{}" [label="{}" URL="{}"]'.format(line["name"], title, url)
         result += "}"
         return result
 
@@ -156,8 +187,7 @@ def graphiz_generator():
     link_filename = 'link.json'
 
     # ColorPicker(color_filename).run()
-    # CommentReader(data_filename).run()
-    # TODO: LinkReader
+    # CommentReader(data_filename, link_filename).run()
 
     GraphGenerator(data_filename, color_filename, link_filename,
                    "topics.dot", "Topics").run()
