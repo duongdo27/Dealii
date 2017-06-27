@@ -38,11 +38,13 @@ digraph bettersoftware {
 "BestPracticesForHPCSwDevelopersWebinarSeries.md" [label="Training Resources for Software Productivity and Sustainability" URL="http://bss.parallactic.com/resources/training-resources-for-software-productivity-and-sustainability"]"licensing" [color="mediumturquoise"];
 "licensing" ->  "ChooseALicense.md" [color="mediumturquoise"];
 "ChooseALicense.md" [label="Choose an Open Source License" URL="http://bss.parallactic.com/resources/choose-an-open-source-license"]"testing" ->  "ClaimsAboutSoftwareEnginScienceReview.md" [color="darksalmon"];
+"ClaimsAboutSoftwareEnginScienceReview.md" [label="Claims about the use of software engineering practices in science: A systematic literature review", URL="http://bss.parallactic.com/resources/claims-about-the-use-of-software-engineering-practices-in-science-a-systematic-literature-review"]
 "reliability" [color="mediumvioletred"];
 "reliability" ->  "ClaimsAboutSoftwareEnginScienceReview.md" [color="mediumvioletred"];
 "reproducibility" ->  "ClaimsAboutSoftwareEnginScienceReview.md" [color="tomato"];
 "licensing" ->  "ContributorAgreements.md" [color="mediumturquoise"];
 "ContributorAgreements.md" [label="Contributor Agreements" URL="http://bss.parallactic.com/resources/contributor-agreements"]"testing" ->  "CppUnit.md" [color="darksalmon"];
+"CppUnit.md" [label="Cpp Unit" URL="http://bss.parallactic.com/resources/cpp-unit"]
 "tools" [color="lightcoral"];
 "tools" ->  "CppUnit.md" [color="lightcoral"];
 "improving productivity and sustainability" ->  "CseCollaborationThroughSoftwareImprovingProductivityAndSustainability.SIAM-CSE17.md" [color="yellowgreen"];
@@ -67,11 +69,13 @@ digraph bettersoftware {
 "FORCE11SoftwareCitationImplementationWorkingGroup.md" [label="FORCE11 Software Citation Implementation Working Group" URL="http://bss.parallactic.com/resources/force11-software-citation-implementation-working-group"]"licensing" ->  "FSFLicensingAndComplianceTeam.md" [color="mediumturquoise"];
 "funding sources and programs" [color="orchid"];
 "funding sources and programs" ->  "FellowshipProgrammeSoftwareSustainabilityInstituteUK.md" [color="orchid"];
+"FellowshipProgrammeSoftwareSustainabilityInstituteUK.md" [label="Fellowship Programme — Software Sustainability Institute (Uk)" URL="http://bss.parallactic.com/resources/fellowship-programme-software-sustainability-institute-uk"]
 "version control" ->  "GettingGitRight.md" [color="cadetblue"];
 "GettingGitRight.md" [label="Getting Git Right" URL="http://bss.parallactic.com/resources/getting-git-right"]"version control" ->  "GitHub.md" [color="cadetblue"];
 "version control" ->  "GitTutorialAndReferenceCollection.md" [color="cadetblue"];
 "GitTutorialAndReferenceCollection.md" [label="Git Tutorial and Reference Collection" URL="http://bss.parallactic.com/resources/git-tutorial-and-reference-collection"]"strategies for more effective teams" ->  "GoogleHiPerfTeams.md" [color="darkorange"];
 "GoogleHiPerfTeams.md" [label="High Performing Teams at Google" URL="http://bss.parallactic.com/resources/high-performing-teams-at-google"]"strategies for more effective teams" ->  "HerouxATPESC2016.md" [color="darkorange"];
+"HerouxATPESC2016.md" [label="HPC Complete: Reproducible, Sustainable, Productive" URL="http://bss.parallactic.com/resources/hpc-complete-reproducible-sustainable-productive"]
 "testing" ->  "HerouxATPESC2016.md" [color="darksalmon"];
 "configuration and building" [color="blue"];
 "configuration and building" ->  "HowToConfigureSw.md" [color="blue"];
@@ -109,6 +113,7 @@ digraph bettersoftware {
 "software development" [color="darkblue"];
 "software development" ->  "SoftwareDevelopmentPracticesInAcademiaACaseStudyComparison.md" [color="darkblue"];
 "funding sources and programs" ->  "SoftwareInfrastructureForSustainedInnovationSI2NationalScienceFoundationUS.md" [color="orchid"];
+"SoftwareInfrastructureForSustainedInnovationSI2NationalScienceFoundationUS.md" [label="Software Infrastructure For Sustained Innovation (Si2) — National Science Foundation (Us)" URL="http://bss.parallactic.com/resources/software-infrastructure-for-sustained-innovation-si2-national-science-foundation-us"]
 "projects and organizations" ->  "SoftwareSustainabilityInstitute.md" [color="peachpuff"];
 "SoftwareSustainabilityInstitute.md" [label="Software Sustainability Institute" URL="http://bss.parallactic.com/resources/software-sustainability-institute"]"publication" [color="saddlebrown"];
 "publication" ->  "SwEngForComputationalScienceWorkshopSeries.md" [color="saddlebrown"];
@@ -121,11 +126,14 @@ digraph bettersoftware {
 "software interoperability" ->  "SwProductivityAndSustainabilityForCseAndDataScience.SIAM-CSE17.md" [color="darkviolet"];
 "strategies for more effective teams" ->  "SwProductivityAndSustainabilityForCseAndDataScience.SIAM-CSE17.md" [color="darkorange"];
 "testing" ->  "SwTestingTutorialTutorialsPoint.md" [color="darksalmon"];
+"SwTestingTutorialTutorialsPoint.md" [label="Software Testing Tutorial (Tutorials Point)" URL="http://bss.parallactic.com/resources/software-testing-tutorial-tutorials-point"]
 "testing" ->  "SwTestingTutorials.Cse.md" [color="darksalmon"];
 "SwTestingTutorials.Cse.md" [label="Software Testing Tutorials" URL="http://bss.parallactic.com/resources/software-testing-tutorials"]"testing" ->  "SwTestingTutorials.General.md" [color="darksalmon"];
 "SwTestingTutorials.General.md" [label="Software Testing Tutorials" URL="http://bss.parallactic.com/resources/software-testing-tutorials"]"[import from subresources]" ->  "SwTestingTutorials.md" [color="darkgoldenrod"];
 "SwTestingTutorials.md" [label="Software Testing Tutorials" URL="http://bss.parallactic.com/resources/software-testing-tutorials"]"testing" ->  "SwTestingUdacity.md" [color="darksalmon"];
+"SwTestingUdacity.md" [label="Software Testing: How To Make Software Fail (Udacity)" URL="http://bss.parallactic.com/resources/software-testing-how-to-make-software-fail-udacity"]
 "testing" ->  "TestDrivenDevptInScientificSwASurvey.md" [color="darksalmon"];
+"TestDrivenDevptInScientificSwASurvey.md" [label="Test Driven Development In Scientific Software: A Survey" URL="http://bss.parallactic.com/resources/test-driven-development-in-scientific-software-a-survey"]
 "reliability" ->  "TestDrivenDevptInScientificSwASurvey.md" [color="mediumvioletred"];
 "reproducibility" ->  "TestDrivenDevptInScientificSwASurvey.md" [color="tomato"];
 "licensing" ->  "TestImages.md" [color="mediumturquoise"];
@@ -133,20 +141,28 @@ digraph bettersoftware {
 "TestImages2.md" [label="Test With Images 2" URL="http://bss.parallactic.com/resources/test-with-images-2"]"testing" ->  "TestingAndDocumentingCode.md" [color="darksalmon"];
 "TestingAndDocumentingCode.md" [label="Testing and Documenting Code" URL="http://bss.parallactic.com/resources/testing-and-documenting-code"]"documentation" ->  "TestingAndDocumentingCode.md" [color="darkkhaki"];
 "TestingAndDocumentingCode.md" [label="Testing and Documenting Code" URL="http://bss.parallactic.com/resources/testing-and-documenting-code"]"[import from subresources]" ->  "Training.ProductivityAndSustainability.md" [color="darkgoldenrod"];
-"Training.ProductivityAndSustainability.md" [label="Training Resources for Software Productivity and Sustainability" URL="http://bss.parallactic.com/resources/training-resources-for-software-productivity-and-sustainability"]"coding" [color="greenyellow"];
+"Training.ProductivityAndSustainability.md" [label="Training Resources for Software Productivity and Sustainability" URL="http://bss.parallactic.com/resources/training-resources-for-software-productivity-and-sustainability"]
+"coding" [color="greenyellow"];
 "coding" ->  "WhatAreSwCodingStandards.md" [color="greenyellow"];
 "WhatAreSwCodingStandards.md" [label="What are software coding standards?" URL="http://bss.parallactic.com/resources/what-are-software-coding-standards?"]"testing" ->  "WhatIsCseSwTesting.md" [color="darksalmon"];
 "WhatIsCseSwTesting.md" [label="What is CSE Software Testing?" URL="http://bss.parallactic.com/resources/what-is-cse-software-testing?"]"documentation" ->  "WhatIsGoodDocumentation.md" [color="darkkhaki"];
-"WhatIsGoodDocumentation.md" [label="What is Good Documentation for CSE Software" URL="http://bss.parallactic.com/resources/what-is-good-documentation-for-cse-software"]"performance" ->  "WhatIsPerfPortabilityForCseApps.md" [color="lightgoldenrodyellow"];
-"WhatIsPerfPortabilityForCseApps.md" [label="What is Performance Portability for CSE Applications?" URL="http://bss.parallactic.com/resources/what-is-performance-portability-for-cse-applications?"]"portability" ->  "WhatIsPerfPortabilityForCseApps.md" [color="firebrick"];
-"WhatIsPerfPortabilityForCseApps.md" [label="What is Performance Portability for CSE Applications?" URL="http://bss.parallactic.com/resources/what-is-performance-portability-for-cse-applications?"]"configuration and building" ->  "WhatIsSwConfiguration.md" [color="blue"];
+"WhatIsGoodDocumentation.md" [label="What is Good Documentation for CSE Software" URL="http://bss.parallactic.com/resources/what-is-good-documentation-for-cse-software"]
+"performance" ->  "WhatIsPerfPortabilityForCseApps.md" [color="lightgoldenrodyellow"];
+"WhatIsPerfPortabilityForCseApps.md" [label="What is Performance Portability for CSE Applications?" URL="http://bss.parallactic.com/resources/what-is-performance-portability-for-cse-applications?"]
+"portability" ->  "WhatIsPerfPortabilityForCseApps.md" [color="firebrick"];
+"WhatIsPerfPortabilityForCseApps.md" [label="What is Performance Portability for CSE Applications?" URL="http://bss.parallactic.com/resources/what-is-performance-portability-for-cse-applications?"]
+"configuration and building" ->  "WhatIsSwConfiguration.md" [color="blue"];
 "WhatIsSwConfiguration.md" [label="What is Software Configuration?" URL="http://bss.parallactic.com/resources/what-is-software-configuration?"]"version control" ->  "WhatIsVersionControl.md" [color="cadetblue"];
 "WhatIsVersionControl.md" [label="What is Version Control?" URL="http://bss.parallactic.com/resources/what-is-version-control?"]"software publishing and citation" ->  "Zenodo.md" [color="indianred"];
 "Zenodo.md" [label="Zenodo" URL="http://bss.parallactic.com/resources/zenodo"]"[import from subresources]" ->  "kitchen-sink-TEST.md" [color="darkgoldenrod"];
 "kitchen-sink-TEST.md" [label="Kitchen-sink resource test" URL="http://bss.parallactic.com/resources/kitchen-sink-resource-test"]"software engineering" ->  "Conference.SC17.md" [color="goldenrod"];
-"Conference.SC17.md" [label="SC17" URL="http://bss.parallactic.com/resources/sc17"]"improving productivity and sustainability" ->  "Conference.SIAM-CSE17.md" [color="yellowgreen"];
+"Conference.SC17.md" [label="SC17" URL="http://bss.parallactic.com/events/sc17"]
+"improving productivity and sustainability" ->  "Conference.SIAM-CSE17.md" [color="yellowgreen"];
 "[import from subresources]" ->  "Conference.SIAM-CSE17.md" [color="darkgoldenrod"];
 "software engineering" ->  "Conference.ScientificSoftwareDays17.md" [color="goldenrod"];
-"Conference.ScientificSoftwareDays17.md" [label="8th Annual Scientific Software Days" URL="http://bss.parallactic.com/resources/8th-annual-scientific-software-days"]"software engineering" ->  "WSSSPE5.2.md" [color="goldenrod"];
+"Conference.ScientificSoftwareDays17.md" [label="8th Annual Scientific Software Days" URL="http://bss.parallactic.com/resources/8th-annual-scientific-software-days"];
+"software engineering" ->  "WSSSPE5.2.md" [color="goldenrod"];
+"WSSSPE5.2.md" [label="Wssspe5.2" URL="http://bss.parallactic.com/events/wssspe5-2"];
 "software engineering" ->  "Workshop.SE4Science17.md" [color="goldenrod"];
-"Workshop.SE4Science17.md" [label="2017 International Workshop on Software Engineering for Science" URL="http://bss.parallactic.com/resources/2017-international-workshop-on-software-engineering-for-science"]}
+"Workshop.SE4Science17.md" [label="2017 International Workshop on Software Engineering for Science" URL="http://bss.parallactic.com/resources/2017-international-workshop-on-software-engineering-for-science"]
+}
