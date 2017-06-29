@@ -71,7 +71,9 @@ digraph bettersoftware {
 "funding sources and programs" ->  "FellowshipProgrammeSoftwareSustainabilityInstituteUK.md" [color="orchid"];
 "FellowshipProgrammeSoftwareSustainabilityInstituteUK.md" [label="Fellowship Programme — Software Sustainability Institute (Uk)" URL="http://bss.parallactic.com/resources/fellowship-programme-software-sustainability-institute-uk"]
 "version control" ->  "GettingGitRight.md" [color="cadetblue"];
-"GettingGitRight.md" [label="Getting Git Right" URL="http://bss.parallactic.com/resources/getting-git-right"]"version control" ->  "GitHub.md" [color="cadetblue"];
+"GettingGitRight.md" [label="Getting Git Right" URL="http://bss.parallactic.com/resources/getting-git-right"]
+"version control" ->  "GitHub.md" [color="cadetblue"];
+"GitHub.md" [label="GitHub" URL="http://bss.parallactic.com/resources/git-hub"]
 "version control" ->  "GitTutorialAndReferenceCollection.md" [color="cadetblue"];
 "GitTutorialAndReferenceCollection.md" [label="Git Tutorial and Reference Collection" URL="http://bss.parallactic.com/resources/git-tutorial-and-reference-collection"]"strategies for more effective teams" ->  "GoogleHiPerfTeams.md" [color="darkorange"];
 "GoogleHiPerfTeams.md" [label="High Performing Teams at Google" URL="http://bss.parallactic.com/resources/high-performing-teams-at-google"]"strategies for more effective teams" ->  "HerouxATPESC2016.md" [color="darkorange"];
@@ -117,7 +119,8 @@ digraph bettersoftware {
 "projects and organizations" ->  "SoftwareSustainabilityInstitute.md" [color="peachpuff"];
 "SoftwareSustainabilityInstitute.md" [label="Software Sustainability Institute" URL="http://bss.parallactic.com/resources/software-sustainability-institute"]"publication" [color="saddlebrown"];
 "publication" ->  "SwEngForComputationalScienceWorkshopSeries.md" [color="saddlebrown"];
-"SwEngForComputationalScienceWorkshopSeries.md" [label="Software Engineering for Computational Science Workshop Series" URL="http://bss.parallactic.com/resources/software-engineering-for-computational-science-workshop-series"]"improving productivity and sustainability" ->  "SwProductivityAndSustainabilityForCseAndDataScience.SIAM-CSE17.md" [color="yellowgreen"];
+"SwEngForComputationalScienceWorkshopSeries.md" [label="Software Engineering for Computational Science Workshop Series" URL="http://bss.parallactic.com/resources/software-engineering-for-computational-science-workshop-series"]
+"improving productivity and sustainability" ->  "SwProductivityAndSustainabilityForCseAndDataScience.SIAM-CSE17.md" [color="yellowgreen"];
 "configuration and builds" [color="darkturquoise"];
 "configuration and builds" ->  "SwProductivityAndSustainabilityForCseAndDataScience.SIAM-CSE17.md" [color="darkturquoise"];
 "testing" ->  "SwProductivityAndSustainabilityForCseAndDataScience.SIAM-CSE17.md" [color="darksalmon"];
@@ -130,7 +133,8 @@ digraph bettersoftware {
 "testing" ->  "SwTestingTutorials.Cse.md" [color="darksalmon"];
 "SwTestingTutorials.Cse.md" [label="Software Testing Tutorials" URL="http://bss.parallactic.com/resources/software-testing-tutorials"]"testing" ->  "SwTestingTutorials.General.md" [color="darksalmon"];
 "SwTestingTutorials.General.md" [label="Software Testing Tutorials" URL="http://bss.parallactic.com/resources/software-testing-tutorials"]"[import from subresources]" ->  "SwTestingTutorials.md" [color="darkgoldenrod"];
-"SwTestingTutorials.md" [label="Software Testing Tutorials" URL="http://bss.parallactic.com/resources/software-testing-tutorials"]"testing" ->  "SwTestingUdacity.md" [color="darksalmon"];
+"SwTestingTutorials.md" [label="Software Testing Tutorials" URL="http://bss.parallactic.com/resources/software-testing-tutorials"]
+"testing" ->  "SwTestingUdacity.md" [color="darksalmon"];
 "SwTestingUdacity.md" [label="Software Testing: How To Make Software Fail (Udacity)" URL="http://bss.parallactic.com/resources/software-testing-how-to-make-software-fail-udacity"]
 "testing" ->  "TestDrivenDevptInScientificSwASurvey.md" [color="darksalmon"];
 "TestDrivenDevptInScientificSwASurvey.md" [label="Test Driven Development In Scientific Software: A Survey" URL="http://bss.parallactic.com/resources/test-driven-development-in-scientific-software-a-survey"]
@@ -164,5 +168,5 @@ digraph bettersoftware {
 "software engineering" ->  "WSSSPE5.2.md" [color="goldenrod"];
 "WSSSPE5.2.md" [label="Wssspe5.2" URL="http://bss.parallactic.com/events/wssspe5-2"];
 "software engineering" ->  "Workshop.SE4Science17.md" [color="goldenrod"];
-"Workshop.SE4Science17.md" [label="2017 International Workshop on Software Engineering for Science" URL="http://bss.parallactic.com/resources/2017-international-workshop-on-software-engineering-for-science"]
+"Workshop.SE4Science17.md" [label="2017 International Workshop on Software Engineering for Science" URL="http://bss.parallactic.com/resources/2017-international-workshop-on-software-engineering-for-science"];
 }
