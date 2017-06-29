@@ -77,6 +77,7 @@ digraph bettersoftware {
 "collaboration" ->  "FORCE11SoftwareCitationImplementationWorkingGroup.md" [color="slategrey"];
 "FORCE11SoftwareCitationImplementationWorkingGroup.md" [label="FORCE11 Software Citation Implementation Working Group" URL="http://bss.parallactic.com/resources/force11-software-citation-implementation-working-group"]
 "collaboration" ->  "FSFLicensingAndComplianceTeam.md" [color="slategrey"];
+"FSFLicensingAndComplianceTeam.md" [label="Free Software Foundation Licensing & Compliance Team" URL="http://bss.parallactic.com/resources/free-software-foundation-licensing-compliance-team"]
 "collaboration" ->  "FellowshipProgrammeSoftwareSustainabilityInstituteUK.md" [color="slategrey"];
 "FellowshipProgrammeSoftwareSustainabilityInstituteUK.md" [label="Fellowship Programme — Software Sustainability Institute (Uk)" URL="http://bss.parallactic.com/resources/fellowship-programme-software-sustainability-institute-uk"]
 "development" ->  "GettingGitRight.md" [color="palegreen"];
@@ -126,7 +127,9 @@ digraph bettersoftware {
 "OpenSourceInitiative.md" [label="Open Source Initiative" URL="http://bss.parallactic.com/resources/open-source-initiative"]
 "specify 1 or more categories" [color="rosybrown"];
 "specify 1 or more categories" ->  "ResourceTemplate.AggregateBase.md" [color="rosybrown"];
+"ResourceTemplate.AggregateBase.md" [label="Resource Template: Aggregate Base", URL="http://bss.parallactic.com/resources/resource-template-aggregate-base"]
 "specify 1 or more categories" ->  "ResourceTemplate.AggregateSubresource.md" [color="rosybrown"];
+"ResourceTemplate.AggregateSubresource.md" [label="Resource Template: Aggregate Subresource" URL="http://bss.parallactic.com/resources/resource-template-aggregate-subresource"]
 "specify 1 or more categories" ->  "ResourceTemplate.Basic.md" [color="rosybrown"];
 "ResourceTemplate.Basic.md" [label="Resource Template" URL="http://bss.parallactic.com/resources/resource-template"]
 "reliability" ->  "SoftwareDevelopmentPracticesInAcademiaACaseStudyComparison.md" [color="purple"];
@@ -141,6 +144,7 @@ digraph bettersoftware {
 "reliability" ->  "SwProductivityAndSustainabilityForCseAndDataScience.SIAM-CSE17.md" [color="purple"];
 "collaboration" ->  "SwProductivityAndSustainabilityForCseAndDataScience.SIAM-CSE17.md" [color="slategrey"];
 "performance" ->  "SwProductivityAndSustainabilityForCseAndDataScience.SIAM-CSE17.md" [color="lawngreen"];
+"SwProductivityAndSustainabilityForCseAndDataScience.SIAM-CSE17.md" [label="Software Productivity And Sustainability For Cse And Data Science" URL="http://bss.parallactic.com/events/siam-conference-on-computational-science-and-engineering-cse17 "]
 "reliability" ->  "SwTestingTutorialTutorialsPoint.md" [color="purple"];
 "SwTestingTutorialTutorialsPoint.md" [label="Software Testing Tutorial (Tutorials Point)" URL="http://bss.parallactic.com/resources/software-testing-tutorial-tutorials-point"]
 "skills" ->  "SwTestingTutorialTutorialsPoint.md" [color="teal"];
@@ -198,6 +202,7 @@ digraph bettersoftware {
 "planning" ->  "Conference.SIAM-CSE17.md" [color="firebrick"];
 "collaboration" ->  "Conference.SIAM-CSE17.md" [color="slategrey"];
 "reliability" ->  "Conference.SIAM-CSE17.md" [color="purple"];
+"Conference.SIAM-CSE17.md" [label="SIAM Conference On Computational Science And Engineering" URL="http://bss.parallactic.com/events/siam-conference-on-computational-science-and-engineering-cse17 "]
 "planning" ->  "Conference.ScientificSoftwareDays17.md" [color="firebrick"];
 "Conference.ScientificSoftwareDays17.md" [label="8th Annual Scientific Software Days" URL="http://bss.parallactic.com/resources/8th-annual-scientific-software-days"]
 "crosscutting" ->  "Conference.ScientificSoftwareDays17.md" [color="fuchsia"];

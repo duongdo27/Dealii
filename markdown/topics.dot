@@ -104,6 +104,7 @@ digraph bettersoftware {
 "software publishing and citation" ->  "FORCE11SoftwareCitationImplementationWorkingGroup.md" [color="indianred"];
 "FORCE11SoftwareCitationImplementationWorkingGroup.md" [label="FORCE11 Software Citation Implementation Working Group" URL="http://bss.parallactic.com/resources/force11-software-citation-implementation-working-group"];
 "licensing" ->  "FSFLicensingAndComplianceTeam.md" [color="fuchsia"];
+"FSFLicensingAndComplianceTeam.md" [label="Free Software Foundation Licensing & Compliance Team" URL="http://bss.parallactic.com/resources/free-software-foundation-licensing-compliance-team"]
 "funding sources and programs" [color="cyan"];
 "funding sources and programs" ->  "FellowshipProgrammeSoftwareSustainabilityInstituteUK.md" [color="cyan"];
 "FellowshipProgrammeSoftwareSustainabilityInstituteUK.md" [label="Fellowship Programme — Software Sustainability Institute (Uk)" URL="http://bss.parallactic.com/resources/fellowship-programme-software-sustainability-institute-uk"];
@@ -166,7 +167,9 @@ digraph bettersoftware {
 "OpenSourceInitiative.md" [label="Open Source Initiative" URL="http://bss.parallactic.com/resources/open-source-initiative"];
 "specify 1 or more topics (corresponding to each category)" [color="mediumseagreen"];
 "specify 1 or more topics (corresponding to each category)" ->  "ResourceTemplate.AggregateBase.md" [color="mediumseagreen"];
+"ResourceTemplate.AggregateBase.md" [label="Resource Template: Aggregate Base", URL="http://bss.parallactic.com/resources/resource-template-aggregate-base"]
 "specify 1 or more topics (corresponding to each category)" ->  "ResourceTemplate.AggregateSubresource.md" [color="mediumseagreen"];
+"ResourceTemplate.AggregateSubresource.md" [label="Resource Template: Aggregate Subresource" URL="http://bss.parallactic.com/resources/resource-template-aggregate-subresource"]
 "specify 1 or more topics (corresponding to each category)" ->  "ResourceTemplate.Basic.md" [color="mediumseagreen"];
 "ResourceTemplate.Basic.md" [label="Resource Template" URL="http://bss.parallactic.com/resources/resource-template"];
 "testing" ->  "SoftwareDevelopmentPracticesInAcademiaACaseStudyComparison.md" [color="darksalmon"];
@@ -183,6 +186,7 @@ digraph bettersoftware {
 "publication" ->  "SwEngForComputationalScienceWorkshopSeries.md" [color="saddlebrown"];
 "SwEngForComputationalScienceWorkshopSeries.md" [label="Software Engineering for Computational Science Workshop Series" URL="http://bss.parallactic.com/resources/software-engineering-for-computational-science-workshop-series"];
 "improving productivity and sustainability" ->  "SwProductivityAndSustainabilityForCseAndDataScience.SIAM-CSE17.md" [color="yellowgreen"];
+"SwProductivityAndSustainabilityForCseAndDataScience.SIAM-CSE17.md" [label="Software Productivity And Sustainability For Cse And Data Science" URL="http://bss.parallactic.com/events/siam-conference-on-computational-science-and-engineering-cse17 "]
 "configuration and builds" [color="darkturquoise"];
 "configuration and builds" ->  "SwProductivityAndSustainabilityForCseAndDataScience.SIAM-CSE17.md" [color="darkturquoise"];
 "testing" ->  "SwProductivityAndSustainabilityForCseAndDataScience.SIAM-CSE17.md" [color="darksalmon"];
@@ -237,6 +241,7 @@ digraph bettersoftware {
 "Conference.SC17.md" [label="SC17" URL="http://bss.parallactic.com/events/sc17"];
 "improving productivity and sustainability" ->  "Conference.SIAM-CSE17.md" [color="yellowgreen"];
 "[import from subresources];" ->  "Conference.SIAM-CSE17.md" [color="darkgoldenrod"];
+"Conference.SIAM-CSE17.md" [label="SIAM Conference On Computational Science And Engineering" URL="http://bss.parallactic.com/events/siam-conference-on-computational-science-and-engineering-cse17 "]
 "software engineering" ->  "Conference.ScientificSoftwareDays17.md" [color="goldenrod"];
 "Conference.ScientificSoftwareDays17.md" [label="8th Annual Scientific Software Days" URL="http://bss.parallactic.com/resources/8th-annual-scientific-software-days"];
 "software engineering" ->  "WSSSPE5.2.md" [color="goldenrod"];

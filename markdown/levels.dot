@@ -92,7 +92,9 @@ digraph bettersoftware {
 "2" ->  "OpenSourceInitiative.md" [color="orangered"];
 "OpenSourceInitiative.md" [label="Open Source Initiative" URL="http://bss.parallactic.com/resources/open-source-initiative"]"specify level of content" [color="lawngreen"];
 "specify level of content" ->  "ResourceTemplate.AggregateBase.md" [color="lawngreen"];
+"ResourceTemplate.AggregateBase.md" [label="Resource Template: Aggregate Base", URL="http://bss.parallactic.com/resources/resource-template-aggregate-base"]
 "specify level of content" ->  "ResourceTemplate.AggregateSubresource.md" [color="lawngreen"];
+"ResourceTemplate.AggregateSubresource.md" [label="Resource Template: Aggregate Subresource" URL="http://bss.parallactic.com/resources/resource-template-aggregate-subresource"]
 "specify level of content" ->  "ResourceTemplate.Basic.md" [color="lawngreen"];
 "ResourceTemplate.Basic.md" [label="Resource Template" URL="http://bss.parallactic.com/resources/resource-template"]
 "2" ->  "SoftwareDevelopmentPracticesInAcademiaACaseStudyComparison.md" [color="orangered"];
@@ -104,7 +106,9 @@ digraph bettersoftware {
 "2" ->  "SwEngForComputationalScienceWorkshopSeries.md" [color="orangered"];
 "SwEngForComputationalScienceWorkshopSeries.md" [label="Software Engineering for Computational Science Workshop Series" URL="http://bss.parallactic.com/resources/software-engineering-for-computational-science-workshop-series"]
 "2" ->  "SwProductivityAndSustainabilityForCseAndDataScience.SIAM-CSE17.md" [color="orangered"];
+"SwProductivityAndSustainabilityForCseAndDataScience.SIAM-CSE17.md" [label="Software Productivity And Sustainability For Cse And Data Science" URL="http://bss.parallactic.com/events/siam-conference-on-computational-science-and-engineering-cse17 "]
 "2" ->  "SwTestingTutorialTutorialsPoint.md" [color="orangered"];
+"SwTestingTutorialTutorialsPoint.md" [label="Software Testing Tutorial (Tutorials Point)" URL="http://bss.parallactic.com/resources/software-testing-tutorial-tutorials-point"]
 "2" ->  "SwTestingTutorials.Cse.md" [color="orangered"];
 "SwTestingTutorials.Cse.md" [label="Software Testing Tutorials" URL="http://bss.parallactic.com/resources/software-testing-tutorials"]
 "2" ->  "SwTestingTutorials.General.md" [color="orangered"];
@@ -114,6 +118,7 @@ digraph bettersoftware {
 "2" ->  "SwTestingUdacity.md" [color="orangered"];
 "SwTestingUdacity.md" [label="Software Testing: How To Make Software Fail (Udacity)" URL="http://bss.parallactic.com/resources/software-testing-how-to-make-software-fail-udacity"]
 "2" ->  "TestDrivenDevptInScientificSwASurvey.md" [color="orangered"];
+"TestDrivenDevptInScientificSwASurvey.md" [label="Test Driven Development In Scientific Software: A Survey" URL="http://bss.parallactic.com/resources/test-driven-development-in-scientific-software-a-survey"]
 "2" ->  "TestImages.md" [color="orangered"];
 "TestImages.md" [label="Test With Images" URL="http://bss.parallactic.com/resources/test-with-images"]
 "2" ->  "TestImages2.md" [color="orangered"];
@@ -142,6 +147,7 @@ digraph bettersoftware {
 "2" ->  "Conference.SC17.md" [color="orangered"];
 "Conference.SC17.md" [label="SC17" URL="http://bss.parallactic.com/resources/sc17"]
 "2" ->  "Conference.SIAM-CSE17.md" [color="orangered"];
+"Conference.SIAM-CSE17.md" [label="SIAM Conference On Computational Science And Engineering" URL="http://bss.parallactic.com/events/siam-conference-on-computational-science-and-engineering-cse17 "]
 "2" ->  "Conference.ScientificSoftwareDays17.md" [color="orangered"];
 "Conference.ScientificSoftwareDays17.md" [label="8th Annual Scientific Software Days" URL="http://bss.parallactic.com/resources/8th-annual-scientific-software-days"]
 "2" ->  "WSSSPE5.2.md" [color="orangered"];
