@@ -90,10 +90,10 @@ digraph bettersoftware {
 "2" ->  "OSSSustainabilityResources.md" [color="orangered"];
 "OSSSustainabilityResources.md" [label="Sustaining Open Source Software" URL="http://bss.parallactic.com/resources/sustaining-open-source-software"]
 "2" ->  "OpenSourceInitiative.md" [color="orangered"];
-"OpenSourceInitiative.md" [label="Open Source Initiative" URL="http://bss.parallactic.com/resources/open-source-initiative"]"specify level of content" [color="cornsilk"];
-"specify level of content" ->  "ResourceTemplate.AggregateBase.md" [color="cornsilk"];
-"specify level of content" ->  "ResourceTemplate.AggregateSubresource.md" [color="cornsilk"];
-"specify level of content" ->  "ResourceTemplate.Basic.md" [color="cornsilk"];
+"OpenSourceInitiative.md" [label="Open Source Initiative" URL="http://bss.parallactic.com/resources/open-source-initiative"]"specify level of content" [color="lawngreen"];
+"specify level of content" ->  "ResourceTemplate.AggregateBase.md" [color="lawngreen"];
+"specify level of content" ->  "ResourceTemplate.AggregateSubresource.md" [color="lawngreen"];
+"specify level of content" ->  "ResourceTemplate.Basic.md" [color="lawngreen"];
 "ResourceTemplate.Basic.md" [label="Resource Template" URL="http://bss.parallactic.com/resources/resource-template"]
 "2" ->  "SoftwareDevelopmentPracticesInAcademiaACaseStudyComparison.md" [color="orangered"];
 "SoftwareDevelopmentPracticesInAcademiaACaseStudyComparison.md" [label="Software Development Practices In Academia: A Case Study Comparison", URL="http://bss.parallactic.com/resources/software-development-practices-in-academia-a-case-study-comparison"]
@@ -117,7 +117,7 @@ digraph bettersoftware {
 "2" ->  "TestImages.md" [color="orangered"];
 "TestImages.md" [label="Test With Images" URL="http://bss.parallactic.com/resources/test-with-images"]
 "2" ->  "TestImages2.md" [color="orangered"];
-"TestImages2.md" [label="Test With Images 2" URL="http://bss.parallactic.com/resources/test-with-images-2"]
+"TestImages2.md" [label="Test With Images 2\n" URL="http://bss.parallactic.com/resources/test-with-images-2 "]
 "2" ->  "TestingAndDocumentingCode.md" [color="orangered"];
 "TestingAndDocumentingCode.md" [label="Testing and Documenting Code" URL="http://bss.parallactic.com/resources/testing-and-documenting-code"]
 "2" ->  "Training.ProductivityAndSustainability.md" [color="orangered"];
@@ -145,6 +145,6 @@ digraph bettersoftware {
 "2" ->  "Conference.ScientificSoftwareDays17.md" [color="orangered"];
 "Conference.ScientificSoftwareDays17.md" [label="8th Annual Scientific Software Days" URL="http://bss.parallactic.com/resources/8th-annual-scientific-software-days"]
 "2" ->  "WSSSPE5.2.md" [color="orangered"];
-"WSSSPE5.2.md" [label="Wssspe5.2" URL="http://bss.parallactic.com/events/wssspe5-2"];
+"WSSSPE5.2.md" [label="Wssspe5.2\n" URL="http://bss.parallactic.com/events/wssspe5-2 "];
 "2" ->  "Workshop.SE4Science17.md" [color="orangered"];
 "Workshop.SE4Science17.md" [label="2017 International Workshop on Software Engineering for Science" URL="http://bss.parallactic.com/resources/2017-international-workshop-on-software-engineering-for-science"]}
