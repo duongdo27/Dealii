@@ -150,6 +150,8 @@ digraph bettersoftware {
 "Conference.SIAM-CSE17.md" [label="SIAM Conference On Computational Science And Engineering" URL="http://bss.parallactic.com/events/siam-conference-on-computational-science-and-engineering-cse17 "]
 "2" ->  "Conference.ScientificSoftwareDays17.md" [color="orangered"];
 "Conference.ScientificSoftwareDays17.md" [label="8th Annual Scientific Software Days" URL="http://bss.parallactic.com/resources/8th-annual-scientific-software-days"]
+"2" ->  "WSSSPE5.1.md" [color="orangered"];
+"WSSSPE5.1.md" [label="Wssspe5.1\n" URL="http://bss.parallactic.com/events/wssspe5-1"];
 "2" ->  "WSSSPE5.2.md" [color="orangered"];
 "WSSSPE5.2.md" [label="Wssspe5.2\n" URL="http://bss.parallactic.com/events/wssspe5-2 "];
 "2" ->  "Workshop.SE4Science17.md" [color="orangered"];

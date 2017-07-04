@@ -207,6 +207,9 @@ digraph bettersoftware {
 "Conference.ScientificSoftwareDays17.md" [label="8th Annual Scientific Software Days" URL="http://bss.parallactic.com/resources/8th-annual-scientific-software-days"]
 "crosscutting" ->  "Conference.ScientificSoftwareDays17.md" [color="fuchsia"];
 "Conference.ScientificSoftwareDays17.md" [label="8th Annual Scientific Software Days" URL="http://bss.parallactic.com/resources/8th-annual-scientific-software-days"]
+"planning" ->  "WSSSPE5.1.md" [color="firebrick"];
+"crosscutting" ->  "WSSSPE5.1.md" [color="fuchsia"];
+"WSSSPE5.1.md" [label="Wssspe5.1\n" URL="http://bss.parallactic.com/events/wssspe5-1"];
 "planning" ->  "WSSSPE5.2.md" [color="firebrick"];
 "crosscutting" ->  "WSSSPE5.2.md" [color="fuchsia"];
 "WSSSPE5.2.md" [label="Wssspe5.2\n" URL="http://bss.parallactic.com/events/wssspe5-2 "];
