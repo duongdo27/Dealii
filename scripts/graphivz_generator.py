@@ -156,12 +156,12 @@ class GraphGenerator(object):
                     color = colors[cnt]
                     cnt += 1
                     cache_lookup[group] = color
-                    result += '"{}" [color="{}"];\n'.format(group, color)
-                result += '"{}" ->  "{}" [color="{}"];\n'.format(group, line["name"], color)
+                    result += '"{}" [colorscheme="svg" color="{}"];\n'.format(group, color)
+                result += '"{}" ->  "{}" [colorscheme="svg" color="{}"];\n'.format(group, line["name"], color)
 
                 if line['name'] in link_lookup:
                     url, title = link_lookup[line["name"]]
-                    result += '"{}" [label="{}" URL="{}"]'.format(line["name"], title, url)
+                    result += '"{}" [label="{}" URL="{}"]\n'.format(line["name"], title, url)
         result += "}"
         return result
 
