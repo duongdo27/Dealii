@@ -3,217 +3,217 @@ digraph bettersoftware {
             ratio = fill;
             node [style=filled];
             node [shape = box];
-"development" [color="palegreen"];
-"development" ->  "BlogArticleSkeletonA.md" [color="palegreen"];
+"development" [colorscheme="svg" color="palegreen"];
+"development" ->  "BlogArticleSkeletonA.md" [colorscheme="svg" color="palegreen"];
 "BlogArticleSkeletonA.md" [label="Insightful blog article on topic A" URL="http://bss.parallactic.com/resources/insightful-blog-article-on-topic-a"]
-"reliability" [color="purple"];
-"reliability" ->  "BlogArticleSkeletonB.md" [color="purple"];
+"reliability" [colorscheme="svg" color="purple"];
+"reliability" ->  "BlogArticleSkeletonB.md" [colorscheme="svg" color="purple"];
 "BlogArticleSkeletonB.md" [label="Insightful blog article on topic B" URL="http://bss.parallactic.com/resources/insightful-blog-article-on-topic-b"]
-"development" ->  "BlogArticleSkeletonB.md" [color="palegreen"];
+"development" ->  "BlogArticleSkeletonB.md" [colorscheme="svg" color="palegreen"];
 "BlogArticleSkeletonB.md" [label="Insightful blog article on topic B" URL="http://bss.parallactic.com/resources/insightful-blog-article-on-topic-b"]
-"reliability" ->  "BlogArticleSkeletonC.md" [color="purple"];
+"reliability" ->  "BlogArticleSkeletonC.md" [colorscheme="svg" color="purple"];
 "BlogArticleSkeletonC.md" [label="Insightful blog article on topic C" URL="http://bss.parallactic.com/resources/insightful-blog-article-on-topic-c"]
-"planning" [color="firebrick"];
-"planning" ->  "BlogArticleSkeletonD.md" [color="firebrick"];
+"planning" [colorscheme="svg" color="firebrick"];
+"planning" ->  "BlogArticleSkeletonD.md" [colorscheme="svg" color="firebrick"];
 "BlogArticleSkeletonD.md" [label="Insightful blog article on topic D" URL="http://bss.parallactic.com/resources/insightful-blog-article-on-topic-d"]
-"planning" ->  "BlogArticleSkeletonE.md" [color="firebrick"];
+"planning" ->  "BlogArticleSkeletonE.md" [colorscheme="svg" color="firebrick"];
 "BlogArticleSkeletonE.md" [label="Insightful blog article on topic E" URL="http://bss.parallactic.com/resources/insightful-blog-article-on-topic-e"]
-"performance" [color="lawngreen"];
-"performance" ->  "BlogArticleSkeletonE.md" [color="lawngreen"];
+"performance" [colorscheme="svg" color="lawngreen"];
+"performance" ->  "BlogArticleSkeletonE.md" [colorscheme="svg" color="lawngreen"];
 "BlogArticleSkeletonE.md" [label="Insightful blog article on topic E" URL="http://bss.parallactic.com/resources/insightful-blog-article-on-topic-e"]
-"reliability" ->  "ImproveUserConfidenceInSwUpdates.md" [color="purple"];
+"reliability" ->  "ImproveUserConfidenceInSwUpdates.md" [colorscheme="svg" color="purple"];
 "ImproveUserConfidenceInSwUpdates.md" [label="Improve user confidence in your software updates" URL="http://bss.parallactic.com/resources/improve-user-confidence-in-your-software-updates"]
-"development" ->  "ImproveUserConfidenceInSwUpdates.md" [color="palegreen"];
+"development" ->  "ImproveUserConfidenceInSwUpdates.md" [colorscheme="svg" color="palegreen"];
 "ImproveUserConfidenceInSwUpdates.md" [label="Improve user confidence in your software updates" URL="http://bss.parallactic.com/resources/improve-user-confidence-in-your-software-updates"]
-"development" ->  "ContainersForResearchSw.md" [color="palegreen"];
+"development" ->  "ContainersForResearchSw.md" [colorscheme="svg" color="palegreen"];
 "ContainersForResearchSw.md" [label="Containers for Research Software" URL="http://bss.parallactic.com/resources/containers-for-research-software"]
-"skills" [color="teal"];
-"skills" ->  "VisionFitnessForSoftwareProductivity.md" [color="teal"];
+"skills" [colorscheme="svg" color="teal"];
+"skills" ->  "VisionFitnessForSoftwareProductivity.md" [colorscheme="svg" color="teal"];
 "VisionFitnessForSoftwareProductivity.md" [label="Keeping your Vision Fit for Years of Software Development" URL="http://bss.parallactic.com/resources/keeping-your-vision-fit-for-years-of-software-development"]
-"collaboration" [color="slategrey"];
-"collaboration" ->  "AssociationForSoftwareTesting.md" [color="slategrey"];
+"collaboration" [colorscheme="svg" color="slategrey"];
+"collaboration" ->  "AssociationForSoftwareTesting.md" [colorscheme="svg" color="slategrey"];
 "AssociationForSoftwareTesting.md" [label="Association for Software Testing" URL="http://bss.parallactic.com/resources/association-for-software-testing"]
-"planning" ->  "BestPracticesForHPCSwDevelopersWebinarSeries.md" [color="firebrick"];
+"planning" ->  "BestPracticesForHPCSwDevelopersWebinarSeries.md" [colorscheme="svg" color="firebrick"];
 "BestPracticesForHPCSwDevelopersWebinarSeries.md" [label="Training Resources for Software Productivity and Sustainability" URL="http://bss.parallactic.com/resources/training-resources-for-software-productivity-and-sustainability"]
-"reliability" ->  "BestPracticesForHPCSwDevelopersWebinarSeries.md" [color="purple"];
+"reliability" ->  "BestPracticesForHPCSwDevelopersWebinarSeries.md" [colorscheme="svg" color="purple"];
 "BestPracticesForHPCSwDevelopersWebinarSeries.md" [label="Training Resources for Software Productivity and Sustainability" URL="http://bss.parallactic.com/resources/training-resources-for-software-productivity-and-sustainability"]
-"collaboration" ->  "BestPracticesForHPCSwDevelopersWebinarSeries.md" [color="slategrey"];
+"collaboration" ->  "BestPracticesForHPCSwDevelopersWebinarSeries.md" [colorscheme="svg" color="slategrey"];
 "BestPracticesForHPCSwDevelopersWebinarSeries.md" [label="Training Resources for Software Productivity and Sustainability" URL="http://bss.parallactic.com/resources/training-resources-for-software-productivity-and-sustainability"]
-"crosscutting" [color="fuchsia"];
-"crosscutting" ->  "BestPracticesForHPCSwDevelopersWebinarSeries.md" [color="fuchsia"];
+"crosscutting" [colorscheme="svg" color="fuchsia"];
+"crosscutting" ->  "BestPracticesForHPCSwDevelopersWebinarSeries.md" [colorscheme="svg" color="fuchsia"];
 "BestPracticesForHPCSwDevelopersWebinarSeries.md" [label="Training Resources for Software Productivity and Sustainability" URL="http://bss.parallactic.com/resources/training-resources-for-software-productivity-and-sustainability"]
-"performance" ->  "BestPracticesForHPCSwDevelopersWebinarSeries.md" [color="lawngreen"];
+"performance" ->  "BestPracticesForHPCSwDevelopersWebinarSeries.md" [colorscheme="svg" color="lawngreen"];
 "BestPracticesForHPCSwDevelopersWebinarSeries.md" [label="Training Resources for Software Productivity and Sustainability" URL="http://bss.parallactic.com/resources/training-resources-for-software-productivity-and-sustainability"]
-"collaboration" ->  "ChooseALicense.md" [color="slategrey"];
+"collaboration" ->  "ChooseALicense.md" [colorscheme="svg" color="slategrey"];
 "ChooseALicense.md" [label="Choose an Open Source License" URL="http://bss.parallactic.com/resources/choose-an-open-source-license"]
-"reliability" ->  "ClaimsAboutSoftwareEnginScienceReview.md" [color="purple"];
+"reliability" ->  "ClaimsAboutSoftwareEnginScienceReview.md" [colorscheme="svg" color="purple"];
 "ClaimsAboutSoftwareEnginScienceReview.md" [label="Claims about the use of software engineering practices in science: A systematic literature review", URL="http://bss.parallactic.com/resources/claims-about-the-use-of-software-engineering-practices-in-science-a-systematic-literature-review"]
-"collaboration" ->  "ContributorAgreements.md" [color="slategrey"];
+"collaboration" ->  "ContributorAgreements.md" [colorscheme="svg" color="slategrey"];
 "ContributorAgreements.md" [label="Contributor Agreements" URL="http://bss.parallactic.com/resources/contributor-agreements"]
-"reliability" ->  "CppUnit.md" [color="purple"];
-"development" ->  "CppUnit.md" [color="palegreen"];
+"reliability" ->  "CppUnit.md" [colorscheme="svg" color="purple"];
+"development" ->  "CppUnit.md" [colorscheme="svg" color="palegreen"];
 "CppUnit.md" [label="Cpp Unit" URL="http://bss.parallactic.com/resources/cpp-unit"]
-"planning" ->  "CseCollaborationThroughSoftwareImprovingProductivityAndSustainability.SIAM-CSE17.md" [color="firebrick"];
+"planning" ->  "CseCollaborationThroughSoftwareImprovingProductivityAndSustainability.SIAM-CSE17.md" [colorscheme="svg" color="firebrick"];
 "CseCollaborationThroughSoftwareImprovingProductivityAndSustainability.SIAM-CSE17.md" [label="Training Resources for Software Productivity and Sustainability" URL="http://bss.parallactic.com/resources/training-resources-for-software-productivity-and-sustainability"]
-"reliability" ->  "CseCollaborationThroughSoftwareImprovingProductivityAndSustainability.SIAM-CSE17.md" [color="purple"];
+"reliability" ->  "CseCollaborationThroughSoftwareImprovingProductivityAndSustainability.SIAM-CSE17.md" [colorscheme="svg" color="purple"];
 "CseCollaborationThroughSoftwareImprovingProductivityAndSustainability.SIAM-CSE17.md" [label="Training Resources for Software Productivity and Sustainability" URL="http://bss.parallactic.com/resources/training-resources-for-software-productivity-and-sustainability"]
-"collaboration" ->  "CseCollaborationThroughSoftwareImprovingProductivityAndSustainability.SIAM-CSE17.md" [color="slategrey"];
+"collaboration" ->  "CseCollaborationThroughSoftwareImprovingProductivityAndSustainability.SIAM-CSE17.md" [colorscheme="svg" color="slategrey"];
 "CseCollaborationThroughSoftwareImprovingProductivityAndSustainability.SIAM-CSE17.md" [label="Training Resources for Software Productivity and Sustainability" URL="http://bss.parallactic.com/resources/training-resources-for-software-productivity-and-sustainability"]
-"individual productivity" [color="orange"];
-"individual productivity" ->  "CseCollaborationThroughSoftwareImprovingProductivityAndSustainability.SIAM-CSE17.md" [color="orange"];
+"individual productivity" [colorscheme="svg" color="orange"];
+"individual productivity" ->  "CseCollaborationThroughSoftwareImprovingProductivityAndSustainability.SIAM-CSE17.md" [colorscheme="svg" color="orange"];
 "CseCollaborationThroughSoftwareImprovingProductivityAndSustainability.SIAM-CSE17.md" [label="Training Resources for Software Productivity and Sustainability" URL="http://bss.parallactic.com/resources/training-resources-for-software-productivity-and-sustainability"]
-"reliability" ->  "DistributedVersionControlAndContinuousIntegrationTesting.md" [color="purple"];
+"reliability" ->  "DistributedVersionControlAndContinuousIntegrationTesting.md" [colorscheme="svg" color="purple"];
 "DistributedVersionControlAndContinuousIntegrationTesting.md" [label="Distributed Version Control and Continuous Integration Testing" URL="http://bss.parallactic.com/resources/distributed-version-control-and-continuous-integration-testing"]
-"collaboration" ->  "DistributedVersionControlAndContinuousIntegrationTesting.md" [color="slategrey"];
+"collaboration" ->  "DistributedVersionControlAndContinuousIntegrationTesting.md" [colorscheme="svg" color="slategrey"];
 "DistributedVersionControlAndContinuousIntegrationTesting.md" [label="Distributed Version Control and Continuous Integration Testing" URL="http://bss.parallactic.com/resources/distributed-version-control-and-continuous-integration-testing"]
-"development" ->  "DocumentationTools.Doxygen.md" [color="palegreen"];
+"development" ->  "DocumentationTools.Doxygen.md" [colorscheme="svg" color="palegreen"];
 "DocumentationTools.Doxygen.md" [label="Kitchen-sink resource test" URL="http://bss.parallactic.com/resources/kitchen-sink-resource-test"]
-"development" ->  "DocumentationTools.ReadTheDocs.md" [color="palegreen"];
+"development" ->  "DocumentationTools.ReadTheDocs.md" [colorscheme="svg" color="palegreen"];
 "DocumentationTools.ReadTheDocs.md" [label="Kitchen-sink resource test" URL="http://bss.parallactic.com/resources/kitchen-sink-resource-test"]
-"development" ->  "DocumentationTools.Sphinx.md" [color="palegreen"];
+"development" ->  "DocumentationTools.Sphinx.md" [colorscheme="svg" color="palegreen"];
 "DocumentationTools.Sphinx.md" [label="Kitchen-sink resource test" URL="http://bss.parallactic.com/resources/kitchen-sink-resource-test"]
-"development" ->  "DocumentationTools.md" [color="palegreen"];
+"development" ->  "DocumentationTools.md" [colorscheme="svg" color="palegreen"];
 "DocumentationTools.md" [label="Documentation Tools" URL="http://bss.parallactic.com/resources/documentation-tools"]
-"collaboration" ->  "FORCE11SoftwareCitationImplementationWorkingGroup.md" [color="slategrey"];
+"collaboration" ->  "FORCE11SoftwareCitationImplementationWorkingGroup.md" [colorscheme="svg" color="slategrey"];
 "FORCE11SoftwareCitationImplementationWorkingGroup.md" [label="FORCE11 Software Citation Implementation Working Group" URL="http://bss.parallactic.com/resources/force11-software-citation-implementation-working-group"]
-"collaboration" ->  "FSFLicensingAndComplianceTeam.md" [color="slategrey"];
+"collaboration" ->  "FSFLicensingAndComplianceTeam.md" [colorscheme="svg" color="slategrey"];
 "FSFLicensingAndComplianceTeam.md" [label="Free Software Foundation Licensing & Compliance Team" URL="http://bss.parallactic.com/resources/free-software-foundation-licensing-compliance-team"]
-"collaboration" ->  "FellowshipProgrammeSoftwareSustainabilityInstituteUK.md" [color="slategrey"];
+"collaboration" ->  "FellowshipProgrammeSoftwareSustainabilityInstituteUK.md" [colorscheme="svg" color="slategrey"];
 "FellowshipProgrammeSoftwareSustainabilityInstituteUK.md" [label="Fellowship Programme — Software Sustainability Institute (Uk)" URL="http://bss.parallactic.com/resources/fellowship-programme-software-sustainability-institute-uk"]
-"development" ->  "GettingGitRight.md" [color="palegreen"];
+"development" ->  "GettingGitRight.md" [colorscheme="svg" color="palegreen"];
 "GettingGitRight.md" [label="Getting Git Right" URL="http://bss.parallactic.com/resources/getting-git-right"]
-"development" ->  "GitHub.md" [color="palegreen"];
+"development" ->  "GitHub.md" [colorscheme="svg" color="palegreen"];
 "GitHub.md" [label="GitHub" URL="http://bss.parallactic.com/resources/git-hub"]
-"development" ->  "GitTutorialAndReferenceCollection.md" [color="palegreen"];
+"development" ->  "GitTutorialAndReferenceCollection.md" [colorscheme="svg" color="palegreen"];
 "GitTutorialAndReferenceCollection.md" [label="Git Tutorial and Reference Collection" URL="http://bss.parallactic.com/resources/git-tutorial-and-reference-collection"]
-"collaboration" ->  "GoogleHiPerfTeams.md" [color="slategrey"];
+"collaboration" ->  "GoogleHiPerfTeams.md" [colorscheme="svg" color="slategrey"];
 "GoogleHiPerfTeams.md" [label="High Performing Teams at Google" URL="http://bss.parallactic.com/resources/high-performing-teams-at-google"]
-"collaboration" ->  "HerouxATPESC2016.md" [color="slategrey"];
-"reliability" ->  "HerouxATPESC2016.md" [color="purple"];
+"collaboration" ->  "HerouxATPESC2016.md" [colorscheme="svg" color="slategrey"];
+"reliability" ->  "HerouxATPESC2016.md" [colorscheme="svg" color="purple"];
 "HerouxATPESC2016.md" [label="HPC Complete: Reproducible, Sustainable, Productive" URL="http://bss.parallactic.com/resources/hpc-complete-reproducible-sustainable-productive"]
-"development" ->  "HowToConfigureSw.md" [color="palegreen"];
+"development" ->  "HowToConfigureSw.md" [colorscheme="svg" color="palegreen"];
 "HowToConfigureSw.md" [label="How to Configure Software" URL="http://bss.parallactic.com/resources/how-to-configure-software"]
-"development" ->  "HowToDoVersionControlWithGitInYourCseProject.md" [color="palegreen"];
+"development" ->  "HowToDoVersionControlWithGitInYourCseProject.md" [colorscheme="svg" color="palegreen"];
 "HowToDoVersionControlWithGitInYourCseProject.md" [label="How to do Version Control with Git in your CSE Project" URL="http://bss.parallactic.com/resources/how-to-do-version-control-with-git-in-your-cse-project"]
-"performance" ->  "HowToEnablePerfPortabilityForCseApps.md" [color="lawngreen"];
+"performance" ->  "HowToEnablePerfPortabilityForCseApps.md" [colorscheme="svg" color="lawngreen"];
 "HowToEnablePerfPortabilityForCseApps.md" [label="How to Enable Performance Portability for CSE Applications?" URL="http://bss.parallactic.com/resources/how-to-enable-performance-portability-for-cse-applications?"]
-"performance" ->  "HowToEstimateOperationalIntensity.md" [color="lawngreen"];
+"performance" ->  "HowToEstimateOperationalIntensity.md" [colorscheme="svg" color="lawngreen"];
 "HowToEstimateOperationalIntensity.md" [label="How to estimate operational intensity" URL="http://bss.parallactic.com/resources/how-to-estimate-operational-intensity"]
-"reliability" ->  "HowToImproveTestingForCseSw.md" [color="purple"];
+"reliability" ->  "HowToImproveTestingForCseSw.md" [colorscheme="svg" color="purple"];
 "HowToImproveTestingForCseSw.md" [label="How to Improve Testing for CSE Software" URL="http://bss.parallactic.com/resources/how-to-improve-testing-for-cse-software"]
-"collaboration" ->  "HowToPublishCseSw.md" [color="slategrey"];
+"collaboration" ->  "HowToPublishCseSw.md" [colorscheme="svg" color="slategrey"];
 "HowToPublishCseSw.md" [label="How to Publish CSE Software" URL="http://bss.parallactic.com/resources/how-to-publish-cse-software"]
-"development" ->  "HowToWriteGoodDocumentation.md" [color="palegreen"];
+"development" ->  "HowToWriteGoodDocumentation.md" [colorscheme="svg" color="palegreen"];
 "HowToWriteGoodDocumentation.md" [label="How to Write Good Documentation for CSE Software" URL="http://bss.parallactic.com/resources/how-to-write-good-documentation-for-cse-software"]
-"collaboration" ->  "IDEASSoftwareProductivityProject.md" [color="slategrey"];
+"collaboration" ->  "IDEASSoftwareProductivityProject.md" [colorscheme="svg" color="slategrey"];
 "IDEASSoftwareProductivityProject.md" [label="IDEAS Software Productivity Project" URL="http://bss.parallactic.com/resources/ideas-software-productivity-project"]
-"collaboration" ->  "IntroToSoftwareLicensing.md" [color="slategrey"];
+"collaboration" ->  "IntroToSoftwareLicensing.md" [colorscheme="svg" color="slategrey"];
 "IntroToSoftwareLicensing.md" [label="An Introduction to Software Licensing" URL="http://bss.parallactic.com/resources/an-introduction-to-software-licensing"]
-"development" ->  "ItWillNeverWorkInTheory.md" [color="palegreen"];
+"development" ->  "ItWillNeverWorkInTheory.md" [colorscheme="svg" color="palegreen"];
 "ItWillNeverWorkInTheory.md" [label="It Will Never Work in Theory" URL="http://bss.parallactic.com/resources/it-will-never-work-in-theory"]
-"reliability" ->  "JenkinsCI.md" [color="purple"];
+"reliability" ->  "JenkinsCI.md" [colorscheme="svg" color="purple"];
 "JenkinsCI.md" [label="Jenkins Continuous Integration" URL="http://bss.parallactic.com/resources/jenkins-continuous-integration"]
-"development" ->  "JenkinsCI.md" [color="palegreen"];
+"development" ->  "JenkinsCI.md" [colorscheme="svg" color="palegreen"];
 "JenkinsCI.md" [label="Jenkins Continuous Integration" URL="http://bss.parallactic.com/resources/jenkins-continuous-integration"]
-"development" ->  "KlinvexATPESC2016.md" [color="palegreen"];
+"development" ->  "KlinvexATPESC2016.md" [colorscheme="svg" color="palegreen"];
 "KlinvexATPESC2016.md" [label="Documenting Your Code" URL="http://bss.parallactic.com/resources/documenting-your-code"]
-"development" ->  "MethodsAndToolsEditor.md" [color="palegreen"];
+"development" ->  "MethodsAndToolsEditor.md" [colorscheme="svg" color="palegreen"];
 "MethodsAndToolsEditor.md" [label="Methods & Tools Editor" URL="http://bss.parallactic.com/resources/methods-tools-editor"]
-"collaboration" ->  "OSSSustainabilityResources.md" [color="slategrey"];
+"collaboration" ->  "OSSSustainabilityResources.md" [colorscheme="svg" color="slategrey"];
 "OSSSustainabilityResources.md" [label="Sustaining Open Source Software" URL="http://bss.parallactic.com/resources/sustaining-open-source-software"]
-"planning" ->  "OSSSustainabilityResources.md" [color="firebrick"];
+"planning" ->  "OSSSustainabilityResources.md" [colorscheme="svg" color="firebrick"];
 "OSSSustainabilityResources.md" [label="Sustaining Open Source Software" URL="http://bss.parallactic.com/resources/sustaining-open-source-software"]
-"collaboration" ->  "OpenSourceInitiative.md" [color="slategrey"];
+"collaboration" ->  "OpenSourceInitiative.md" [colorscheme="svg" color="slategrey"];
 "OpenSourceInitiative.md" [label="Open Source Initiative" URL="http://bss.parallactic.com/resources/open-source-initiative"]
-"specify 1 or more categories" [color="rosybrown"];
-"specify 1 or more categories" ->  "ResourceTemplate.AggregateBase.md" [color="rosybrown"];
+"specify 1 or more categories" [colorscheme="svg" color="rosybrown"];
+"specify 1 or more categories" ->  "ResourceTemplate.AggregateBase.md" [colorscheme="svg" color="rosybrown"];
 "ResourceTemplate.AggregateBase.md" [label="Resource Template: Aggregate Base", URL="http://bss.parallactic.com/resources/resource-template-aggregate-base"]
-"specify 1 or more categories" ->  "ResourceTemplate.AggregateSubresource.md" [color="rosybrown"];
+"specify 1 or more categories" ->  "ResourceTemplate.AggregateSubresource.md" [colorscheme="svg" color="rosybrown"];
 "ResourceTemplate.AggregateSubresource.md" [label="Resource Template: Aggregate Subresource" URL="http://bss.parallactic.com/resources/resource-template-aggregate-subresource"]
-"specify 1 or more categories" ->  "ResourceTemplate.Basic.md" [color="rosybrown"];
+"specify 1 or more categories" ->  "ResourceTemplate.Basic.md" [colorscheme="svg" color="rosybrown"];
 "ResourceTemplate.Basic.md" [label="Resource Template" URL="http://bss.parallactic.com/resources/resource-template"]
-"reliability" ->  "SoftwareDevelopmentPracticesInAcademiaACaseStudyComparison.md" [color="purple"];
+"reliability" ->  "SoftwareDevelopmentPracticesInAcademiaACaseStudyComparison.md" [colorscheme="svg" color="purple"];
 "SoftwareDevelopmentPracticesInAcademiaACaseStudyComparison.md" [label="Software Development Practices In Academia: A Case Study Comparison", URL="http://bss.parallactic.com/resources/software-development-practices-in-academia-a-case-study-comparison"]
-"collaboration" ->  "SoftwareInfrastructureForSustainedInnovationSI2NationalScienceFoundationUS.md" [color="slategrey"];
+"collaboration" ->  "SoftwareInfrastructureForSustainedInnovationSI2NationalScienceFoundationUS.md" [colorscheme="svg" color="slategrey"];
 "SoftwareInfrastructureForSustainedInnovationSI2NationalScienceFoundationUS.md" [label="Software Infrastructure For Sustained Innovation (Si2) — National Science Foundation (Us)" URL="http://bss.parallactic.com/resources/software-infrastructure-for-sustained-innovation-si2-national-science-foundation-us"]
-"collaboration" ->  "SoftwareSustainabilityInstitute.md" [color="slategrey"];
+"collaboration" ->  "SoftwareSustainabilityInstitute.md" [colorscheme="svg" color="slategrey"];
 "SoftwareSustainabilityInstitute.md" [label="Software Sustainability Institute" URL="http://bss.parallactic.com/resources/software-sustainability-institute"]
-"collaboration" ->  "SwEngForComputationalScienceWorkshopSeries.md" [color="slategrey"];
+"collaboration" ->  "SwEngForComputationalScienceWorkshopSeries.md" [colorscheme="svg" color="slategrey"];
 "SwEngForComputationalScienceWorkshopSeries.md" [label="Software Engineering for Computational Science Workshop Series" URL="http://bss.parallactic.com/resources/software-engineering-for-computational-science-workshop-series"]
-"planning" ->  "SwProductivityAndSustainabilityForCseAndDataScience.SIAM-CSE17.md" [color="firebrick"];
-"reliability" ->  "SwProductivityAndSustainabilityForCseAndDataScience.SIAM-CSE17.md" [color="purple"];
-"collaboration" ->  "SwProductivityAndSustainabilityForCseAndDataScience.SIAM-CSE17.md" [color="slategrey"];
-"performance" ->  "SwProductivityAndSustainabilityForCseAndDataScience.SIAM-CSE17.md" [color="lawngreen"];
+"planning" ->  "SwProductivityAndSustainabilityForCseAndDataScience.SIAM-CSE17.md" [colorscheme="svg" color="firebrick"];
+"reliability" ->  "SwProductivityAndSustainabilityForCseAndDataScience.SIAM-CSE17.md" [colorscheme="svg" color="purple"];
+"collaboration" ->  "SwProductivityAndSustainabilityForCseAndDataScience.SIAM-CSE17.md" [colorscheme="svg" color="slategrey"];
+"performance" ->  "SwProductivityAndSustainabilityForCseAndDataScience.SIAM-CSE17.md" [colorscheme="svg" color="lawngreen"];
 "SwProductivityAndSustainabilityForCseAndDataScience.SIAM-CSE17.md" [label="Software Productivity And Sustainability For Cse And Data Science" URL="http://bss.parallactic.com/events/siam-conference-on-computational-science-and-engineering-cse17 "]
-"reliability" ->  "SwTestingTutorialTutorialsPoint.md" [color="purple"];
+"reliability" ->  "SwTestingTutorialTutorialsPoint.md" [colorscheme="svg" color="purple"];
 "SwTestingTutorialTutorialsPoint.md" [label="Software Testing Tutorial (Tutorials Point)" URL="http://bss.parallactic.com/resources/software-testing-tutorial-tutorials-point"]
-"skills" ->  "SwTestingTutorialTutorialsPoint.md" [color="teal"];
-"reliability" ->  "SwTestingTutorials.Cse.md" [color="purple"];
+"skills" ->  "SwTestingTutorialTutorialsPoint.md" [colorscheme="svg" color="teal"];
+"reliability" ->  "SwTestingTutorials.Cse.md" [colorscheme="svg" color="purple"];
 "SwTestingTutorials.Cse.md" [label="Software Testing Tutorials" URL="http://bss.parallactic.com/resources/software-testing-tutorials"]
-"reliability" ->  "SwTestingTutorials.General.md" [color="purple"];
+"reliability" ->  "SwTestingTutorials.General.md" [colorscheme="svg" color="purple"];
 "SwTestingTutorials.General.md" [label="Software Testing Tutorials" URL="http://bss.parallactic.com/resources/software-testing-tutorials"]
-"reliability" ->  "SwTestingTutorials.md" [color="purple"];
+"reliability" ->  "SwTestingTutorials.md" [colorscheme="svg" color="purple"];
 "SwTestingTutorials.md" [label="Software Testing Tutorials" URL="http://bss.parallactic.com/resources/software-testing-tutorials"]
-"reliability" ->  "SwTestingUdacity.md" [color="purple"];
-"skills" ->  "SwTestingUdacity.md" [color="teal"];
+"reliability" ->  "SwTestingUdacity.md" [colorscheme="svg" color="purple"];
+"skills" ->  "SwTestingUdacity.md" [colorscheme="svg" color="teal"];
 "SwTestingUdacity.md" [label="Software Testing: How To Make Software Fail (Udacity)" URL="http://bss.parallactic.com/resources/software-testing-how-to-make-software-fail-udacity"]
-"reliability" ->  "TestDrivenDevptInScientificSwASurvey.md" [color="purple"];
+"reliability" ->  "TestDrivenDevptInScientificSwASurvey.md" [colorscheme="svg" color="purple"];
 "TestDrivenDevptInScientificSwASurvey.md" [label="Test Driven Development In Scientific Software: A Survey" URL="http://bss.parallactic.com/resources/test-driven-development-in-scientific-software-a-survey"]
-"collaboration" ->  "TestImages.md" [color="slategrey"];
+"collaboration" ->  "TestImages.md" [colorscheme="svg" color="slategrey"];
 "TestImages.md" [label="Test With Images" URL="http://bss.parallactic.com/resources/test-with-images"]
-"collaboration" ->  "TestImages2.md" [color="slategrey"];
+"collaboration" ->  "TestImages2.md" [colorscheme="svg" color="slategrey"];
 "TestImages2.md" [label="Test With Images 2\n" URL="http://bss.parallactic.com/resources/test-with-images-2 "]
-"reliability" ->  "TestingAndDocumentingCode.md" [color="purple"];
+"reliability" ->  "TestingAndDocumentingCode.md" [colorscheme="svg" color="purple"];
 "TestingAndDocumentingCode.md" [label="Testing and Documenting Code" URL="http://bss.parallactic.com/resources/testing-and-documenting-code"]
-"development" ->  "TestingAndDocumentingCode.md" [color="palegreen"];
+"development" ->  "TestingAndDocumentingCode.md" [colorscheme="svg" color="palegreen"];
 "TestingAndDocumentingCode.md" [label="Testing and Documenting Code" URL="http://bss.parallactic.com/resources/testing-and-documenting-code"]
-"planning" ->  "Training.ProductivityAndSustainability.md" [color="firebrick"];
+"planning" ->  "Training.ProductivityAndSustainability.md" [colorscheme="svg" color="firebrick"];
 "Training.ProductivityAndSustainability.md" [label="Training Resources for Software Productivity and Sustainability" URL="http://bss.parallactic.com/resources/training-resources-for-software-productivity-and-sustainability"]
-"reliability" ->  "Training.ProductivityAndSustainability.md" [color="purple"];
+"reliability" ->  "Training.ProductivityAndSustainability.md" [colorscheme="svg" color="purple"];
 "Training.ProductivityAndSustainability.md" [label="Training Resources for Software Productivity and Sustainability" URL="http://bss.parallactic.com/resources/training-resources-for-software-productivity-and-sustainability"]
-"collaboration" ->  "Training.ProductivityAndSustainability.md" [color="slategrey"];
+"collaboration" ->  "Training.ProductivityAndSustainability.md" [colorscheme="svg" color="slategrey"];
 "Training.ProductivityAndSustainability.md" [label="Training Resources for Software Productivity and Sustainability" URL="http://bss.parallactic.com/resources/training-resources-for-software-productivity-and-sustainability"]
-"performance" ->  "Training.ProductivityAndSustainability.md" [color="lawngreen"];
+"performance" ->  "Training.ProductivityAndSustainability.md" [colorscheme="svg" color="lawngreen"];
 "Training.ProductivityAndSustainability.md" [label="Training Resources for Software Productivity and Sustainability" URL="http://bss.parallactic.com/resources/training-resources-for-software-productivity-and-sustainability"]
-"skills" ->  "Training.ProductivityAndSustainability.md" [color="teal"];
+"skills" ->  "Training.ProductivityAndSustainability.md" [colorscheme="svg" color="teal"];
 "Training.ProductivityAndSustainability.md" [label="Training Resources for Software Productivity and Sustainability" URL="http://bss.parallactic.com/resources/training-resources-for-software-productivity-and-sustainability"]
-"reliability" ->  "WhatAreSwCodingStandards.md" [color="purple"];
+"reliability" ->  "WhatAreSwCodingStandards.md" [colorscheme="svg" color="purple"];
 "WhatAreSwCodingStandards.md" [label="What are software coding standards?" URL="http://bss.parallactic.com/resources/what-are-software-coding-standards?"]
-"reliability" ->  "WhatIsCseSwTesting.md" [color="purple"];
+"reliability" ->  "WhatIsCseSwTesting.md" [colorscheme="svg" color="purple"];
 "WhatIsCseSwTesting.md" [label="What is CSE Software Testing?" URL="http://bss.parallactic.com/resources/what-is-cse-software-testing?"]
-"development" ->  "WhatIsGoodDocumentation.md" [color="palegreen"];
+"development" ->  "WhatIsGoodDocumentation.md" [colorscheme="svg" color="palegreen"];
 "WhatIsGoodDocumentation.md" [label="What is Good Documentation for CSE Software" URL="http://bss.parallactic.com/resources/what-is-good-documentation-for-cse-software"]
-"performance" ->  "WhatIsPerfPortabilityForCseApps.md" [color="lawngreen"];
+"performance" ->  "WhatIsPerfPortabilityForCseApps.md" [colorscheme="svg" color="lawngreen"];
 "WhatIsPerfPortabilityForCseApps.md" [label="What is Performance Portability for CSE Applications?" URL="http://bss.parallactic.com/resources/what-is-performance-portability-for-cse-applications?"]
-"development" ->  "WhatIsSwConfiguration.md" [color="palegreen"];
+"development" ->  "WhatIsSwConfiguration.md" [colorscheme="svg" color="palegreen"];
 "WhatIsSwConfiguration.md" [label="What is Software Configuration?" URL="http://bss.parallactic.com/resources/what-is-software-configuration?"]
-"development" ->  "WhatIsVersionControl.md" [color="palegreen"];
+"development" ->  "WhatIsVersionControl.md" [colorscheme="svg" color="palegreen"];
 "WhatIsVersionControl.md" [label="What is Version Control?" URL="http://bss.parallactic.com/resources/what-is-version-control?"]
-"collaborations" [color="seagreen"];
-"collaborations" ->  "Zenodo.md" [color="seagreen"];
+"collaborations" [colorscheme="svg" color="seagreen"];
+"collaborations" ->  "Zenodo.md" [colorscheme="svg" color="seagreen"];
 "Zenodo.md" [label="Zenodo" URL="http://bss.parallactic.com/resources/zenodo"]
-"development" ->  "kitchen-sink-TEST.md" [color="palegreen"];
-"kitchen-sink-TEST.md" [label="Kitchen-sink resource test" URL="http://bss.parallactic.com/resources/kitchen-sink-resource-test"]"planning" ->  "Conference.SC17.md" [color="firebrick"];
+"development" ->  "kitchen-sink-TEST.md" [colorscheme="svg" color="palegreen"];
+"kitchen-sink-TEST.md" [label="Kitchen-sink resource test" URL="http://bss.parallactic.com/resources/kitchen-sink-resource-test"]"planning" ->  "Conference.SC17.md" [colorscheme="svg" color="firebrick"];
 "Conference.SC17.md" [label="SC17" URL="http://bss.parallactic.com/resources/sc17"]
-"crosscutting" ->  "Conference.SC17.md" [color="fuchsia"];
+"crosscutting" ->  "Conference.SC17.md" [colorscheme="svg" color="fuchsia"];
 "Conference.SC17.md" [label="SC17" URL="http://bss.parallactic.com/resources/sc17"]
-"crosscutting" ->  "Conference.SIAM-CSE17.md" [color="fuchsia"];
-"individual productivity" ->  "Conference.SIAM-CSE17.md" [color="orange"];
-"planning" ->  "Conference.SIAM-CSE17.md" [color="firebrick"];
-"collaboration" ->  "Conference.SIAM-CSE17.md" [color="slategrey"];
-"reliability" ->  "Conference.SIAM-CSE17.md" [color="purple"];
+"crosscutting" ->  "Conference.SIAM-CSE17.md" [colorscheme="svg" color="fuchsia"];
+"individual productivity" ->  "Conference.SIAM-CSE17.md" [colorscheme="svg" color="orange"];
+"planning" ->  "Conference.SIAM-CSE17.md" [colorscheme="svg" color="firebrick"];
+"collaboration" ->  "Conference.SIAM-CSE17.md" [colorscheme="svg" color="slategrey"];
+"reliability" ->  "Conference.SIAM-CSE17.md" [colorscheme="svg" color="purple"];
 "Conference.SIAM-CSE17.md" [label="SIAM Conference On Computational Science And Engineering" URL="http://bss.parallactic.com/events/siam-conference-on-computational-science-and-engineering-cse17 "]
-"planning" ->  "Conference.ScientificSoftwareDays17.md" [color="firebrick"];
+"planning" ->  "Conference.ScientificSoftwareDays17.md" [colorscheme="svg" color="firebrick"];
 "Conference.ScientificSoftwareDays17.md" [label="8th Annual Scientific Software Days" URL="http://bss.parallactic.com/resources/8th-annual-scientific-software-days"]
-"crosscutting" ->  "Conference.ScientificSoftwareDays17.md" [color="fuchsia"];
+"crosscutting" ->  "Conference.ScientificSoftwareDays17.md" [colorscheme="svg" color="fuchsia"];
 "Conference.ScientificSoftwareDays17.md" [label="8th Annual Scientific Software Days" URL="http://bss.parallactic.com/resources/8th-annual-scientific-software-days"]
-"planning" ->  "WSSSPE5.1.md" [color="firebrick"];
-"crosscutting" ->  "WSSSPE5.1.md" [color="fuchsia"];
+"planning" ->  "WSSSPE5.1.md" [colorscheme="svg" color="firebrick"];
+"crosscutting" ->  "WSSSPE5.1.md" [colorscheme="svg" color="fuchsia"];
 "WSSSPE5.1.md" [label="Wssspe5.1\n" URL="http://bss.parallactic.com/events/wssspe5-1"];
-"planning" ->  "WSSSPE5.2.md" [color="firebrick"];
-"crosscutting" ->  "WSSSPE5.2.md" [color="fuchsia"];
+"planning" ->  "WSSSPE5.2.md" [colorscheme="svg" color="firebrick"];
+"crosscutting" ->  "WSSSPE5.2.md" [colorscheme="svg" color="fuchsia"];
 "WSSSPE5.2.md" [label="Wssspe5.2\n" URL="http://bss.parallactic.com/events/wssspe5-2 "];
-"planning" ->  "Workshop.SE4Science17.md" [color="firebrick"];
+"planning" ->  "Workshop.SE4Science17.md" [colorscheme="svg" color="firebrick"];
 "Workshop.SE4Science17.md" [label="2017 International Workshop on Software Engineering for Science" URL="http://bss.parallactic.com/resources/2017-international-workshop-on-software-engineering-for-science"]
-"crosscutting" ->  "Workshop.SE4Science17.md" [color="fuchsia"];
+"crosscutting" ->  "Workshop.SE4Science17.md" [colorscheme="svg" color="fuchsia"];
 "Workshop.SE4Science17.md" [label="2017 International Workshop on Software Engineering for Science" URL="http://bss.parallactic.com/resources/2017-international-workshop-on-software-engineering-for-science"]}
