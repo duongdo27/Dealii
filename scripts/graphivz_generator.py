@@ -52,6 +52,8 @@ class CommentReader(object):
                     data["Categories"] = [x.strip() for x in line.split(":")[1].split(",")]
                 elif line.startswith("Topics"):
                     data["Topics"] = [x.strip() for x in line.split(":")[1].split(",")]
+                elif line.startswith("Tags"):
+                    data["Tags"] = [x.strip() for x in line.split(":")[1].split(",")]
                 elif line.startswith("Level"):
                     data["Level"] = line.split(":")[1].strip()
 
@@ -189,12 +191,14 @@ def graphiz_generator():
     # ColorPicker(color_filename).run()
     # CommentReader(data_filename, link_filename).run()
 
+    #GraphGenerator(data_filename, color_filename, link_filename,
+    #               "topics.dot", "Topics").run()
+    #GraphGenerator(data_filename, color_filename, link_filename,
+    #               "categories.dot", "Categories").run()
     GraphGenerator(data_filename, color_filename, link_filename,
-                   "topics.dot", "Topics").run()
-    GraphGenerator(data_filename, color_filename, link_filename,
-                   "categories.dot", "Categories").run()
-    GraphGenerator(data_filename, color_filename, link_filename,
-                   "levels.dot", "Level").run()
+                   "tags.dot", "Tags").run()
+    #GraphGenerator(data_filename, color_filename, link_filename,
+    #               "levels.dot", "Level").run()
 
 
 if __name__ == '__main__':
