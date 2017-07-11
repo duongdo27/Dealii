@@ -1,6 +1,6 @@
 var NAVTREE =
 [
-  [ "My Project", "index.html", [
+  [ "Better Scientific Software", "index.html", [
     [ "Category", "md_markdown_category.html", null ],
     [ "file1", "md_markdown_file1.html", null ],
     [ "file2", "md_markdown_file2.html", null ],
