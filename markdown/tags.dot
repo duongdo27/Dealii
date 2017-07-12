@@ -220,9 +220,9 @@ digraph bettersoftware {
 "SwTestingTutorialTutorialsPoint.md" [label="Software Testing Tutorial (Tutorials Point)" URL="http://bss.parallactic.com/resources/software-testing-tutorial-tutorials-point"]
 "[inport from subresources]" [colorscheme="svg" color="aquamarine"];
 "[inport from subresources]" ->  "SwTestingTutorials.Cse.md" [colorscheme="svg" color="aquamarine"];
-"SwTestingTutorials.Cse.md" [label="Software Testing Tutorials" URL="http://bss.parallactic.com/resources/software-testing-tutorials"]
+"SwTestingTutorials.Cse.md" [label="CSE Software Testing Tutorials" URL="http://bss.parallactic.com/resources/software-testing-tutorials"]
 "[import from subresources]" ->  "SwTestingTutorials.General.md" [colorscheme="svg" color="peachpuff"];
-"SwTestingTutorials.General.md" [label="Software Testing Tutorials" URL="http://bss.parallactic.com/resources/software-testing-tutorials"]
+"SwTestingTutorials.General.md" [label="General Software Testing Tutorials" URL="http://bss.parallactic.com/resources/software-testing-tutorials"]
 "[import from subresources]" ->  "SwTestingTutorials.md" [colorscheme="svg" color="peachpuff"];
 "SwTestingTutorials.md" [label="Software Testing Tutorials" URL="http://bss.parallactic.com/resources/software-testing-tutorials"]
 "training" ->  "SwTestingUdacity.md" [colorscheme="svg" color="lightcoral"];
