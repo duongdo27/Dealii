@@ -1,0 +1,19 @@
+digraph bettersoftware {
+            rankdir = LR;
+            ratio = fill;
+            node [style=filled];
+            node [shape = box];
+"0" [colorscheme="svg" color="yellow"];
+"0" ->  "WhatAreSwCodingStandards.md" [colorscheme="svg" color="yellow"];
+"WhatAreSwCodingStandards.md" [label="What are software coding standards?" URL="http://bss.parallactic.com/resources/what-are-software-coding-standards?"]
+"0" ->  "WhatIsCseSwTesting.md" [colorscheme="svg" color="yellow"];
+"WhatIsCseSwTesting.md" [label="What is CSE Software Testing?" URL="http://bss.parallactic.com/resources/what-is-cse-software-testing?"]
+"0" ->  "WhatIsGoodDocumentation.md" [colorscheme="svg" color="yellow"];
+"WhatIsGoodDocumentation.md" [label="What is Good Documentation for CSE Software" URL="http://bss.parallactic.com/resources/what-is-good-documentation-for-cse-software"]
+"0" ->  "WhatIsPerfPortabilityForCseApps.md" [colorscheme="svg" color="yellow"];
+"WhatIsPerfPortabilityForCseApps.md" [label="What is Performance Portability for CSE Applications?" URL="http://bss.parallactic.com/resources/what-is-performance-portability-for-cse-applications?"]
+"0" ->  "WhatIsSwConfiguration.md" [colorscheme="svg" color="yellow"];
+"WhatIsSwConfiguration.md" [label="What is Software Configuration?" URL="http://bss.parallactic.com/resources/what-is-software-configuration?"]
+"0" ->  "WhatIsVersionControl.md" [colorscheme="svg" color="yellow"];
+"WhatIsVersionControl.md" [label="What is Version Control?" URL="http://bss.parallactic.com/resources/what-is-version-control?"]
+}

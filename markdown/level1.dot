@@ -1,0 +1,15 @@
+digraph bettersoftware {
+            rankdir = LR;
+            ratio = fill;
+            node [style=filled];
+            node [shape = box];
+"1" [colorscheme="svg" color="mediumslateblue"];
+"1" ->  "HowToConfigureSw.md" [colorscheme="svg" color="mediumslateblue"];
+"HowToConfigureSw.md" [label="How to Configure Software" URL="http://bss.parallactic.com/resources/how-to-configure-software"]
+"1" ->  "HowToEnablePerfPortabilityForCseApps.md" [colorscheme="svg" color="mediumslateblue"];
+"HowToEnablePerfPortabilityForCseApps.md" [label="How to Enable Performance Portability for CSE Applications?" URL="http://bss.parallactic.com/resources/how-to-enable-performance-portability-for-cse-applications?"]
+"1" ->  "HowToImproveTestingForCseSw.md" [colorscheme="svg" color="mediumslateblue"];
+"HowToImproveTestingForCseSw.md" [label="How to Improve Testing for CSE Software" URL="http://bss.parallactic.com/resources/how-to-improve-testing-for-cse-software"]
+"1" ->  "HowToWriteGoodDocumentation.md" [colorscheme="svg" color="mediumslateblue"];
+"HowToWriteGoodDocumentation.md" [label="How to Write Good Documentation for CSE Software" URL="http://bss.parallactic.com/resources/how-to-write-good-documentation-for-cse-software"]
+}
