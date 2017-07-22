@@ -3,7 +3,7 @@ digraph bettersoftware {
             ratio = fill;
             node [style=filled];
             node [shape = box];
-"2" [colorscheme="svg" color="orangered"];
+"2" [colorscheme="svg" color="orangered" URL="md_markdown_level2.html"];
 "2" ->  "BlogArticleSkeletonA.md" [colorscheme="svg" color="orangered"];
 "BlogArticleSkeletonA.md" [label="Insightful blog article on topic A" URL="http://bss.parallactic.com/resources/insightful-blog-article-on-topic-a"]
 "2" ->  "BlogArticleSkeletonB.md" [colorscheme="svg" color="orangered"];
@@ -60,7 +60,7 @@ digraph bettersoftware {
 "GoogleHiPerfTeams.md" [label="High Performing Teams at Google" URL="http://bss.parallactic.com/resources/high-performing-teams-at-google"]
 "2" ->  "HerouxATPESC2016.md" [colorscheme="svg" color="orangered"];
 "HerouxATPESC2016.md" [label="HPC Complete: Reproducible, Sustainable, Productive" URL="http://bss.parallactic.com/resources/hpc-complete-reproducible-sustainable-productive"]
-"1" [colorscheme="svg" color="mediumslateblue"];
+"1" [colorscheme="svg" color="mediumslateblue" URL="md_markdown_level1.html"];
 "1" ->  "HowToConfigureSw.md" [colorscheme="svg" color="mediumslateblue"];
 "HowToConfigureSw.md" [label="How to Configure Software" URL="http://bss.parallactic.com/resources/how-to-configure-software"]
 "2" ->  "HowToDoVersionControlWithGitInYourCseProject.md" [colorscheme="svg" color="orangered"];
@@ -90,7 +90,8 @@ digraph bettersoftware {
 "2" ->  "OSSSustainabilityResources.md" [colorscheme="svg" color="orangered"];
 "OSSSustainabilityResources.md" [label="Sustaining Open Source Software" URL="http://bss.parallactic.com/resources/sustaining-open-source-software"]
 "2" ->  "OpenSourceInitiative.md" [colorscheme="svg" color="orangered"];
-"OpenSourceInitiative.md" [label="Open Source Initiative" URL="http://bss.parallactic.com/resources/open-source-initiative"]"specify level of content" [colorscheme="svg" color="lawngreen"];
+"OpenSourceInitiative.md" [label="Open Source Initiative" URL="http://bss.parallactic.com/resources/open-source-initiative"]
+"specify level of content" [colorscheme="svg" color="lawngreen" URL="md_markdown_level_specify level of content.html"];
 "specify level of content" ->  "ResourceTemplate.AggregateBase.md" [colorscheme="svg" color="lawngreen"];
 "ResourceTemplate.AggregateBase.md" [label="Resource Template: Aggregate Base", URL="http://bss.parallactic.com/resources/resource-template-aggregate-base"]
 "specify level of content" ->  "ResourceTemplate.AggregateSubresource.md" [colorscheme="svg" color="lawngreen"];
@@ -127,7 +128,7 @@ digraph bettersoftware {
 "TestingAndDocumentingCode.md" [label="Testing and Documenting Code" URL="http://bss.parallactic.com/resources/testing-and-documenting-code"]
 "2" ->  "Training.ProductivityAndSustainability.md" [colorscheme="svg" color="orangered"];
 "Training.ProductivityAndSustainability.md" [label="Training Resources for Software Productivity and Sustainability" URL="http://bss.parallactic.com/resources/training-resources-for-software-productivity-and-sustainability"]
-"0" [colorscheme="svg" color="yellow"];
+"0" [colorscheme="svg" color="yellow" URL="md_markdown_level0.html"];
 "0" ->  "WhatAreSwCodingStandards.md" [colorscheme="svg" color="yellow"];
 "WhatAreSwCodingStandards.md" [label="What are software coding standards?" URL="http://bss.parallactic.com/resources/what-are-software-coding-standards?"]
 "0" ->  "WhatIsCseSwTesting.md" [colorscheme="svg" color="yellow"];
