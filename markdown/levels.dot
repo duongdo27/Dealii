@@ -91,7 +91,7 @@ digraph bettersoftware {
 "OSSSustainabilityResources.md" [label="Sustaining Open Source Software" URL="http://bss.parallactic.com/resources/sustaining-open-source-software"]
 "2" ->  "OpenSourceInitiative.md" [colorscheme="svg" color="orangered"];
 "OpenSourceInitiative.md" [label="Open Source Initiative" URL="http://bss.parallactic.com/resources/open-source-initiative"]
-"specify level of content" [colorscheme="svg" color="lawngreen" URL="md_markdown_level_specify level of content.html"];
+"specify level of content" [colorscheme="svg" color="lawngreen"];
 "specify level of content" ->  "ResourceTemplate.AggregateBase.md" [colorscheme="svg" color="lawngreen"];
 "ResourceTemplate.AggregateBase.md" [label="Resource Template: Aggregate Base", URL="http://bss.parallactic.com/resources/resource-template-aggregate-base"]
 "specify level of content" ->  "ResourceTemplate.AggregateSubresource.md" [colorscheme="svg" color="lawngreen"];

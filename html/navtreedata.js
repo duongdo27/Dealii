@@ -8,6 +8,9 @@ var NAVTREE =
     [ "file4", "md_markdown_file4.html", null ],
     [ "This is header", "md_markdown_intro1.html", null ],
     [ "Level", "md_markdown_level.html", null ],
+    [ "Level 0", "md_markdown_level0.html", null ],
+    [ "Level 1", "md_markdown_level1.html", null ],
+    [ "Level 2", "md_markdown_level2.html", null ],
     [ "Tags", "md_markdown_tags.html", null ],
     [ "Topic", "md_markdown_topic.html", null ],
     [ "Files", null, [
