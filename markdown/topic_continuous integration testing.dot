@@ -1,0 +1,13 @@
+digraph bettersoftware {
+            rankdir = LR;
+            ratio = fill;
+            node [style=filled];
+            node [shape = box];
+"continuous integration testing" [colorscheme="svg" color="aqua"];
+"continuous integration testing" ->  "BestPracticesForHPCSwDevelopersWebinarSeries.md" [colorscheme="svg" color="aqua"];
+"BestPracticesForHPCSwDevelopersWebinarSeries.md" [label="Training Resources for Software Productivity and Sustainability" URL="http://bss.parallactic.com/resources/training-resources-for-software-productivity-and-sustainability"];
+"continuous integration testing" ->  "DistributedVersionControlAndContinuousIntegrationTesting.md" [colorscheme="svg" color="aqua"];
+"DistributedVersionControlAndContinuousIntegrationTesting.md" [label="Distributed Version Control and Continuous Integration Testing" URL="http://bss.parallactic.com/resources/distributed-version-control-and-continuous-integration-testing"];
+"continuous integration testing" ->  "JenkinsCI.md" [colorscheme="svg" color="aqua"];
+"JenkinsCI.md" [label="Jenkins Continuous Integration" URL="http://bss.parallactic.com/resources/jenkins-continuous-integration"];
+}

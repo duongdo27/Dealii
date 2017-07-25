@@ -1,0 +1,11 @@
+digraph bettersoftware {
+            rankdir = LR;
+            ratio = fill;
+            node [style=filled];
+            node [shape = box];
+"portability" [colorscheme="svg" color="firebrick"];
+"portability" ->  "HowToEnablePerfPortabilityForCseApps.md" [colorscheme="svg" color="firebrick"];
+"HowToEnablePerfPortabilityForCseApps.md" [label="How to Enable Performance Portability for CSE Applications?" URL="http://bss.parallactic.com/resources/how-to-enable-performance-portability-for-cse-applications?"];
+"portability" ->  "WhatIsPerfPortabilityForCseApps.md" [colorscheme="svg" color="firebrick"];
+"WhatIsPerfPortabilityForCseApps.md" [label="What is Performance Portability for CSE Applications?" URL="http://bss.parallactic.com/resources/what-is-performance-portability-for-cse-applications?"];
+}

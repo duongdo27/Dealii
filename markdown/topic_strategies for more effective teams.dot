@@ -1,0 +1,14 @@
+digraph bettersoftware {
+            rankdir = LR;
+            ratio = fill;
+            node [style=filled];
+            node [shape = box];
+"strategies for more effective teams" ->  "CseCollaborationThroughSoftwareImprovingProductivityAndSustainability.SIAM-CSE17.md" [colorscheme="svg" color="darkorange"];
+"CseCollaborationThroughSoftwareImprovingProductivityAndSustainability.SIAM-CSE17.md" [label="Training Resources for Software Productivity and Sustainability" URL="http://bss.parallactic.com/resources/training-resources-for-software-productivity-and-sustainability"];
+"strategies for more effective teams" ->  "GoogleHiPerfTeams.md" [colorscheme="svg" color="darkorange"];
+"GoogleHiPerfTeams.md" [label="High Performing Teams at Google" URL="http://bss.parallactic.com/resources/high-performing-teams-at-google"];
+"strategies for more effective teams" ->  "HerouxATPESC2016.md" [colorscheme="svg" color="darkorange"];
+"HerouxATPESC2016.md" [label="HPC Complete: Reproducible, Sustainable, Productive" URL="http://bss.parallactic.com/resources/hpc-complete-reproducible-sustainable-productive"];
+"strategies for more effective teams" ->  "OSSSustainabilityResources.md" [colorscheme="svg" color="darkorange"];
+"OSSSustainabilityResources.md" [label="Sustaining Open Source Software" URL="http://bss.parallactic.com/resources/sustaining-open-source-software"];
+}

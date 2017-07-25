@@ -1,0 +1,9 @@
+digraph bettersoftware {
+            rankdir = LR;
+            ratio = fill;
+            node [style=filled];
+            node [shape = box];
+"coding" [colorscheme="svg" color="greenyellow"];
+"coding" ->  "WhatAreSwCodingStandards.md" [colorscheme="svg" color="greenyellow"];
+"WhatAreSwCodingStandards.md" [label="What are software coding standards?" URL="http://bss.parallactic.com/resources/what-are-software-coding-standards?"];
+}

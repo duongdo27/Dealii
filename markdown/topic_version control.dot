@@ -1,0 +1,19 @@
+digraph bettersoftware {
+            rankdir = LR;
+            ratio = fill;
+            node [style=filled];
+            node [shape = box];
+"version control" [colorscheme="svg" color="cadetblue"];
+"version control" ->  "DistributedVersionControlAndContinuousIntegrationTesting.md" [colorscheme="svg" color="cadetblue"];
+"DistributedVersionControlAndContinuousIntegrationTesting.md" [label="Distributed Version Control and Continuous Integration Testing" URL="http://bss.parallactic.com/resources/distributed-version-control-and-continuous-integration-testing"];
+"version control" ->  "GettingGitRight.md" [colorscheme="svg" color="cadetblue"];
+"GettingGitRight.md" [label="Getting Git Right" URL="http://bss.parallactic.com/resources/getting-git-right"];
+"version control" ->  "GitHub.md" [colorscheme="svg" color="cadetblue"];
+"GitHub.md" [label="GitHub" URL="http://bss.parallactic.com/resources/git-hub"];
+"version control" ->  "GitTutorialAndReferenceCollection.md" [colorscheme="svg" color="cadetblue"];
+"GitTutorialAndReferenceCollection.md" [label="Git Tutorial and Reference Collection" URL="http://bss.parallactic.com/resources/git-tutorial-and-reference-collection"];
+"version control" ->  "HowToDoVersionControlWithGitInYourCseProject.md" [colorscheme="svg" color="cadetblue"];
+"HowToDoVersionControlWithGitInYourCseProject.md" [label="How to do Version Control with Git in your CSE Project" URL="http://bss.parallactic.com/resources/how-to-do-version-control-with-git-in-your-cse-project"];
+"version control" ->  "WhatIsVersionControl.md" [colorscheme="svg" color="cadetblue"];
+"WhatIsVersionControl.md" [label="What is Version Control?" URL="http://bss.parallactic.com/resources/what-is-version-control?"];
+}

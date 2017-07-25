@@ -1,0 +1,13 @@
+digraph bettersoftware {
+            rankdir = LR;
+            ratio = fill;
+            node [style=filled];
+            node [shape = box];
+"software publishing and citation" [colorscheme="svg" color="indianred"];
+"software publishing and citation" ->  "FORCE11SoftwareCitationImplementationWorkingGroup.md" [colorscheme="svg" color="indianred"];
+"FORCE11SoftwareCitationImplementationWorkingGroup.md" [label="FORCE11 Software Citation Implementation Working Group" URL="http://bss.parallactic.com/resources/force11-software-citation-implementation-working-group"];
+"software publishing and citation" ->  "HowToPublishCseSw.md" [colorscheme="svg" color="indianred"];
+"HowToPublishCseSw.md" [label="How to Publish CSE Software" URL="http://bss.parallactic.com/resources/how-to-publish-cse-software"];
+"software publishing and citation" ->  "Zenodo.md" [colorscheme="svg" color="indianred"];
+"Zenodo.md" [label="Zenodo" URL="http://bss.parallactic.com/resources/zenodo"];
+}

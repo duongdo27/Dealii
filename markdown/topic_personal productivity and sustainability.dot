@@ -1,0 +1,9 @@
+digraph bettersoftware {
+            rankdir = LR;
+            ratio = fill;
+            node [style=filled];
+            node [shape = box];
+"personal productivity and sustainability" [colorscheme="svg" color="mediumpurple"];
+"personal productivity and sustainability" ->  "VisionFitnessForSoftwareProductivity.md" [colorscheme="svg" color="mediumpurple"];
+"VisionFitnessForSoftwareProductivity.md" [label="Keeping your Vision Fit for Years of Software Development" URL="http://bss.parallactic.com/resources/keeping-your-vision-fit-for-years-of-software-development"];
+}

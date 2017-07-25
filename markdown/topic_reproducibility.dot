@@ -1,0 +1,17 @@
+digraph bettersoftware {
+            rankdir = LR;
+            ratio = fill;
+            node [style=filled];
+            node [shape = box];
+"reproducibility" [colorscheme="svg" color="tomato"];
+"reproducibility" ->  "BlogArticleSkeletonB.md" [colorscheme="svg" color="tomato"];
+"BlogArticleSkeletonB.md" [label="Insightful blog article on topic B" URL="http://bss.parallactic.com/resources/insightful-blog-article-on-topic-b"];
+"reproducibility" ->  "BlogArticleSkeletonC.md" [colorscheme="svg" color="tomato"];
+"BlogArticleSkeletonC.md" [label="Insightful blog article on topic C" URL="http://bss.parallactic.com/resources/insightful-blog-article-on-topic-c"];
+"reproducibility" ->  "ImproveUserConfidenceInSwUpdates.md" [colorscheme="svg" color="tomato"];
+"ImproveUserConfidenceInSwUpdates.md" [label="Improve user confidence in your software updates" URL="http://bss.parallactic.com/resources/improve-user-confidence-in-your-software-updates"];
+"reproducibility" ->  "BestPracticesForHPCSwDevelopersWebinarSeries.md" [colorscheme="svg" color="tomato"];
+"BestPracticesForHPCSwDevelopersWebinarSeries.md" [label="Training Resources for Software Productivity and Sustainability" URL="http://bss.parallactic.com/resources/training-resources-for-software-productivity-and-sustainability"];
+"reproducibility" ->  "SoftwareDevelopmentPracticesInAcademiaACaseStudyComparison.md" [colorscheme="svg" color="tomato"];
+"software development" [colorscheme="svg" color="blue"];
+}

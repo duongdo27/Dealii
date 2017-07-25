@@ -1,0 +1,13 @@
+digraph bettersoftware {
+            rankdir = LR;
+            ratio = fill;
+            node [style=filled];
+            node [shape = box];
+"funding sources and programs" [colorscheme="svg" color="cyan"];
+"funding sources and programs" ->  "FellowshipProgrammeSoftwareSustainabilityInstituteUK.md" [colorscheme="svg" color="cyan"];
+"FellowshipProgrammeSoftwareSustainabilityInstituteUK.md" [label="Fellowship Programme — Software Sustainability Institute (Uk)" URL="http://bss.parallactic.com/resources/fellowship-programme-software-sustainability-institute-uk"];
+"funding sources and programs" ->  "OSSSustainabilityResources.md" [colorscheme="svg" color="cyan"];
+"OSSSustainabilityResources.md" [label="Sustaining Open Source Software" URL="http://bss.parallactic.com/resources/sustaining-open-source-software"];
+"funding sources and programs" ->  "SoftwareInfrastructureForSustainedInnovationSI2NationalScienceFoundationUS.md" [colorscheme="svg" color="cyan"];
+"SoftwareInfrastructureForSustainedInnovationSI2NationalScienceFoundationUS.md" [label="Software Infrastructure For Sustained Innovation (Si2) — National Science Foundation (Us)" URL="http://bss.parallactic.com/resources/software-infrastructure-for-sustained-innovation-si2-national-science-foundation-us"];
+}

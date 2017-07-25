@@ -1,0 +1,31 @@
+digraph bettersoftware {
+            rankdir = LR;
+            ratio = fill;
+            node [style=filled];
+            node [shape = box];
+"documentation" [colorscheme="svg" color="darkkhaki"];
+"documentation" ->  "BlogArticleSkeletonA.md" [colorscheme="svg" color="darkkhaki"];
+"BlogArticleSkeletonA.md" [label="Insightful blog article on topic A" URL="http://bss.parallactic.com/resources/insightful-blog-article-on-topic-a"];
+"documentation" ->  "BlogArticleSkeletonB.md" [colorscheme="svg" color="darkkhaki"];
+"BlogArticleSkeletonB.md" [label="Insightful blog article on topic B" URL="http://bss.parallactic.com/resources/insightful-blog-article-on-topic-b"];
+"documentation" ->  "ImproveUserConfidenceInSwUpdates.md" [colorscheme="svg" color="darkkhaki"];
+"ImproveUserConfidenceInSwUpdates.md" [label="Improve user confidence in your software updates" URL="http://bss.parallactic.com/resources/improve-user-confidence-in-your-software-updates"];
+"documentation" ->  "BestPracticesForHPCSwDevelopersWebinarSeries.md" [colorscheme="svg" color="darkkhaki"];
+"BestPracticesForHPCSwDevelopersWebinarSeries.md" [label="Training Resources for Software Productivity and Sustainability" URL="http://bss.parallactic.com/resources/training-resources-for-software-productivity-and-sustainability"];
+"documentation" ->  "DocumentationTools.Doxygen.md" [colorscheme="svg" color="darkkhaki"];
+"DocumentationTools.Doxygen.md" [label="Kitchen-sink resource test" URL="http://bss.parallactic.com/resources/kitchen-sink-resource-test"];
+"documentation" ->  "DocumentationTools.ReadTheDocs.md" [colorscheme="svg" color="darkkhaki"];
+"DocumentationTools.ReadTheDocs.md" [label="Kitchen-sink resource test" URL="http://bss.parallactic.com/resources/kitchen-sink-resource-test"];
+"documentation" ->  "DocumentationTools.Sphinx.md" [colorscheme="svg" color="darkkhaki"];
+"DocumentationTools.Sphinx.md" [label="Kitchen-sink resource test" URL="http://bss.parallactic.com/resources/kitchen-sink-resource-test"];
+"documentation" ->  "HowToWriteGoodDocumentation.md" [colorscheme="svg" color="darkkhaki"];
+"HowToWriteGoodDocumentation.md" [label="How to Write Good Documentation for CSE Software" URL="http://bss.parallactic.com/resources/how-to-write-good-documentation-for-cse-software"];
+"documentation" ->  "KlinvexATPESC2016.md" [colorscheme="svg" color="darkkhaki"];
+"KlinvexATPESC2016.md" [label="Documenting Your Code" URL="http://bss.parallactic.com/resources/documenting-your-code"];
+"documentation" ->  "SwProductivityAndSustainabilityForCseAndDataScience.SIAM-CSE17.md" [colorscheme="svg" color="darkkhaki"];
+"software interoperability" [colorscheme="svg" color="darkviolet"];
+"documentation" ->  "TestingAndDocumentingCode.md" [colorscheme="svg" color="darkkhaki"];
+"TestingAndDocumentingCode.md" [label="Testing and Documenting Code" URL="http://bss.parallactic.com/resources/testing-and-documenting-code"];
+"documentation" ->  "WhatIsGoodDocumentation.md" [colorscheme="svg" color="darkkhaki"];
+"WhatIsGoodDocumentation.md" [label="What is Good Documentation for CSE Software" URL="http://bss.parallactic.com/resources/what-is-good-documentation-for-cse-software"];
+}

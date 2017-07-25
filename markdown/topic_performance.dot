@@ -1,0 +1,13 @@
+digraph bettersoftware {
+            rankdir = LR;
+            ratio = fill;
+            node [style=filled];
+            node [shape = box];
+"performance" [colorscheme="svg" color="gold"];
+"performance" ->  "HowToEnablePerfPortabilityForCseApps.md" [colorscheme="svg" color="gold"];
+"HowToEnablePerfPortabilityForCseApps.md" [label="How to Enable Performance Portability for CSE Applications?" URL="http://bss.parallactic.com/resources/how-to-enable-performance-portability-for-cse-applications?"];
+"performance" ->  "HowToEstimateOperationalIntensity.md" [colorscheme="svg" color="gold"];
+"HowToEstimateOperationalIntensity.md" [label="How to estimate operational intensity" URL="http://bss.parallactic.com/resources/how-to-estimate-operational-intensity"];
+"performance" ->  "WhatIsPerfPortabilityForCseApps.md" [colorscheme="svg" color="gold"];
+"WhatIsPerfPortabilityForCseApps.md" [label="What is Performance Portability for CSE Applications?" URL="http://bss.parallactic.com/resources/what-is-performance-portability-for-cse-applications?"];
+}

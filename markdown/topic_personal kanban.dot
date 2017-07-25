@@ -1,0 +1,9 @@
+digraph bettersoftware {
+            rankdir = LR;
+            ratio = fill;
+            node [style=filled];
+            node [shape = box];
+"personal kanban" [colorscheme="svg" color="fuchsia"];
+"personal kanban" ->  "CseCollaborationThroughSoftwareImprovingProductivityAndSustainability.SIAM-CSE17.md" [colorscheme="svg" color="fuchsia"];
+"CseCollaborationThroughSoftwareImprovingProductivityAndSustainability.SIAM-CSE17.md" [label="Training Resources for Software Productivity and Sustainability" URL="http://bss.parallactic.com/resources/training-resources-for-software-productivity-and-sustainability"];
+}

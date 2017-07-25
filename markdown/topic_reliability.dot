@@ -1,0 +1,11 @@
+digraph bettersoftware {
+            rankdir = LR;
+            ratio = fill;
+            node [style=filled];
+            node [shape = box];
+"reliability" [colorscheme="svg" color="mediumvioletred"];
+"reliability" ->  "ClaimsAboutSoftwareEnginScienceReview.md" [colorscheme="svg" color="mediumvioletred"];
+"reproducibility" ->  "ClaimsAboutSoftwareEnginScienceReview.md" [colorscheme="svg" color="tomato"];
+"reliability" ->  "TestDrivenDevptInScientificSwASurvey.md" [colorscheme="svg" color="mediumvioletred"];
+"reproducibility" ->  "TestDrivenDevptInScientificSwASurvey.md" [colorscheme="svg" color="tomato"];
+}

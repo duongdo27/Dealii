@@ -1,0 +1,15 @@
+digraph bettersoftware {
+            rankdir = LR;
+            ratio = fill;
+            node [style=filled];
+            node [shape = box];
+"improving productivity and sustainability" [colorscheme="svg" color="yellowgreen"];
+"improving productivity and sustainability" ->  "BestPracticesForHPCSwDevelopersWebinarSeries.md" [colorscheme="svg" color="yellowgreen"];
+"BestPracticesForHPCSwDevelopersWebinarSeries.md" [label="Training Resources for Software Productivity and Sustainability" URL="http://bss.parallactic.com/resources/training-resources-for-software-productivity-and-sustainability"];
+"improving productivity and sustainability" ->  "OSSSustainabilityResources.md" [colorscheme="svg" color="yellowgreen"];
+"OSSSustainabilityResources.md" [label="Sustaining Open Source Software" URL="http://bss.parallactic.com/resources/sustaining-open-source-software"];
+"improving productivity and sustainability" ->  "SwProductivityAndSustainabilityForCseAndDataScience.SIAM-CSE17.md" [colorscheme="svg" color="yellowgreen"];
+"SwProductivityAndSustainabilityForCseAndDataScience.SIAM-CSE17.md" [label="Software Productivity And Sustainability For Cse And Data Science" URL="http://bss.parallactic.com/events/siam-conference-on-computational-science-and-engineering-cse17 "]
+"improving productivity and sustainability" ->  "Conference.SIAM-CSE17.md" [colorscheme="svg" color="yellowgreen"];
+"[import from subresources];" ->  "Conference.SIAM-CSE17.md" [colorscheme="svg" color="darkgoldenrod"];
+}

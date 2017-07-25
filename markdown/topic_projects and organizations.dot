@@ -1,0 +1,13 @@
+digraph bettersoftware {
+            rankdir = LR;
+            ratio = fill;
+            node [style=filled];
+            node [shape = box];
+"projects and organizations" [colorscheme="svg" color="peachpuff"];
+"projects and organizations" ->  "AssociationForSoftwareTesting.md" [colorscheme="svg" color="peachpuff"];
+"AssociationForSoftwareTesting.md" [label="Association for Software Testing" URL="http://bss.parallactic.com/resources/association-for-software-testing"];
+"projects and organizations" ->  "IDEASSoftwareProductivityProject.md" [colorscheme="svg" color="peachpuff"];
+"IDEASSoftwareProductivityProject.md" [label="IDEAS Software Productivity Project" URL="http://bss.parallactic.com/resources/ideas-software-productivity-project"];
+"projects and organizations" ->  "SoftwareSustainabilityInstitute.md" [colorscheme="svg" color="peachpuff"];
+"SoftwareSustainabilityInstitute.md" [label="Software Sustainability Institute" URL="http://bss.parallactic.com/resources/software-sustainability-institute"];
+}

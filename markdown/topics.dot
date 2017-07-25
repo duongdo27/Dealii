@@ -135,7 +135,8 @@ digraph bettersoftware {
 "testing" ->  "HowToImproveTestingForCseSw.md" [colorscheme="svg" color="darksalmon"];
 "HowToImproveTestingForCseSw.md" [label="How to Improve Testing for CSE Software" URL="http://bss.parallactic.com/resources/how-to-improve-testing-for-cse-software"];
 "software publishing and citation" ->  "HowToPublishCseSw.md" [colorscheme="svg" color="indianred"];
-"HowToPublishCseSw.md" [label="How to Publish CSE Software" URL="http://bss.parallactic.com/resources/how-to-publish-cse-software"];"documentation" ->  "HowToWriteGoodDocumentation.md" [colorscheme="svg" color="darkkhaki"];
+"HowToPublishCseSw.md" [label="How to Publish CSE Software" URL="http://bss.parallactic.com/resources/how-to-publish-cse-software"];
+"documentation" ->  "HowToWriteGoodDocumentation.md" [colorscheme="svg" color="darkkhaki"];
 "HowToWriteGoodDocumentation.md" [label="How to Write Good Documentation for CSE Software" URL="http://bss.parallactic.com/resources/how-to-write-good-documentation-for-cse-software"];
 "projects and organizations" ->  "IDEASSoftwareProductivityProject.md" [colorscheme="svg" color="peachpuff"];
 "IDEASSoftwareProductivityProject.md" [label="IDEAS Software Productivity Project" URL="http://bss.parallactic.com/resources/ideas-software-productivity-project"];

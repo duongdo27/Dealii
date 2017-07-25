@@ -1,0 +1,23 @@
+digraph bettersoftware {
+            rankdir = LR;
+            ratio = fill;
+            node [style=filled];
+            node [shape = box];
+"licensing" [colorscheme="svg" color="fuchsia"];
+"licensing" ->  "ChooseALicense.md" [colorscheme="svg" color="fuchsia"];
+"ChooseALicense.md" [label="Choose an Open Source License" URL="http://bss.parallactic.com/resources/choose-an-open-source-license"];
+"licensing" ->  "ContributorAgreements.md" [colorscheme="svg" color="fuchsia"];
+"ContributorAgreements.md" [label="Contributor Agreements" URL="http://bss.parallactic.com/resources/contributor-agreements"];
+"licensing" ->  "FSFLicensingAndComplianceTeam.md" [colorscheme="svg" color="fuchsia"];
+"FSFLicensingAndComplianceTeam.md" [label="Free Software Foundation Licensing & Compliance Team" URL="http://bss.parallactic.com/resources/free-software-foundation-licensing-compliance-team"]
+"licensing" ->  "IntroToSoftwareLicensing.md" [colorscheme="svg" color="fuchsia"];
+"IntroToSoftwareLicensing.md" [label="An Introduction to Software Licensing" URL="http://bss.parallactic.com/resources/an-introduction-to-software-licensing"];
+"licensing" ->  "OSSSustainabilityResources.md" [colorscheme="svg" color="fuchsia"];
+"OSSSustainabilityResources.md" [label="Sustaining Open Source Software" URL="http://bss.parallactic.com/resources/sustaining-open-source-software"];
+"licensing" ->  "OpenSourceInitiative.md" [colorscheme="svg" color="fuchsia"];
+"OpenSourceInitiative.md" [label="Open Source Initiative" URL="http://bss.parallactic.com/resources/open-source-initiative"];
+"licensing" ->  "TestImages.md" [colorscheme="svg" color="fuchsia"];
+"TestImages.md" [label="Test With Images" URL="http://bss.parallactic.com/resources/test-with-images"];
+"licensing" ->  "TestImages2.md" [colorscheme="svg" color="fuchsia"];
+"TestImages2.md" [label="Test With Images 2\n" URL="http://bss.parallactic.com/resources/test-with-images-2 "];
+}

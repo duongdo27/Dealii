@@ -1,0 +1,18 @@
+digraph bettersoftware {
+            rankdir = LR;
+            ratio = fill;
+            node [style=filled];
+            node [shape = box];
+"software engineering" [colorscheme="svg" color="goldenrod"];
+"software engineering" ->  "ItWillNeverWorkInTheory.md" [colorscheme="svg" color="goldenrod"];
+"ItWillNeverWorkInTheory.md" [label="It Will Never Work in Theory" URL="http://bss.parallactic.com/resources/it-will-never-work-in-theory"];
+"software engineering" ->  "MethodsAndToolsEditor.md" [colorscheme="svg" color="goldenrod"];
+"MethodsAndToolsEditor.md" [label="Methods & Tools Editor" URL="http://bss.parallactic.com/resources/methods-tools-editor"];
+"software engineering" ->  "Conference.SC17.md" [colorscheme="svg" color="goldenrod"];
+"Conference.SC17.md" [label="SC17" URL="http://bss.parallactic.com/events/sc17"];
+"software engineering" ->  "WSSSPE5.1.md" [colorscheme="svg" color="goldenrod"];
+"software engineering" ->  "WSSSPE5.2.md" [colorscheme="svg" color="goldenrod"];
+"WSSSPE5.2.md" [label="Wssspe5.2\n" URL="http://bss.parallactic.com/events/wssspe5-2 "];
+"software engineering" ->  "Workshop.SE4Science17.md" [colorscheme="svg" color="goldenrod"];
+"Workshop.SE4Science17.md" [label="2017 International Workshop on Software Engineering for Science" URL="http://bss.parallactic.com/resources/2017-international-workshop-on-software-engineering-for-science"];
+}

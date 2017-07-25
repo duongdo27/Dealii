@@ -1,0 +1,8 @@
+digraph bettersoftware {
+            rankdir = LR;
+            ratio = fill;
+            node [style=filled];
+            node [shape = box];
+"software development" ->  "SoftwareDevelopmentPracticesInAcademiaACaseStudyComparison.md" [colorscheme="svg" color="blue"];
+"SoftwareDevelopmentPracticesInAcademiaACaseStudyComparison.md" [label="Software Development Practices In Academia: A Case Study Comparison", URL="http://bss.parallactic.com/resources/software-development-practices-in-academia-a-case-study-comparison"];
+}

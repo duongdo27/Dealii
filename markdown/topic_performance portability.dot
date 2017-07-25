@@ -1,0 +1,9 @@
+digraph bettersoftware {
+            rankdir = LR;
+            ratio = fill;
+            node [style=filled];
+            node [shape = box];
+"performance portability" [colorscheme="svg" color="orange"];
+"performance portability" ->  "BlogArticleSkeletonE.md" [colorscheme="svg" color="orange"];
+"BlogArticleSkeletonE.md" [label="Insightful blog article on topic E" URL="http://bss.parallactic.com/resources/insightful-blog-article-on-topic-e"];
+}

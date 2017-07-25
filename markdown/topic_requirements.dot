@@ -1,0 +1,11 @@
+digraph bettersoftware {
+            rankdir = LR;
+            ratio = fill;
+            node [style=filled];
+            node [shape = box];
+"requirements" [colorscheme="svg" color="darkslateblue"];
+"requirements" ->  "BlogArticleSkeletonD.md" [colorscheme="svg" color="darkslateblue"];
+"BlogArticleSkeletonD.md" [label="Insightful blog article on topic D" URL="http://bss.parallactic.com/resources/insightful-blog-article-on-topic-d"];
+"requirements" ->  "BlogArticleSkeletonE.md" [colorscheme="svg" color="darkslateblue"];
+"BlogArticleSkeletonE.md" [label="Insightful blog article on topic E" URL="http://bss.parallactic.com/resources/insightful-blog-article-on-topic-e"];
+}
