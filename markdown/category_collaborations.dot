@@ -1,0 +1,8 @@
+digraph bettersoftware {
+            rankdir = LR;
+            ratio = fill;
+            node [style=filled];
+            node [shape = box];
+"collaborations" ->  "Zenodo.md" [colorscheme="svg" color="seagreen"];
+"Zenodo.md" [label="Zenodo" URL="http://bss.parallactic.com/resources/zenodo"]
+}

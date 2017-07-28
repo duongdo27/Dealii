@@ -1,0 +1,33 @@
+digraph bettersoftware {
+            rankdir = LR;
+            ratio = fill;
+            node [style=filled];
+            node [shape = box];
+"reliability" [colorscheme="svg" color="purple"];
+"reliability" ->  "BlogArticleSkeletonB.md" [colorscheme="svg" color="purple"];
+"BlogArticleSkeletonB.md" [label="Insightful blog article on topic B" URL="http://bss.parallactic.com/resources/insightful-blog-article-on-topic-b"]
+"reliability" ->  "BlogArticleSkeletonC.md" [colorscheme="svg" color="purple"];
+"BlogArticleSkeletonC.md" [label="Insightful blog article on topic C" URL="http://bss.parallactic.com/resources/insightful-blog-article-on-topic-c"]
+"reliability" ->  "ImproveUserConfidenceInSwUpdates.md" [colorscheme="svg" color="purple"];
+"ImproveUserConfidenceInSwUpdates.md" [label="Improve user confidence in your software updates" URL="http://bss.parallactic.com/resources/improve-user-confidence-in-your-software-updates"]
+"reliability" ->  "BestPracticesForHPCSwDevelopersWebinarSeries.md" [colorscheme="svg" color="purple"];
+"BestPracticesForHPCSwDevelopersWebinarSeries.md" [label="Training Resources for Software Productivity and Sustainability" URL="http://bss.parallactic.com/resources/training-resources-for-software-productivity-and-sustainability"]
+"reliability" ->  "ClaimsAboutSoftwareEnginScienceReview.md" [colorscheme="svg" color="purple"];
+"ClaimsAboutSoftwareEnginScienceReview.md" [label="Claims about the use of software engineering practices in science: A systematic literature review", URL="http://bss.parallactic.com/resources/claims-about-the-use-of-software-engineering-practices-in-science-a-systematic-literature-review"]
+"reliability" ->  "CppUnit.md" [colorscheme="svg" color="purple"];
+"development" ->  "CppUnit.md" [colorscheme="svg" color="palegreen"];
+"reliability" ->  "DistributedVersionControlAndContinuousIntegrationTesting.md" [colorscheme="svg" color="purple"];
+"DistributedVersionControlAndContinuousIntegrationTesting.md" [label="Distributed Version Control and Continuous Integration Testing" URL="http://bss.parallactic.com/resources/distributed-version-control-and-continuous-integration-testing"]
+"reliability" ->  "SoftwareDevelopmentPracticesInAcademiaACaseStudyComparison.md" [colorscheme="svg" color="purple"];
+"SoftwareDevelopmentPracticesInAcademiaACaseStudyComparison.md" [label="Software Development Practices In Academia: A Case Study Comparison", URL="http://bss.parallactic.com/resources/software-development-practices-in-academia-a-case-study-comparison"]
+"reliability" ->  "SwTestingTutorials.Cse.md" [colorscheme="svg" color="purple"];
+"SwTestingTutorials.Cse.md" [label="CSE Software Testing Tutorials" URL="http://bss.parallactic.com/resources/software-testing-tutorials"]
+"reliability" ->  "SwTestingTutorials.General.md" [colorscheme="svg" color="purple"];
+"SwTestingTutorials.General.md" [label="General Software Testing Tutorials" URL="http://bss.parallactic.com/resources/software-testing-tutorials"]
+"reliability" ->  "SwTestingTutorials.md" [colorscheme="svg" color="purple"];
+"SwTestingTutorials.md" [label="Software Testing Tutorials" URL="http://bss.parallactic.com/resources/software-testing-tutorials"]
+"reliability" ->  "SwTestingUdacity.md" [colorscheme="svg" color="purple"];
+"skills" ->  "SwTestingUdacity.md" [colorscheme="svg" color="teal"];
+"reliability" ->  "Conference.SIAM-CSE17.md" [colorscheme="svg" color="purple"];
+"Conference.SIAM-CSE17.md" [label="SIAM Conference On Computational Science And Engineering" URL="http://bss.parallactic.com/events/siam-conference-on-computational-science-and-engineering-cse17 "]
+}

@@ -1,5 +1,5 @@
 def read_file():
-    with open("topics.dot") as f:
+    with open("categories.dot") as f:
         lines = f.readlines()
     beginning = ""
     groups = {}
@@ -26,7 +26,7 @@ def read_file():
             beginning += line
     for key, value in groups.iteritems():
         key = "_".join(key.split())
-        filename = "topic_{}.dot".format(key)
+        filename = "category_{}.dot".format(key)
         text = beginning + value + "}"
         with open(filename, 'w') as f:
             f.write(text)

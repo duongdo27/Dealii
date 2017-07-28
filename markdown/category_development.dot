@@ -1,0 +1,31 @@
+digraph bettersoftware {
+            rankdir = LR;
+            ratio = fill;
+            node [style=filled];
+            node [shape = box];
+"development" [colorscheme="svg" color="palegreen"];
+"development" ->  "BlogArticleSkeletonA.md" [colorscheme="svg" color="palegreen"];
+"BlogArticleSkeletonA.md" [label="Insightful blog article on topic A" URL="http://bss.parallactic.com/resources/insightful-blog-article-on-topic-a"]
+"development" ->  "BlogArticleSkeletonB.md" [colorscheme="svg" color="palegreen"];
+"BlogArticleSkeletonB.md" [label="Insightful blog article on topic B" URL="http://bss.parallactic.com/resources/insightful-blog-article-on-topic-b"]
+"development" ->  "ImproveUserConfidenceInSwUpdates.md" [colorscheme="svg" color="palegreen"];
+"ImproveUserConfidenceInSwUpdates.md" [label="Improve user confidence in your software updates" URL="http://bss.parallactic.com/resources/improve-user-confidence-in-your-software-updates"]
+"development" ->  "ContainersForResearchSw.md" [colorscheme="svg" color="palegreen"];
+"ContainersForResearchSw.md" [label="Containers for Research Software" URL="http://bss.parallactic.com/resources/containers-for-research-software"]
+"development" ->  "DocumentationTools.Doxygen.md" [colorscheme="svg" color="palegreen"];
+"DocumentationTools.Doxygen.md" [label="Kitchen-sink resource test" URL="http://bss.parallactic.com/resources/kitchen-sink-resource-test"]
+"development" ->  "DocumentationTools.ReadTheDocs.md" [colorscheme="svg" color="palegreen"];
+"DocumentationTools.ReadTheDocs.md" [label="Kitchen-sink resource test" URL="http://bss.parallactic.com/resources/kitchen-sink-resource-test"]
+"development" ->  "DocumentationTools.Sphinx.md" [colorscheme="svg" color="palegreen"];
+"DocumentationTools.Sphinx.md" [label="Kitchen-sink resource test" URL="http://bss.parallactic.com/resources/kitchen-sink-resource-test"]
+"development" ->  "DocumentationTools.md" [colorscheme="svg" color="palegreen"];
+"DocumentationTools.md" [label="Documentation Tools" URL="http://bss.parallactic.com/resources/documentation-tools"]
+"development" ->  "GettingGitRight.md" [colorscheme="svg" color="palegreen"];
+"GettingGitRight.md" [label="Getting Git Right" URL="http://bss.parallactic.com/resources/getting-git-right"]
+"development" ->  "GitHub.md" [colorscheme="svg" color="palegreen"];
+"GitHub.md" [label="GitHub" URL="http://bss.parallactic.com/resources/git-hub"]
+"development" ->  "GitTutorialAndReferenceCollection.md" [colorscheme="svg" color="palegreen"];
+"GitTutorialAndReferenceCollection.md" [label="Git Tutorial and Reference Collection" URL="http://bss.parallactic.com/resources/git-tutorial-and-reference-collection"]
+"development" ->  "kitchen-sink-TEST.md" [colorscheme="svg" color="palegreen"];
+"kitchen-sink-TEST.md" [label="Kitchen-sink resource test" URL="http://bss.parallactic.com/resources/kitchen-sink-resource-test"]
+}

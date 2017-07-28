@@ -1,0 +1,35 @@
+digraph bettersoftware {
+            rankdir = LR;
+            ratio = fill;
+            node [style=filled];
+            node [shape = box];
+"collaboration" [colorscheme="svg" color="slategrey"];
+"collaboration" ->  "AssociationForSoftwareTesting.md" [colorscheme="svg" color="slategrey"];
+"AssociationForSoftwareTesting.md" [label="Association for Software Testing" URL="http://bss.parallactic.com/resources/association-for-software-testing"]
+"collaboration" ->  "BestPracticesForHPCSwDevelopersWebinarSeries.md" [colorscheme="svg" color="slategrey"];
+"BestPracticesForHPCSwDevelopersWebinarSeries.md" [label="Training Resources for Software Productivity and Sustainability" URL="http://bss.parallactic.com/resources/training-resources-for-software-productivity-and-sustainability"]
+"collaboration" ->  "ChooseALicense.md" [colorscheme="svg" color="slategrey"];
+"ChooseALicense.md" [label="Choose an Open Source License" URL="http://bss.parallactic.com/resources/choose-an-open-source-license"]
+"collaboration" ->  "ContributorAgreements.md" [colorscheme="svg" color="slategrey"];
+"ContributorAgreements.md" [label="Contributor Agreements" URL="http://bss.parallactic.com/resources/contributor-agreements"]
+"collaboration" ->  "DistributedVersionControlAndContinuousIntegrationTesting.md" [colorscheme="svg" color="slategrey"];
+"DistributedVersionControlAndContinuousIntegrationTesting.md" [label="Distributed Version Control and Continuous Integration Testing" URL="http://bss.parallactic.com/resources/distributed-version-control-and-continuous-integration-testing"]
+"collaboration" ->  "FORCE11SoftwareCitationImplementationWorkingGroup.md" [colorscheme="svg" color="slategrey"];
+"FORCE11SoftwareCitationImplementationWorkingGroup.md" [label="FORCE11 Software Citation Implementation Working Group" URL="http://bss.parallactic.com/resources/force11-software-citation-implementation-working-group"]
+"collaboration" ->  "FSFLicensingAndComplianceTeam.md" [colorscheme="svg" color="slategrey"];
+"FSFLicensingAndComplianceTeam.md" [label="Free Software Foundation Licensing & Compliance Team" URL="http://bss.parallactic.com/resources/free-software-foundation-licensing-compliance-team"]
+"collaboration" ->  "FellowshipProgrammeSoftwareSustainabilityInstituteUK.md" [colorscheme="svg" color="slategrey"];
+"FellowshipProgrammeSoftwareSustainabilityInstituteUK.md" [label="Fellowship Programme — Software Sustainability Institute (Uk)" URL="http://bss.parallactic.com/resources/fellowship-programme-software-sustainability-institute-uk"]
+"collaboration" ->  "GoogleHiPerfTeams.md" [colorscheme="svg" color="slategrey"];
+"GoogleHiPerfTeams.md" [label="High Performing Teams at Google" URL="http://bss.parallactic.com/resources/high-performing-teams-at-google"]
+"collaboration" ->  "HerouxATPESC2016.md" [colorscheme="svg" color="slategrey"];
+"reliability" ->  "HerouxATPESC2016.md" [colorscheme="svg" color="purple"];
+"collaboration" ->  "SoftwareInfrastructureForSustainedInnovationSI2NationalScienceFoundationUS.md" [colorscheme="svg" color="slategrey"];
+"SoftwareInfrastructureForSustainedInnovationSI2NationalScienceFoundationUS.md" [label="Software Infrastructure For Sustained Innovation (Si2) — National Science Foundation (Us)" URL="http://bss.parallactic.com/resources/software-infrastructure-for-sustained-innovation-si2-national-science-foundation-us"]
+"collaboration" ->  "SoftwareSustainabilityInstitute.md" [colorscheme="svg" color="slategrey"];
+"SoftwareSustainabilityInstitute.md" [label="Software Sustainability Institute" URL="http://bss.parallactic.com/resources/software-sustainability-institute"]
+"collaboration" ->  "SwEngForComputationalScienceWorkshopSeries.md" [colorscheme="svg" color="slategrey"];
+"SwEngForComputationalScienceWorkshopSeries.md" [label="Software Engineering for Computational Science Workshop Series" URL="http://bss.parallactic.com/resources/software-engineering-for-computational-science-workshop-series"]
+"collaboration" ->  "SwProductivityAndSustainabilityForCseAndDataScience.SIAM-CSE17.md" [colorscheme="svg" color="slategrey"];
+"performance" ->  "SwProductivityAndSustainabilityForCseAndDataScience.SIAM-CSE17.md" [colorscheme="svg" color="lawngreen"];
+}

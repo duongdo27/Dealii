@@ -193,7 +193,8 @@ digraph bettersoftware {
 "collaborations" ->  "Zenodo.md" [colorscheme="svg" color="seagreen"];
 "Zenodo.md" [label="Zenodo" URL="http://bss.parallactic.com/resources/zenodo"]
 "development" ->  "kitchen-sink-TEST.md" [colorscheme="svg" color="palegreen"];
-"kitchen-sink-TEST.md" [label="Kitchen-sink resource test" URL="http://bss.parallactic.com/resources/kitchen-sink-resource-test"]"planning" ->  "Conference.SC17.md" [colorscheme="svg" color="firebrick"];
+"kitchen-sink-TEST.md" [label="Kitchen-sink resource test" URL="http://bss.parallactic.com/resources/kitchen-sink-resource-test"]
+"planning" ->  "Conference.SC17.md" [colorscheme="svg" color="firebrick"];
 "Conference.SC17.md" [label="SC17" URL="http://bss.parallactic.com/resources/sc17"]
 "crosscutting" ->  "Conference.SC17.md" [colorscheme="svg" color="fuchsia"];
 "Conference.SC17.md" [label="SC17" URL="http://bss.parallactic.com/resources/sc17"]

@@ -1,0 +1,25 @@
+digraph bettersoftware {
+            rankdir = LR;
+            ratio = fill;
+            node [style=filled];
+            node [shape = box];
+"planning" [colorscheme="svg" color="firebrick"];
+"planning" ->  "BlogArticleSkeletonD.md" [colorscheme="svg" color="firebrick"];
+"BlogArticleSkeletonD.md" [label="Insightful blog article on topic D" URL="http://bss.parallactic.com/resources/insightful-blog-article-on-topic-d"]
+"planning" ->  "BlogArticleSkeletonE.md" [colorscheme="svg" color="firebrick"];
+"BlogArticleSkeletonE.md" [label="Insightful blog article on topic E" URL="http://bss.parallactic.com/resources/insightful-blog-article-on-topic-e"]
+"planning" ->  "BestPracticesForHPCSwDevelopersWebinarSeries.md" [colorscheme="svg" color="firebrick"];
+"BestPracticesForHPCSwDevelopersWebinarSeries.md" [label="Training Resources for Software Productivity and Sustainability" URL="http://bss.parallactic.com/resources/training-resources-for-software-productivity-and-sustainability"]
+"planning" ->  "SwProductivityAndSustainabilityForCseAndDataScience.SIAM-CSE17.md" [colorscheme="svg" color="firebrick"];
+"reliability" ->  "SwProductivityAndSustainabilityForCseAndDataScience.SIAM-CSE17.md" [colorscheme="svg" color="purple"];
+"planning" ->  "Conference.SC17.md" [colorscheme="svg" color="firebrick"];
+"Conference.SC17.md" [label="SC17" URL="http://bss.parallactic.com/resources/sc17"]
+"planning" ->  "Conference.SIAM-CSE17.md" [colorscheme="svg" color="firebrick"];
+"collaboration" ->  "Conference.SIAM-CSE17.md" [colorscheme="svg" color="slategrey"];
+"planning" ->  "Conference.ScientificSoftwareDays17.md" [colorscheme="svg" color="firebrick"];
+"Conference.ScientificSoftwareDays17.md" [label="8th Annual Scientific Software Days" URL="http://bss.parallactic.com/resources/8th-annual-scientific-software-days"]
+"planning" ->  "WSSSPE5.1.md" [colorscheme="svg" color="firebrick"];
+"crosscutting" ->  "WSSSPE5.1.md" [colorscheme="svg" color="fuchsia"];
+"planning" ->  "Workshop.SE4Science17.md" [colorscheme="svg" color="firebrick"];
+"Workshop.SE4Science17.md" [label="2017 International Workshop on Software Engineering for Science" URL="http://bss.parallactic.com/resources/2017-international-workshop-on-software-engineering-for-science"]
+}

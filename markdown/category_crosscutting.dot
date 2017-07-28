@@ -1,0 +1,18 @@
+digraph bettersoftware {
+            rankdir = LR;
+            ratio = fill;
+            node [style=filled];
+            node [shape = box];
+"crosscutting" [colorscheme="svg" color="fuchsia"];
+"crosscutting" ->  "BestPracticesForHPCSwDevelopersWebinarSeries.md" [colorscheme="svg" color="fuchsia"];
+"BestPracticesForHPCSwDevelopersWebinarSeries.md" [label="Training Resources for Software Productivity and Sustainability" URL="http://bss.parallactic.com/resources/training-resources-for-software-productivity-and-sustainability"]
+"crosscutting" ->  "Conference.SC17.md" [colorscheme="svg" color="fuchsia"];
+"Conference.SC17.md" [label="SC17" URL="http://bss.parallactic.com/resources/sc17"]
+"crosscutting" ->  "Conference.SIAM-CSE17.md" [colorscheme="svg" color="fuchsia"];
+"individual productivity" ->  "Conference.SIAM-CSE17.md" [colorscheme="svg" color="orange"];
+"crosscutting" ->  "Conference.ScientificSoftwareDays17.md" [colorscheme="svg" color="fuchsia"];
+"Conference.ScientificSoftwareDays17.md" [label="8th Annual Scientific Software Days" URL="http://bss.parallactic.com/resources/8th-annual-scientific-software-days"]
+"crosscutting" ->  "WSSSPE5.2.md" [colorscheme="svg" color="fuchsia"];
+"WSSSPE5.2.md" [label="Wssspe5.2\n" URL="http://bss.parallactic.com/events/wssspe5-2 "];
+"crosscutting" ->  "Workshop.SE4Science17.md" [colorscheme="svg" color="fuchsia"];
+"Workshop.SE4Science17.md" [label="2017 International Workshop on Software Engineering for Science" URL="http://bss.parallactic.com/resources/2017-international-workshop-on-software-engineering-for-science"]}}
