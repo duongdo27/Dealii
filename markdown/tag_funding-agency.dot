@@ -1,0 +1,9 @@
+digraph bettersoftware {
+            rankdir = LR;
+            ratio = fill;
+            node [style=filled];
+            node [shape = box];
+"funding-agency" [colorscheme="svg" color="khaki"];
+"funding-agency" ->  "OSSSustainabilityResources.md" [colorscheme="svg" color="khaki"];
+"OSSSustainabilityResources.md" [label="Sustaining Open Source Software" URL="http://bss.parallactic.com/resources/sustaining-open-source-software"]
+}

@@ -1,0 +1,17 @@
+digraph bettersoftware {
+            rankdir = LR;
+            ratio = fill;
+            node [style=filled];
+            node [shape = box];
+"website" [colorscheme="svg" color="darkorange"];
+"website" ->  "ChooseALicense.md" [colorscheme="svg" color="darkorange"];
+"ChooseALicense.md" [label="Choose an Open Source License" URL="http://bss.parallactic.com/resources/choose-an-open-source-license"]
+"website" ->  "ContributorAgreements.md" [colorscheme="svg" color="darkorange"];
+"ContributorAgreements.md" [label="Contributor Agreements" URL="http://bss.parallactic.com/resources/contributor-agreements"]
+"website" ->  "FSFLicensingAndComplianceTeam.md" [colorscheme="svg" color="darkorange"];
+"FSFLicensingAndComplianceTeam.md" [label="Free Software Foundation Licensing & Compliance Team" URL="http://bss.parallactic.com/resources/free-software-foundation-licensing-compliance-team"]
+"website" ->  "OSSSustainabilityResources.md" [colorscheme="svg" color="darkorange"];
+"OSSSustainabilityResources.md" [label="Sustaining Open Source Software" URL="http://bss.parallactic.com/resources/sustaining-open-source-software"]
+"website" ->  "OpenSourceInitiative.md" [colorscheme="svg" color="darkorange"];
+"OpenSourceInitiative.md" [label="Open Source Initiative" URL="http://bss.parallactic.com/resources/open-source-initiative"]
+}

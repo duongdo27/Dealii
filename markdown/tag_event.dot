@@ -1,0 +1,9 @@
+digraph bettersoftware {
+            rankdir = LR;
+            ratio = fill;
+            node [style=filled];
+            node [shape = box];
+"event" [colorscheme="svg" color="blueviolet"];
+"event" ->  "SwProductivityAndSustainabilityForCseAndDataScience.SIAM-CSE17.md" [colorscheme="svg" color="blueviolet"];
+"poster" [colorscheme="svg" color="orchid"];
+}

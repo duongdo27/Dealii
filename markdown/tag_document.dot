@@ -1,0 +1,30 @@
+digraph bettersoftware {
+            rankdir = LR;
+            ratio = fill;
+            node [style=filled];
+            node [shape = box];
+"document" ->  "HowToConfigureSw.md" [colorscheme="svg" color="lightslategrey"];
+"HowToConfigureSw.md" [label="How to Configure Software" URL="http://bss.parallactic.com/resources/how-to-configure-software"]
+"document" ->  "HowToDoVersionControlWithGitInYourCseProject.md" [colorscheme="svg" color="lightslategrey"];
+"HowToDoVersionControlWithGitInYourCseProject.md" [label="How to do Version Control with Git in your CSE Project" URL="http://bss.parallactic.com/resources/how-to-do-version-control-with-git-in-your-cse-project"]
+"document" ->  "HowToEnablePerfPortabilityForCseApps.md" [colorscheme="svg" color="lightslategrey"];
+"HowToEnablePerfPortabilityForCseApps.md" [label="How to Enable Performance Portability for CSE Applications?" URL="http://bss.parallactic.com/resources/how-to-enable-performance-portability-for-cse-applications?"]
+"document" ->  "HowToImproveTestingForCseSw.md" [colorscheme="svg" color="lightslategrey"];
+"HowToImproveTestingForCseSw.md" [label="How to Improve Testing for CSE Software" URL="http://bss.parallactic.com/resources/how-to-improve-testing-for-cse-software"]
+"document" ->  "HowToWriteGoodDocumentation.md" [colorscheme="svg" color="lightslategrey"];
+"HowToWriteGoodDocumentation.md" [label="How to Write Good Documentation for CSE Software" URL="http://bss.parallactic.com/resources/how-to-write-good-documentation-for-cse-software"]
+"document" ->  "OSSSustainabilityResources.md" [colorscheme="svg" color="lightslategrey"];
+"OSSSustainabilityResources.md" [label="Sustaining Open Source Software" URL="http://bss.parallactic.com/resources/sustaining-open-source-software"]
+"document" ->  "WhatAreSwCodingStandards.md" [colorscheme="svg" color="lightslategrey"];
+"WhatAreSwCodingStandards.md" [label="What are software coding standards?" URL="http://bss.parallactic.com/resources/what-are-software-coding-standards?"]
+"document" ->  "WhatIsCseSwTesting.md" [colorscheme="svg" color="lightslategrey"];
+"WhatIsCseSwTesting.md" [label="What is CSE Software Testing?" URL="http://bss.parallactic.com/resources/what-is-cse-software-testing?"]
+"document" ->  "WhatIsGoodDocumentation.md" [colorscheme="svg" color="lightslategrey"];
+"WhatIsGoodDocumentation.md" [label="What is Good Documentation for CSE Software" URL="http://bss.parallactic.com/resources/what-is-good-documentation-for-cse-software"]
+"document" ->  "WhatIsPerfPortabilityForCseApps.md" [colorscheme="svg" color="lightslategrey"];
+"WhatIsPerfPortabilityForCseApps.md" [label="What is Performance Portability for CSE Applications?" URL="http://bss.parallactic.com/resources/what-is-performance-portability-for-cse-applications?"]
+"document" ->  "WhatIsSwConfiguration.md" [colorscheme="svg" color="lightslategrey"];
+"WhatIsSwConfiguration.md" [label="What is Software Configuration?" URL="http://bss.parallactic.com/resources/what-is-software-configuration?"]
+"document" ->  "WhatIsVersionControl.md" [colorscheme="svg" color="lightslategrey"];
+"WhatIsVersionControl.md" [label="What is Version Control?" URL="http://bss.parallactic.com/resources/what-is-version-control?"]
+}

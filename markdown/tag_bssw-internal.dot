@@ -1,0 +1,13 @@
+digraph bettersoftware {
+            rankdir = LR;
+            ratio = fill;
+            node [style=filled];
+            node [shape = box];
+"bssw-internal" [colorscheme="svg" color="red"];
+"bssw-internal" ->  "ResourceTemplate.AggregateBase.md" [colorscheme="svg" color="red"];
+"ResourceTemplate.AggregateBase.md" [label="Resource Template: Aggregate Base", URL="http://bss.parallactic.com/resources/resource-template-aggregate-base"]
+"bssw-internal" ->  "ResourceTemplate.AggregateSubresource.md" [colorscheme="svg" color="red"];
+"ResourceTemplate.AggregateSubresource.md" [label="Resource Template: Aggregate Subresource" URL="http://bss.parallactic.com/resources/resource-template-aggregate-subresource"]
+"bssw-internal" ->  "ResourceTemplate.Basic.md" [colorscheme="svg" color="red"];
+"ResourceTemplate.Basic.md" [label="Resource Template" URL="http://bss.parallactic.com/resources/resource-template"]
+}

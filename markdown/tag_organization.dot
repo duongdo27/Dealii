@@ -1,0 +1,19 @@
+digraph bettersoftware {
+            rankdir = LR;
+            ratio = fill;
+            node [style=filled];
+            node [shape = box];
+"organization" [colorscheme="svg" color="darkred"];
+"organization" ->  "AssociationForSoftwareTesting.md" [colorscheme="svg" color="darkred"];
+"AssociationForSoftwareTesting.md" [label="Association for Software Testing" URL="http://bss.parallactic.com/resources/association-for-software-testing"]
+"organization" ->  "FORCE11SoftwareCitationImplementationWorkingGroup.md" [colorscheme="svg" color="darkred"];
+"FORCE11SoftwareCitationImplementationWorkingGroup.md" [label="FORCE11 Software Citation Implementation Working Group" URL="http://bss.parallactic.com/resources/force11-software-citation-implementation-working-group"]
+"organization" ->  "IDEASSoftwareProductivityProject.md" [colorscheme="svg" color="darkred"];
+"IDEASSoftwareProductivityProject.md" [label="IDEAS Software Productivity Project" URL="http://bss.parallactic.com/resources/ideas-software-productivity-project"]
+"organization" ->  "OSSSustainabilityResources.md" [colorscheme="svg" color="darkred"];
+"OSSSustainabilityResources.md" [label="Sustaining Open Source Software" URL="http://bss.parallactic.com/resources/sustaining-open-source-software"]
+"organization" ->  "OpenSourceInitiative.md" [colorscheme="svg" color="darkred"];
+"OpenSourceInitiative.md" [label="Open Source Initiative" URL="http://bss.parallactic.com/resources/open-source-initiative"]
+"organization" ->  "SoftwareSustainabilityInstitute.md" [colorscheme="svg" color="darkred"];
+"SoftwareSustainabilityInstitute.md" [label="Software Sustainability Institute" URL="http://bss.parallactic.com/resources/software-sustainability-institute"]
+}

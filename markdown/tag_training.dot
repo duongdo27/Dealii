@@ -1,0 +1,25 @@
+digraph bettersoftware {
+            rankdir = LR;
+            ratio = fill;
+            node [style=filled];
+            node [shape = box];
+"training" [colorscheme="svg" color="lightcoral"];
+"training" ->  "BestPracticesForHPCSwDevelopersWebinarSeries.md" [colorscheme="svg" color="lightcoral"];
+"BestPracticesForHPCSwDevelopersWebinarSeries.md" [label="Training Resources for Software Productivity and Sustainability" URL="http://bss.parallactic.com/resources/training-resources-for-software-productivity-and-sustainability"]
+"training" ->  "CseCollaborationThroughSoftwareImprovingProductivityAndSustainability.SIAM-CSE17.md" [colorscheme="svg" color="lightcoral"];
+"CseCollaborationThroughSoftwareImprovingProductivityAndSustainability.SIAM-CSE17.md" [label="Training Resources for Software Productivity and Sustainability" URL="http://bss.parallactic.com/resources/training-resources-for-software-productivity-and-sustainability"]
+"training" ->  "DistributedVersionControlAndContinuousIntegrationTesting.md" [colorscheme="svg" color="lightcoral"];
+"DistributedVersionControlAndContinuousIntegrationTesting.md" [label="Distributed Version Control and Continuous Integration Testing" URL="http://bss.parallactic.com/resources/distributed-version-control-and-continuous-integration-testing"]
+"training" ->  "GettingGitRight.md" [colorscheme="svg" color="lightcoral"];
+"GettingGitRight.md" [label="Getting Git Right" URL="http://bss.parallactic.com/resources/getting-git-right"]
+"training" ->  "HerouxATPESC2016.md" [colorscheme="svg" color="lightcoral"];
+"video" ->  "HerouxATPESC2016.md" [colorscheme="svg" color="darkgoldenrod"];
+"training" ->  "IntroToSoftwareLicensing.md" [colorscheme="svg" color="lightcoral"];
+"IntroToSoftwareLicensing.md" [label="An Introduction to Software Licensing" URL="http://bss.parallactic.com/resources/an-introduction-to-software-licensing"]
+"training" ->  "KlinvexATPESC2016.md" [colorscheme="svg" color="lightcoral"];
+"KlinvexATPESC2016.md" [label="Documenting Your Code" URL="http://bss.parallactic.com/resources/documenting-your-code"]
+"training" ->  "SwTestingTutorialTutorialsPoint.md" [colorscheme="svg" color="lightcoral"];
+"video" ->  "SwTestingTutorialTutorialsPoint.md" [colorscheme="svg" color="darkgoldenrod"];
+"training" ->  "SwTestingUdacity.md" [colorscheme="svg" color="lightcoral"];
+"video" ->  "SwTestingUdacity.md" [colorscheme="svg" color="darkgoldenrod"];
+}

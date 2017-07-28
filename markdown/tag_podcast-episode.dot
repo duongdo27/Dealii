@@ -1,0 +1,9 @@
+digraph bettersoftware {
+            rankdir = LR;
+            ratio = fill;
+            node [style=filled];
+            node [shape = box];
+"podcast-episode" [colorscheme="svg" color="violet"];
+"podcast-episode" ->  "GoogleHiPerfTeams.md" [colorscheme="svg" color="violet"];
+"GoogleHiPerfTeams.md" [label="High Performing Teams at Google" URL="http://bss.parallactic.com/resources/high-performing-teams-at-google"]
+}

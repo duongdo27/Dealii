@@ -1,0 +1,17 @@
+digraph bettersoftware {
+            rankdir = LR;
+            ratio = fill;
+            node [style=filled];
+            node [shape = box];
+"video" [colorscheme="svg" color="darkgoldenrod"];
+"video" ->  "BestPracticesForHPCSwDevelopersWebinarSeries.md" [colorscheme="svg" color="darkgoldenrod"];
+"BestPracticesForHPCSwDevelopersWebinarSeries.md" [label="Training Resources for Software Productivity and Sustainability" URL="http://bss.parallactic.com/resources/training-resources-for-software-productivity-and-sustainability"]
+"video" ->  "CseCollaborationThroughSoftwareImprovingProductivityAndSustainability.SIAM-CSE17.md" [colorscheme="svg" color="darkgoldenrod"];
+"CseCollaborationThroughSoftwareImprovingProductivityAndSustainability.SIAM-CSE17.md" [label="Training Resources for Software Productivity and Sustainability" URL="http://bss.parallactic.com/resources/training-resources-for-software-productivity-and-sustainability"]
+"video" ->  "DistributedVersionControlAndContinuousIntegrationTesting.md" [colorscheme="svg" color="darkgoldenrod"];
+"DistributedVersionControlAndContinuousIntegrationTesting.md" [label="Distributed Version Control and Continuous Integration Testing" URL="http://bss.parallactic.com/resources/distributed-version-control-and-continuous-integration-testing"]
+"video" ->  "IntroToSoftwareLicensing.md" [colorscheme="svg" color="darkgoldenrod"];
+"IntroToSoftwareLicensing.md" [label="An Introduction to Software Licensing" URL="http://bss.parallactic.com/resources/an-introduction-to-software-licensing"]
+"video" ->  "KlinvexATPESC2016.md" [colorscheme="svg" color="darkgoldenrod"];
+"KlinvexATPESC2016.md" [label="Documenting Your Code" URL="http://bss.parallactic.com/resources/documenting-your-code"]
+}

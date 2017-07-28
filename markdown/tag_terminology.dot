@@ -1,0 +1,19 @@
+digraph bettersoftware {
+            rankdir = LR;
+            ratio = fill;
+            node [style=filled];
+            node [shape = box];
+"terminology" [colorscheme="svg" color="sandybrown"];
+"terminology" ->  "WhatAreSwCodingStandards.md" [colorscheme="svg" color="sandybrown"];
+"WhatAreSwCodingStandards.md" [label="What are software coding standards?" URL="http://bss.parallactic.com/resources/what-are-software-coding-standards?"]
+"terminology" ->  "WhatIsCseSwTesting.md" [colorscheme="svg" color="sandybrown"];
+"WhatIsCseSwTesting.md" [label="What is CSE Software Testing?" URL="http://bss.parallactic.com/resources/what-is-cse-software-testing?"]
+"terminology" ->  "WhatIsGoodDocumentation.md" [colorscheme="svg" color="sandybrown"];
+"WhatIsGoodDocumentation.md" [label="What is Good Documentation for CSE Software" URL="http://bss.parallactic.com/resources/what-is-good-documentation-for-cse-software"]
+"terminology" ->  "WhatIsPerfPortabilityForCseApps.md" [colorscheme="svg" color="sandybrown"];
+"WhatIsPerfPortabilityForCseApps.md" [label="What is Performance Portability for CSE Applications?" URL="http://bss.parallactic.com/resources/what-is-performance-portability-for-cse-applications?"]
+"terminology" ->  "WhatIsSwConfiguration.md" [colorscheme="svg" color="sandybrown"];
+"WhatIsSwConfiguration.md" [label="What is Software Configuration?" URL="http://bss.parallactic.com/resources/what-is-software-configuration?"]
+"terminology" ->  "WhatIsVersionControl.md" [colorscheme="svg" color="sandybrown"];
+"WhatIsVersionControl.md" [label="What is Version Control?" URL="http://bss.parallactic.com/resources/what-is-version-control?"]
+}

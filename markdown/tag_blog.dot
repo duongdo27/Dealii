@@ -1,0 +1,11 @@
+digraph bettersoftware {
+            rankdir = LR;
+            ratio = fill;
+            node [style=filled];
+            node [shape = box];
+"blog" [colorscheme="svg" color="seagreen"];
+"blog" ->  "ItWillNeverWorkInTheory.md" [colorscheme="svg" color="seagreen"];
+"ItWillNeverWorkInTheory.md" [label="It Will Never Work in Theory" URL="http://bss.parallactic.com/resources/it-will-never-work-in-theory"]
+"blog" ->  "MethodsAndToolsEditor.md" [colorscheme="svg" color="seagreen"];
+"MethodsAndToolsEditor.md" [label="Methods & Tools Editor" URL="http://bss.parallactic.com/resources/methods-tools-editor"]
+}

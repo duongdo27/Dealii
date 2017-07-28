@@ -1,0 +1,17 @@
+digraph bettersoftware {
+            rankdir = LR;
+            ratio = fill;
+            node [style=filled];
+            node [shape = box];
+"howto" [colorscheme="svg" color="mediumvioletred"];
+"howto" ->  "HowToConfigureSw.md" [colorscheme="svg" color="mediumvioletred"];
+"HowToConfigureSw.md" [label="How to Configure Software" URL="http://bss.parallactic.com/resources/how-to-configure-software"]
+"howto" ->  "HowToDoVersionControlWithGitInYourCseProject.md" [colorscheme="svg" color="mediumvioletred"];
+"HowToDoVersionControlWithGitInYourCseProject.md" [label="How to do Version Control with Git in your CSE Project" URL="http://bss.parallactic.com/resources/how-to-do-version-control-with-git-in-your-cse-project"]
+"howto" ->  "HowToEnablePerfPortabilityForCseApps.md" [colorscheme="svg" color="mediumvioletred"];
+"HowToEnablePerfPortabilityForCseApps.md" [label="How to Enable Performance Portability for CSE Applications?" URL="http://bss.parallactic.com/resources/how-to-enable-performance-portability-for-cse-applications?"]
+"howto" ->  "HowToImproveTestingForCseSw.md" [colorscheme="svg" color="mediumvioletred"];
+"HowToImproveTestingForCseSw.md" [label="How to Improve Testing for CSE Software" URL="http://bss.parallactic.com/resources/how-to-improve-testing-for-cse-software"]
+"howto" ->  "HowToWriteGoodDocumentation.md" [colorscheme="svg" color="mediumvioletred"];
+"HowToWriteGoodDocumentation.md" [label="How to Write Good Documentation for CSE Software" URL="http://bss.parallactic.com/resources/how-to-write-good-documentation-for-cse-software"]
+}

@@ -1,0 +1,13 @@
+digraph bettersoftware {
+            rankdir = LR;
+            ratio = fill;
+            node [style=filled];
+            node [shape = box];
+"reproducibility" [colorscheme="svg" color="mediumspringgreen"];
+"reproducibility" ->  "BlogArticleSkeletonB.md" [colorscheme="svg" color="mediumspringgreen"];
+"BlogArticleSkeletonB.md" [label="Insightful blog article on topic B" URL="http://bss.parallactic.com/resources/insightful-blog-article-on-topic-b"]
+"reproducibility" ->  "BlogArticleSkeletonC.md" [colorscheme="svg" color="mediumspringgreen"];
+"BlogArticleSkeletonC.md" [label="Insightful blog article on topic C" URL="http://bss.parallactic.com/resources/insightful-blog-article-on-topic-c"]
+"reproducibility" ->  "ImproveUserConfidenceInSwUpdates.md" [colorscheme="svg" color="mediumspringgreen"];
+"ImproveUserConfidenceInSwUpdates.md" [label="Improve user confidence in your software updates" URL="http://bss.parallactic.com/resources/improve-user-confidence-in-your-software-updates"]
+}

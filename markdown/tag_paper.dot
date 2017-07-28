@@ -1,0 +1,13 @@
+digraph bettersoftware {
+            rankdir = LR;
+            ratio = fill;
+            node [style=filled];
+            node [shape = box];
+"paper" [colorscheme="svg" color="cyan"];
+"paper" ->  "ClaimsAboutSoftwareEnginScienceReview.md" [colorscheme="svg" color="cyan"];
+"ClaimsAboutSoftwareEnginScienceReview.md" [label="Claims about the use of software engineering practices in science: A systematic literature review", URL="http://bss.parallactic.com/resources/claims-about-the-use-of-software-engineering-practices-in-science-a-systematic-literature-review"]
+"paper" ->  "HowToEstimateOperationalIntensity.md" [colorscheme="svg" color="cyan"];
+"HowToEstimateOperationalIntensity.md" [label="How to estimate operational intensity" URL="http://bss.parallactic.com/resources/how-to-estimate-operational-intensity"]
+"paper" ->  "SoftwareDevelopmentPracticesInAcademiaACaseStudyComparison.md" [colorscheme="svg" color="cyan"];
+"SoftwareDevelopmentPracticesInAcademiaACaseStudyComparison.md" [label="Software Development Practices In Academia: A Case Study Comparison", URL="http://bss.parallactic.com/resources/software-development-practices-in-academia-a-case-study-comparison"]
+}

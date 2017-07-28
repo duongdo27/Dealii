@@ -1,0 +1,11 @@
+digraph bettersoftware {
+            rankdir = LR;
+            ratio = fill;
+            node [style=filled];
+            node [shape = box];
+"project" [colorscheme="svg" color="mediumseagreen"];
+"project" ->  "IDEASSoftwareProductivityProject.md" [colorscheme="svg" color="mediumseagreen"];
+"IDEASSoftwareProductivityProject.md" [label="IDEAS Software Productivity Project" URL="http://bss.parallactic.com/resources/ideas-software-productivity-project"]
+"project" ->  "SoftwareSustainabilityInstitute.md" [colorscheme="svg" color="mediumseagreen"];
+"SoftwareSustainabilityInstitute.md" [label="Software Sustainability Institute" URL="http://bss.parallactic.com/resources/software-sustainability-institute"]
+}
