@@ -1,4 +1,4 @@
 Topic: Improving Productivity and Sustainability
 ================================================
 
-\dotfile topic_improving productivity and sustainability.dot
+\dotfile topic_improving_productivity_and_sustainability.dot

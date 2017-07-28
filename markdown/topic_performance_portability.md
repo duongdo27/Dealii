@@ -1,4 +1,4 @@
 Topic: Performance Portability
 ==============================
 
-\dotfile topic_performance portability.dot
+\dotfile topic_performance_portability.dot

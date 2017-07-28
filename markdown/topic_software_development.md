@@ -1,4 +1,4 @@
 Topic: Software Development
 ===========================
 
-\dotfile topic_software development.dot
+\dotfile topic_software_development.dot

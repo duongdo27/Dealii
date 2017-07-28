@@ -1,4 +1,4 @@
 Topic: Version control
 ======================
 
-\dotfile topic_version control.dot
+\dotfile topic_version_control.dot

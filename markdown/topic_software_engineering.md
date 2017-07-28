@@ -1,4 +1,4 @@
 Topic: Software Engineering
 ===========================
 
-\dotfile topic_software engineering.dot
+\dotfile topic_software_engineering.dot
