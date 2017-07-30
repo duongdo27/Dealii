@@ -11,15 +11,19 @@ digraph bettersoftware {
 "planning" ->  "BestPracticesForHPCSwDevelopersWebinarSeries.md" [colorscheme="svg" color="firebrick"];
 "BestPracticesForHPCSwDevelopersWebinarSeries.md" [label="Training Resources for Software Productivity and Sustainability" URL="http://bss.parallactic.com/resources/training-resources-for-software-productivity-and-sustainability"]
 "planning" ->  "SwProductivityAndSustainabilityForCseAndDataScience.SIAM-CSE17.md" [colorscheme="svg" color="firebrick"];
-"reliability" ->  "SwProductivityAndSustainabilityForCseAndDataScience.SIAM-CSE17.md" [colorscheme="svg" color="purple"];
+"SwProductivityAndSustainabilityForCseAndDataScience.SIAM-CSE17.md" [label="Software Productivity And Sustainability For Cse And Data Science" URL="http://bss.parallactic.com/events/siam-conference-on-computational-science-and-engineering-cse17 "]
 "planning" ->  "Conference.SC17.md" [colorscheme="svg" color="firebrick"];
 "Conference.SC17.md" [label="SC17" URL="http://bss.parallactic.com/resources/sc17"]
 "planning" ->  "Conference.SIAM-CSE17.md" [colorscheme="svg" color="firebrick"];
-"collaboration" ->  "Conference.SIAM-CSE17.md" [colorscheme="svg" color="slategrey"];
+"Conference.SIAM-CSE17.md" [label="SIAM Conference On Computational Science And Engineering" URL="http://bss.parallactic.com/events/siam-conference-on-computational-science-and-engineering-cse17 "]
 "planning" ->  "Conference.ScientificSoftwareDays17.md" [colorscheme="svg" color="firebrick"];
 "Conference.ScientificSoftwareDays17.md" [label="8th Annual Scientific Software Days" URL="http://bss.parallactic.com/resources/8th-annual-scientific-software-days"]
 "planning" ->  "WSSSPE5.1.md" [colorscheme="svg" color="firebrick"];
-"crosscutting" ->  "WSSSPE5.1.md" [colorscheme="svg" color="fuchsia"];
+"WSSSPE5.1.md" [label="Wssspe5.1\n" URL="http://bss.parallactic.com/events/wssspe5-1"];
+"planning" ->  "WSSSPE5.2.md" [colorscheme="svg" color="firebrick"];
+"WSSSPE5.2.md" [label="Wssspe5.2\n" URL="http://bss.parallactic.com/events/wssspe5-2 "];
+"planning" ->  "OSSSustainabilityResources.md" [colorscheme="svg" color="firebrick"];
+"OSSSustainabilityResources.md" [label="Sustaining Open Source Software" URL="http://bss.parallactic.com/resources/sustaining-open-source-software"]
 "planning" ->  "Workshop.SE4Science17.md" [colorscheme="svg" color="firebrick"];
 "Workshop.SE4Science17.md" [label="2017 International Workshop on Software Engineering for Science" URL="http://bss.parallactic.com/resources/2017-international-workshop-on-software-engineering-for-science"]
 }

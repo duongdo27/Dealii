@@ -23,7 +23,7 @@ digraph bettersoftware {
 "collaboration" ->  "GoogleHiPerfTeams.md" [colorscheme="svg" color="slategrey"];
 "GoogleHiPerfTeams.md" [label="High Performing Teams at Google" URL="http://bss.parallactic.com/resources/high-performing-teams-at-google"]
 "collaboration" ->  "HerouxATPESC2016.md" [colorscheme="svg" color="slategrey"];
-"reliability" ->  "HerouxATPESC2016.md" [colorscheme="svg" color="purple"];
+"HerouxATPESC2016.md" [label="HPC Complete: Reproducible, Sustainable, Productive" URL="http://bss.parallactic.com/resources/hpc-complete-reproducible-sustainable-productive"]
 "collaboration" ->  "SoftwareInfrastructureForSustainedInnovationSI2NationalScienceFoundationUS.md" [colorscheme="svg" color="slategrey"];
 "SoftwareInfrastructureForSustainedInnovationSI2NationalScienceFoundationUS.md" [label="Software Infrastructure For Sustained Innovation (Si2) — National Science Foundation (Us)" URL="http://bss.parallactic.com/resources/software-infrastructure-for-sustained-innovation-si2-national-science-foundation-us"]
 "collaboration" ->  "SoftwareSustainabilityInstitute.md" [colorscheme="svg" color="slategrey"];
@@ -31,5 +31,25 @@ digraph bettersoftware {
 "collaboration" ->  "SwEngForComputationalScienceWorkshopSeries.md" [colorscheme="svg" color="slategrey"];
 "SwEngForComputationalScienceWorkshopSeries.md" [label="Software Engineering for Computational Science Workshop Series" URL="http://bss.parallactic.com/resources/software-engineering-for-computational-science-workshop-series"]
 "collaboration" ->  "SwProductivityAndSustainabilityForCseAndDataScience.SIAM-CSE17.md" [colorscheme="svg" color="slategrey"];
-"performance" ->  "SwProductivityAndSustainabilityForCseAndDataScience.SIAM-CSE17.md" [colorscheme="svg" color="lawngreen"];
+"SwProductivityAndSustainabilityForCseAndDataScience.SIAM-CSE17.md" [label="Software Productivity And Sustainability For Cse And Data Science" URL="http://bss.parallactic.com/events/siam-conference-on-computational-science-and-engineering-cse17 "]
+"collaboration" ->  "TestImages.md" [colorscheme="svg" color="slategrey"];
+"TestImages.md" [label="Test With Images" URL="http://bss.parallactic.com/resources/test-with-images"]
+"collaboration" ->  "TestImages2.md" [colorscheme="svg" color="slategrey"];
+"TestImages2.md" [label="Test With Images 2\n" URL="http://bss.parallactic.com/resources/test-with-images-2 "]
+"collaboration" ->  "Training.ProductivityAndSustainability.md" [colorscheme="svg" color="slategrey"];
+"Training.ProductivityAndSustainability.md" [label="Training Resources for Software Productivity and Sustainability" URL="http://bss.parallactic.com/resources/training-resources-for-software-productivity-and-sustainability"]
+"collaboration" ->  "Conference.SIAM-CSE17.md" [colorscheme="svg" color="slategrey"];
+"Conference.SIAM-CSE17.md" [label="SIAM Conference On Computational Science And Engineering" URL="http://bss.parallactic.com/events/siam-conference-on-computational-science-and-engineering-cse17 "]
+"collaboration" ->  "CseCollaborationThroughSoftwareImprovingProductivityAndSustainability.SIAM-CSE17.md" [colorscheme="svg" color="slategrey"];
+"CseCollaborationThroughSoftwareImprovingProductivityAndSustainability.SIAM-CSE17.md" [label="Training Resources for Software Productivity and Sustainability" URL="http://bss.parallactic.com/resources/training-resources-for-software-productivity-and-sustainability"]
+"collaboration" ->  "HowToPublishCseSw.md" [colorscheme="svg" color="slategrey"];
+"HowToPublishCseSw.md" [label="How to Publish CSE Software" URL="http://bss.parallactic.com/resources/how-to-publish-cse-software"]
+"collaboration" ->  "IDEASSoftwareProductivityProject.md" [colorscheme="svg" color="slategrey"];
+"IDEASSoftwareProductivityProject.md" [label="IDEAS Software Productivity Project" URL="http://bss.parallactic.com/resources/ideas-software-productivity-project"]
+"collaboration" ->  "IntroToSoftwareLicensing.md" [colorscheme="svg" color="slategrey"];
+"IntroToSoftwareLicensing.md" [label="An Introduction to Software Licensing" URL="http://bss.parallactic.com/resources/an-introduction-to-software-licensing"]
+"collaboration" ->  "OSSSustainabilityResources.md" [colorscheme="svg" color="slategrey"];
+"OSSSustainabilityResources.md" [label="Sustaining Open Source Software" URL="http://bss.parallactic.com/resources/sustaining-open-source-software"]
+"collaboration" ->  "OpenSourceInitiative.md" [colorscheme="svg" color="slategrey"];
+"OpenSourceInitiative.md" [label="Open Source Initiative" URL="http://bss.parallactic.com/resources/open-source-initiative"]
 }

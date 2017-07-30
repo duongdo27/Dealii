@@ -3,22 +3,22 @@ digraph bettersoftware {
             ratio = fill;
             node [style=filled];
             node [shape = box];
-"development" [colorscheme="svg" color="palegreen"];
+"development" [colorscheme="svg" color="palegreen" URL="md_markdown_category_development.html"];
 "development" ->  "BlogArticleSkeletonA.md" [colorscheme="svg" color="palegreen"];
 "BlogArticleSkeletonA.md" [label="Insightful blog article on topic A" URL="http://bss.parallactic.com/resources/insightful-blog-article-on-topic-a"]
-"reliability" [colorscheme="svg" color="purple"];
+"reliability" [colorscheme="svg" color="purple" URL="md_markdown_category_reliability.html"];
 "reliability" ->  "BlogArticleSkeletonB.md" [colorscheme="svg" color="purple"];
 "BlogArticleSkeletonB.md" [label="Insightful blog article on topic B" URL="http://bss.parallactic.com/resources/insightful-blog-article-on-topic-b"]
 "development" ->  "BlogArticleSkeletonB.md" [colorscheme="svg" color="palegreen"];
 "BlogArticleSkeletonB.md" [label="Insightful blog article on topic B" URL="http://bss.parallactic.com/resources/insightful-blog-article-on-topic-b"]
 "reliability" ->  "BlogArticleSkeletonC.md" [colorscheme="svg" color="purple"];
 "BlogArticleSkeletonC.md" [label="Insightful blog article on topic C" URL="http://bss.parallactic.com/resources/insightful-blog-article-on-topic-c"]
-"planning" [colorscheme="svg" color="firebrick"];
+"planning" [colorscheme="svg" color="firebrick" URL="md_markdown_category_planning.html"];
 "planning" ->  "BlogArticleSkeletonD.md" [colorscheme="svg" color="firebrick"];
 "BlogArticleSkeletonD.md" [label="Insightful blog article on topic D" URL="http://bss.parallactic.com/resources/insightful-blog-article-on-topic-d"]
 "planning" ->  "BlogArticleSkeletonE.md" [colorscheme="svg" color="firebrick"];
 "BlogArticleSkeletonE.md" [label="Insightful blog article on topic E" URL="http://bss.parallactic.com/resources/insightful-blog-article-on-topic-e"]
-"performance" [colorscheme="svg" color="lawngreen"];
+"performance" [colorscheme="svg" color="lawngreen" URL="md_markdown_category_performance.html"];
 "performance" ->  "BlogArticleSkeletonE.md" [colorscheme="svg" color="lawngreen"];
 "BlogArticleSkeletonE.md" [label="Insightful blog article on topic E" URL="http://bss.parallactic.com/resources/insightful-blog-article-on-topic-e"]
 "reliability" ->  "ImproveUserConfidenceInSwUpdates.md" [colorscheme="svg" color="purple"];
@@ -27,10 +27,10 @@ digraph bettersoftware {
 "ImproveUserConfidenceInSwUpdates.md" [label="Improve user confidence in your software updates" URL="http://bss.parallactic.com/resources/improve-user-confidence-in-your-software-updates"]
 "development" ->  "ContainersForResearchSw.md" [colorscheme="svg" color="palegreen"];
 "ContainersForResearchSw.md" [label="Containers for Research Software" URL="http://bss.parallactic.com/resources/containers-for-research-software"]
-"skills" [colorscheme="svg" color="teal"];
+"skills" [colorscheme="svg" color="teal" URL="md_markdown_category_skills.html"];
 "skills" ->  "VisionFitnessForSoftwareProductivity.md" [colorscheme="svg" color="teal"];
 "VisionFitnessForSoftwareProductivity.md" [label="Keeping your Vision Fit for Years of Software Development" URL="http://bss.parallactic.com/resources/keeping-your-vision-fit-for-years-of-software-development"]
-"collaboration" [colorscheme="svg" color="slategrey"];
+"collaboration" [colorscheme="svg" color="slategrey" URL="md_markdown_category_collaboration.html"];
 "collaboration" ->  "AssociationForSoftwareTesting.md" [colorscheme="svg" color="slategrey"];
 "AssociationForSoftwareTesting.md" [label="Association for Software Testing" URL="http://bss.parallactic.com/resources/association-for-software-testing"]
 "planning" ->  "BestPracticesForHPCSwDevelopersWebinarSeries.md" [colorscheme="svg" color="firebrick"];
@@ -39,7 +39,7 @@ digraph bettersoftware {
 "BestPracticesForHPCSwDevelopersWebinarSeries.md" [label="Training Resources for Software Productivity and Sustainability" URL="http://bss.parallactic.com/resources/training-resources-for-software-productivity-and-sustainability"]
 "collaboration" ->  "BestPracticesForHPCSwDevelopersWebinarSeries.md" [colorscheme="svg" color="slategrey"];
 "BestPracticesForHPCSwDevelopersWebinarSeries.md" [label="Training Resources for Software Productivity and Sustainability" URL="http://bss.parallactic.com/resources/training-resources-for-software-productivity-and-sustainability"]
-"crosscutting" [colorscheme="svg" color="fuchsia"];
+"crosscutting" [colorscheme="svg" color="fuchsia" URL="md_markdown_category_crosscutting.html"];
 "crosscutting" ->  "BestPracticesForHPCSwDevelopersWebinarSeries.md" [colorscheme="svg" color="fuchsia"];
 "BestPracticesForHPCSwDevelopersWebinarSeries.md" [label="Training Resources for Software Productivity and Sustainability" URL="http://bss.parallactic.com/resources/training-resources-for-software-productivity-and-sustainability"]
 "performance" ->  "BestPracticesForHPCSwDevelopersWebinarSeries.md" [colorscheme="svg" color="lawngreen"];
@@ -59,7 +59,7 @@ digraph bettersoftware {
 "CseCollaborationThroughSoftwareImprovingProductivityAndSustainability.SIAM-CSE17.md" [label="Training Resources for Software Productivity and Sustainability" URL="http://bss.parallactic.com/resources/training-resources-for-software-productivity-and-sustainability"]
 "collaboration" ->  "CseCollaborationThroughSoftwareImprovingProductivityAndSustainability.SIAM-CSE17.md" [colorscheme="svg" color="slategrey"];
 "CseCollaborationThroughSoftwareImprovingProductivityAndSustainability.SIAM-CSE17.md" [label="Training Resources for Software Productivity and Sustainability" URL="http://bss.parallactic.com/resources/training-resources-for-software-productivity-and-sustainability"]
-"individual productivity" [colorscheme="svg" color="orange"];
+"individual productivity" [colorscheme="svg" color="orange" URL="md_markdown_category_individual_productivity.html];
 "individual productivity" ->  "CseCollaborationThroughSoftwareImprovingProductivityAndSustainability.SIAM-CSE17.md" [colorscheme="svg" color="orange"];
 "CseCollaborationThroughSoftwareImprovingProductivityAndSustainability.SIAM-CSE17.md" [label="Training Resources for Software Productivity and Sustainability" URL="http://bss.parallactic.com/resources/training-resources-for-software-productivity-and-sustainability"]
 "reliability" ->  "DistributedVersionControlAndContinuousIntegrationTesting.md" [colorscheme="svg" color="purple"];
@@ -189,7 +189,7 @@ digraph bettersoftware {
 "WhatIsSwConfiguration.md" [label="What is Software Configuration?" URL="http://bss.parallactic.com/resources/what-is-software-configuration?"]
 "development" ->  "WhatIsVersionControl.md" [colorscheme="svg" color="palegreen"];
 "WhatIsVersionControl.md" [label="What is Version Control?" URL="http://bss.parallactic.com/resources/what-is-version-control?"]
-"collaborations" [colorscheme="svg" color="seagreen"];
+"collaborations" [colorscheme="svg" color="seagreen" URL="md_markdown_category_collaborations.html"];
 "collaborations" ->  "Zenodo.md" [colorscheme="svg" color="seagreen"];
 "Zenodo.md" [label="Zenodo" URL="http://bss.parallactic.com/resources/zenodo"]
 "development" ->  "kitchen-sink-TEST.md" [colorscheme="svg" color="palegreen"];
@@ -217,4 +217,5 @@ digraph bettersoftware {
 "planning" ->  "Workshop.SE4Science17.md" [colorscheme="svg" color="firebrick"];
 "Workshop.SE4Science17.md" [label="2017 International Workshop on Software Engineering for Science" URL="http://bss.parallactic.com/resources/2017-international-workshop-on-software-engineering-for-science"]
 "crosscutting" ->  "Workshop.SE4Science17.md" [colorscheme="svg" color="fuchsia"];
-"Workshop.SE4Science17.md" [label="2017 International Workshop on Software Engineering for Science" URL="http://bss.parallactic.com/resources/2017-international-workshop-on-software-engineering-for-science"]}
+"Workshop.SE4Science17.md" [label="2017 International Workshop on Software Engineering for Science" URL="http://bss.parallactic.com/resources/2017-international-workshop-on-software-engineering-for-science"]
+}

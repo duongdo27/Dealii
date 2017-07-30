@@ -3,6 +3,9 @@ digraph bettersoftware {
             ratio = fill;
             node [style=filled];
             node [shape = box];
+"individual productivity" [colorscheme="svg" color="orange"];
 "individual productivity" ->  "CseCollaborationThroughSoftwareImprovingProductivityAndSustainability.SIAM-CSE17.md" [colorscheme="svg" color="orange"];
 "CseCollaborationThroughSoftwareImprovingProductivityAndSustainability.SIAM-CSE17.md" [label="Training Resources for Software Productivity and Sustainability" URL="http://bss.parallactic.com/resources/training-resources-for-software-productivity-and-sustainability"]
+"individual productivity" ->  "Conference.SIAM-CSE17.md" [colorscheme="svg" color="orange"];
+"Conference.SIAM-CSE17.md" [label="SIAM Conference On Computational Science And Engineering" URL="http://bss.parallactic.com/events/siam-conference-on-computational-science-and-engineering-cse17 "]
 }

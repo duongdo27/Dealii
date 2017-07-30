@@ -9,9 +9,11 @@ digraph bettersoftware {
 "crosscutting" ->  "Conference.SC17.md" [colorscheme="svg" color="fuchsia"];
 "Conference.SC17.md" [label="SC17" URL="http://bss.parallactic.com/resources/sc17"]
 "crosscutting" ->  "Conference.SIAM-CSE17.md" [colorscheme="svg" color="fuchsia"];
-"individual productivity" ->  "Conference.SIAM-CSE17.md" [colorscheme="svg" color="orange"];
+"Conference.SIAM-CSE17.md" [label="SIAM Conference On Computational Science And Engineering" URL="http://bss.parallactic.com/events/siam-conference-on-computational-science-and-engineering-cse17 "]
 "crosscutting" ->  "Conference.ScientificSoftwareDays17.md" [colorscheme="svg" color="fuchsia"];
 "Conference.ScientificSoftwareDays17.md" [label="8th Annual Scientific Software Days" URL="http://bss.parallactic.com/resources/8th-annual-scientific-software-days"]
+"crosscutting" ->  "WSSSPE5.1.md" [colorscheme="svg" color="fuchsia"];
+"WSSSPE5.1.md" [label="Wssspe5.1\n" URL="http://bss.parallactic.com/events/wssspe5-1"];
 "crosscutting" ->  "WSSSPE5.2.md" [colorscheme="svg" color="fuchsia"];
 "WSSSPE5.2.md" [label="Wssspe5.2\n" URL="http://bss.parallactic.com/events/wssspe5-2 "];
 "crosscutting" ->  "Workshop.SE4Science17.md" [colorscheme="svg" color="fuchsia"];

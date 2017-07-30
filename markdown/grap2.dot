@@ -1,6 +1,0 @@
-digraph finite_state {
-    node [shape = circle];
-	file1 ->  file2 [label = ""];
-	file1 ->  file3 [label = ""];
-	file2 ->  file4 [label = ""];
-}

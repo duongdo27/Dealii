@@ -15,9 +15,17 @@ digraph bettersoftware {
 "reliability" ->  "ClaimsAboutSoftwareEnginScienceReview.md" [colorscheme="svg" color="purple"];
 "ClaimsAboutSoftwareEnginScienceReview.md" [label="Claims about the use of software engineering practices in science: A systematic literature review", URL="http://bss.parallactic.com/resources/claims-about-the-use-of-software-engineering-practices-in-science-a-systematic-literature-review"]
 "reliability" ->  "CppUnit.md" [colorscheme="svg" color="purple"];
-"development" ->  "CppUnit.md" [colorscheme="svg" color="palegreen"];
+"CppUnit.md" [label="Cpp Unit" URL="http://bss.parallactic.com/resources/cpp-unit"];
+"reliability" ->  "CseCollaborationThroughSoftwareImprovingProductivityAndSustainability.SIAM-CSE17.md" [colorscheme="svg" color="purple"];
+"CseCollaborationThroughSoftwareImprovingProductivityAndSustainability.SIAM-CSE17.md" [label="Training Resources for Software Productivity and Sustainability" URL="http://bss.parallactic.com/resources/training-resources-for-software-productivity-and-sustainability"]
 "reliability" ->  "DistributedVersionControlAndContinuousIntegrationTesting.md" [colorscheme="svg" color="purple"];
 "DistributedVersionControlAndContinuousIntegrationTesting.md" [label="Distributed Version Control and Continuous Integration Testing" URL="http://bss.parallactic.com/resources/distributed-version-control-and-continuous-integration-testing"]
+"reliability" ->  "HerouxATPESC2016.md" [colorscheme="svg" color="purple"];
+"HerouxATPESC2016.md" [label="HPC Complete: Reproducible, Sustainable, Productive" URL="http://bss.parallactic.com/resources/hpc-complete-reproducible-sustainable-productive"]
+"reliability" ->  "HowToImproveTestingForCseSw.md" [colorscheme="svg" color="purple"];
+"HowToImproveTestingForCseSw.md" [label="How to Improve Testing for CSE Software" URL="http://bss.parallactic.com/resources/how-to-improve-testing-for-cse-software"]
+"reliability" ->  "JenkinsCI.md" [colorscheme="svg" color="purple"];
+"JenkinsCI.md" [label="Jenkins Continuous Integration" URL="http://bss.parallactic.com/resources/jenkins-continuous-integration"]
 "reliability" ->  "SoftwareDevelopmentPracticesInAcademiaACaseStudyComparison.md" [colorscheme="svg" color="purple"];
 "SoftwareDevelopmentPracticesInAcademiaACaseStudyComparison.md" [label="Software Development Practices In Academia: A Case Study Comparison", URL="http://bss.parallactic.com/resources/software-development-practices-in-academia-a-case-study-comparison"]
 "reliability" ->  "SwTestingTutorials.Cse.md" [colorscheme="svg" color="purple"];
@@ -27,7 +35,19 @@ digraph bettersoftware {
 "reliability" ->  "SwTestingTutorials.md" [colorscheme="svg" color="purple"];
 "SwTestingTutorials.md" [label="Software Testing Tutorials" URL="http://bss.parallactic.com/resources/software-testing-tutorials"]
 "reliability" ->  "SwTestingUdacity.md" [colorscheme="svg" color="purple"];
-"skills" ->  "SwTestingUdacity.md" [colorscheme="svg" color="teal"];
+"SwTestingUdacity.md" [label="Software Testing: How To Make Software Fail (Udacity)" URL="http://bss.parallactic.com/resources/software-testing-how-to-make-software-fail-udacity"]
+"reliability" ->  "Conference.SIAM-CSE17.md" [colorscheme="svg" color="purple"];
+"Conference.SIAM-CSE17.md" [label="SIAM Conference On Computational Science And Engineering" URL="http://bss.parallactic.com/events/siam-conference-on-computational-science-and-engineering-cse17 "]
+"reliability" ->  "TestDrivenDevptInScientificSwASurvey.md" [colorscheme="svg" color="purple"];
+"TestDrivenDevptInScientificSwASurvey.md" [label="Test Driven Development In Scientific Software: A Survey" URL="http://bss.parallactic.com/resources/test-driven-development-in-scientific-software-a-survey"]
+"reliability" ->  "TestingAndDocumentingCode.md" [colorscheme="svg" color="purple"];
+"TestingAndDocumentingCode.md" [label="Testing and Documenting Code" URL="http://bss.parallactic.com/resources/testing-and-documenting-code"]
+"reliability" ->  "Training.ProductivityAndSustainability.md" [colorscheme="svg" color="purple"];
+"Training.ProductivityAndSustainability.md" [label="Training Resources for Software Productivity and Sustainability" URL="http://bss.parallactic.com/resources/training-resources-for-software-productivity-and-sustainability"]
+"reliability" ->  "WhatAreSwCodingStandards.md" [colorscheme="svg" color="purple"];
+"WhatAreSwCodingStandards.md" [label="What are software coding standards?" URL="http://bss.parallactic.com/resources/what-are-software-coding-standards?"]
+"reliability" ->  "WhatIsCseSwTesting.md" [colorscheme="svg" color="purple"];
+"WhatIsCseSwTesting.md" [label="What is CSE Software Testing?" URL="http://bss.parallactic.com/resources/what-is-cse-software-testing?"]
 "reliability" ->  "Conference.SIAM-CSE17.md" [colorscheme="svg" color="purple"];
 "Conference.SIAM-CSE17.md" [label="SIAM Conference On Computational Science And Engineering" URL="http://bss.parallactic.com/events/siam-conference-on-computational-science-and-engineering-cse17 "]
 }

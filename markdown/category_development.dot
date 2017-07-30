@@ -12,6 +12,8 @@ digraph bettersoftware {
 "ImproveUserConfidenceInSwUpdates.md" [label="Improve user confidence in your software updates" URL="http://bss.parallactic.com/resources/improve-user-confidence-in-your-software-updates"]
 "development" ->  "ContainersForResearchSw.md" [colorscheme="svg" color="palegreen"];
 "ContainersForResearchSw.md" [label="Containers for Research Software" URL="http://bss.parallactic.com/resources/containers-for-research-software"]
+"development" ->  "CppUnit.md" [colorscheme="svg" color="palegreen"];
+"CppUnit.md" [label="Cpp Unit" URL="http://bss.parallactic.com/resources/cpp-unit"]
 "development" ->  "DocumentationTools.Doxygen.md" [colorscheme="svg" color="palegreen"];
 "DocumentationTools.Doxygen.md" [label="Kitchen-sink resource test" URL="http://bss.parallactic.com/resources/kitchen-sink-resource-test"]
 "development" ->  "DocumentationTools.ReadTheDocs.md" [colorscheme="svg" color="palegreen"];
@@ -26,6 +28,28 @@ digraph bettersoftware {
 "GitHub.md" [label="GitHub" URL="http://bss.parallactic.com/resources/git-hub"]
 "development" ->  "GitTutorialAndReferenceCollection.md" [colorscheme="svg" color="palegreen"];
 "GitTutorialAndReferenceCollection.md" [label="Git Tutorial and Reference Collection" URL="http://bss.parallactic.com/resources/git-tutorial-and-reference-collection"]
+"development" ->  "HowToConfigureSw.md" [colorscheme="svg" color="palegreen"];
+"HowToConfigureSw.md" [label="How to Configure Software" URL="http://bss.parallactic.com/resources/how-to-configure-software"]
+"development" ->  "HowToDoVersionControlWithGitInYourCseProject.md" [colorscheme="svg" color="palegreen"];
+"HowToDoVersionControlWithGitInYourCseProject.md" [label="How to do Version Control with Git in your CSE Project" URL="http://bss.parallactic.com/resources/how-to-do-version-control-with-git-in-your-cse-project"]
+"development" ->  "HowToWriteGoodDocumentation.md" [colorscheme="svg" color="palegreen"];
+"HowToWriteGoodDocumentation.md" [label="How to Write Good Documentation for CSE Software" URL="http://bss.parallactic.com/resources/how-to-write-good-documentation-for-cse-software"]
+"development" ->  "ItWillNeverWorkInTheory.md" [colorscheme="svg" color="palegreen"];
+"ItWillNeverWorkInTheory.md" [label="It Will Never Work in Theory" URL="http://bss.parallactic.com/resources/it-will-never-work-in-theory"]
+"development" ->  "JenkinsCI.md" [colorscheme="svg" color="palegreen"];
+"JenkinsCI.md" [label="Jenkins Continuous Integration" URL="http://bss.parallactic.com/resources/jenkins-continuous-integration"]
+"development" ->  "KlinvexATPESC2016.md" [colorscheme="svg" color="palegreen"];
+"KlinvexATPESC2016.md" [label="Documenting Your Code" URL="http://bss.parallactic.com/resources/documenting-your-code"]
+"development" ->  "MethodsAndToolsEditor.md" [colorscheme="svg" color="palegreen"];
+"MethodsAndToolsEditor.md" [label="Methods & Tools Editor" URL="http://bss.parallactic.com/resources/methods-tools-editor"]
+"development" ->  "TestingAndDocumentingCode.md" [colorscheme="svg" color="palegreen"];
+"TestingAndDocumentingCode.md" [label="Testing and Documenting Code" URL="http://bss.parallactic.com/resources/testing-and-documenting-code"]
+"development" ->  "WhatIsGoodDocumentation.md" [colorscheme="svg" color="palegreen"];
+"WhatIsGoodDocumentation.md" [label="What is Good Documentation for CSE Software" URL="http://bss.parallactic.com/resources/what-is-good-documentation-for-cse-software"]
+"development" ->  "WhatIsSwConfiguration.md" [colorscheme="svg" color="palegreen"];
+"WhatIsSwConfiguration.md" [label="What is Software Configuration?" URL="http://bss.parallactic.com/resources/what-is-software-configuration?"]
+"development" ->  "WhatIsVersionControl.md" [colorscheme="svg" color="palegreen"];
+"WhatIsVersionControl.md" [label="What is Version Control?" URL="http://bss.parallactic.com/resources/what-is-version-control?"]
 "development" ->  "kitchen-sink-TEST.md" [colorscheme="svg" color="palegreen"];
 "kitchen-sink-TEST.md" [label="Kitchen-sink resource test" URL="http://bss.parallactic.com/resources/kitchen-sink-resource-test"]
 }
