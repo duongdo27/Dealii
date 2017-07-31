@@ -1,9 +1,0 @@
-digraph bettersoftware {
-            rankdir = LR;
-            ratio = fill;
-            node [style=filled];
-            node [shape = box];
-"docker" [colorscheme="svg" color="lightpink"];
-"docker" ->  "ContainersForResearchSw.md" [colorscheme="svg" color="lightpink"];
-"ContainersForResearchSw.md" [label="Containers for Research Software" URL="http://bss.parallactic.com/resources/containers-for-research-software"]
-}

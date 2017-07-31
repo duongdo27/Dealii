@@ -1,9 +1,0 @@
-digraph bettersoftware {
-            rankdir = LR;
-            ratio = fill;
-            node [style=filled];
-            node [shape = box];
-"journal" [colorscheme="svg" color="blanchedalmond"];
-"journal" ->  "HowToPublishCseSw.md" [colorscheme="svg" color="blanchedalmond"];
-"HowToPublishCseSw.md" [label="How to Publish CSE Software" URL="http://bss.parallactic.com/resources/how-to-publish-cse-software"]
-}

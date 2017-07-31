@@ -1,9 +1,0 @@
-digraph bettersoftware {
-            rankdir = LR;
-            ratio = fill;
-            node [style=filled];
-            node [shape = box];
-"fellowship-program" [colorscheme="svg" color="indianred"];
-"fellowship-program" ->  "FellowshipProgrammeSoftwareSustainabilityInstituteUK.md" [colorscheme="svg" color="indianred"];
-"FellowshipProgrammeSoftwareSustainabilityInstituteUK.md" [label="Fellowship Programme — Software Sustainability Institute (Uk)" URL="http://bss.parallactic.com/resources/fellowship-programme-software-sustainability-institute-uk"]
-}

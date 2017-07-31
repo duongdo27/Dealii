@@ -1,9 +1,0 @@
-digraph bettersoftware {
-            rankdir = LR;
-            ratio = fill;
-            node [style=filled];
-            node [shape = box];
-"workshop-series" [colorscheme="svg" color="lightblue"];
-"workshop-series" ->  "SwEngForComputationalScienceWorkshopSeries.md" [colorscheme="svg" color="lightblue"];
-"SwEngForComputationalScienceWorkshopSeries.md" [label="Software Engineering for Computational Science Workshop Series" URL="http://bss.parallactic.com/resources/software-engineering-for-computational-science-workshop-series"]
-}

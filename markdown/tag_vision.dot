@@ -1,9 +1,0 @@
-digraph bettersoftware {
-            rankdir = LR;
-            ratio = fill;
-            node [style=filled];
-            node [shape = box];
-"vision" [colorscheme="svg" color="aqua"];
-"vision" ->  "VisionFitnessForSoftwareProductivity.md" [colorscheme="svg" color="aqua"];
-"VisionFitnessForSoftwareProductivity.md" [label="Keeping your Vision Fit for Years of Software Development" URL="http://bss.parallactic.com/resources/keeping-your-vision-fit-for-years-of-software-development"]
-}

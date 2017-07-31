@@ -1,8 +1,0 @@
-digraph bettersoftware {
-            rankdir = LR;
-            ratio = fill;
-            node [style=filled];
-            node [shape = box];
-"minisymposterim" ->  "Conference.SIAM-CSE17.md" [colorscheme="svg" color="thistle"];
-"[import from subresources]" ->  "Conference.SIAM-CSE17.md" [colorscheme="svg" color="peachpuff"];
-}

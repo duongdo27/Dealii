@@ -1,4 +1,0 @@
-Tags
-====
-
-\dotfile tags.dot
