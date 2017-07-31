@@ -59,7 +59,7 @@ digraph bettersoftware {
 "CseCollaborationThroughSoftwareImprovingProductivityAndSustainability.SIAM-CSE17.md" [label="Training Resources for Software Productivity and Sustainability" URL="http://bss.parallactic.com/resources/training-resources-for-software-productivity-and-sustainability"]
 "collaboration" ->  "CseCollaborationThroughSoftwareImprovingProductivityAndSustainability.SIAM-CSE17.md" [colorscheme="svg" color="slategrey"];
 "CseCollaborationThroughSoftwareImprovingProductivityAndSustainability.SIAM-CSE17.md" [label="Training Resources for Software Productivity and Sustainability" URL="http://bss.parallactic.com/resources/training-resources-for-software-productivity-and-sustainability"]
-"individual productivity" [colorscheme="svg" color="orange" URL="md_markdown_category_individual_productivity.html];
+"individual productivity" [colorscheme="svg" color="orange" URL="md_markdown_category_individual_productivity.html"];
 "individual productivity" ->  "CseCollaborationThroughSoftwareImprovingProductivityAndSustainability.SIAM-CSE17.md" [colorscheme="svg" color="orange"];
 "CseCollaborationThroughSoftwareImprovingProductivityAndSustainability.SIAM-CSE17.md" [label="Training Resources for Software Productivity and Sustainability" URL="http://bss.parallactic.com/resources/training-resources-for-software-productivity-and-sustainability"]
 "reliability" ->  "DistributedVersionControlAndContinuousIntegrationTesting.md" [colorscheme="svg" color="purple"];
