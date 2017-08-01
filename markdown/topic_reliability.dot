@@ -5,7 +5,9 @@ digraph bettersoftware {
             node [shape = box];
 "reliability" [colorscheme="svg" color="mediumvioletred"];
 "reliability" ->  "ClaimsAboutSoftwareEnginScienceReview.md" [colorscheme="svg" color="mediumvioletred"];
-"reproducibility" ->  "ClaimsAboutSoftwareEnginScienceReview.md" [colorscheme="svg" color="tomato"];
+"ClaimsAboutSoftwareEnginScienceReview.md" [label="Claims about the use of software engineering practices in science: A systematic literature review", URL="http://bss.parallactic.com/resources/claims-about-the-use-of-software-engineering-practices-in-science-a-systematic-literature-review"];
+"reliability" ->  "SoftwareDevelopmentPracticesInAcademiaACaseStudyComparison.md" [colorscheme="svg" color="mediumvioletred"];
+"SoftwareDevelopmentPracticesInAcademiaACaseStudyComparison.md" [label="Software Development Practices In Academia: A Case Study Comparison", URL="http://bss.parallactic.com/resources/software-development-practices-in-academia-a-case-study-comparison"];
 "reliability" ->  "TestDrivenDevptInScientificSwASurvey.md" [colorscheme="svg" color="mediumvioletred"];
-"reproducibility" ->  "TestDrivenDevptInScientificSwASurvey.md" [colorscheme="svg" color="tomato"];
+"TestDrivenDevptInScientificSwASurvey.md" [label="Test Driven Development In Scientific Software: A Survey" URL="http://bss.parallactic.com/resources/test-driven-development-in-scientific-software-a-survey"];
 }

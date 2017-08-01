@@ -6,6 +6,8 @@ digraph bettersoftware {
 "continuous integration testing" [colorscheme="svg" color="aqua"];
 "continuous integration testing" ->  "BestPracticesForHPCSwDevelopersWebinarSeries.md" [colorscheme="svg" color="aqua"];
 "BestPracticesForHPCSwDevelopersWebinarSeries.md" [label="Training Resources for Software Productivity and Sustainability" URL="http://bss.parallactic.com/resources/training-resources-for-software-productivity-and-sustainability"];
+"continuous integration testing" ->  "CseCollaborationThroughSoftwareImprovingProductivityAndSustainability.SIAM-CSE17.md" [colorscheme="svg" color="aqua"];
+"CseCollaborationThroughSoftwareImprovingProductivityAndSustainability.SIAM-CSE17.md" [label="Training Resources for Software Productivity and Sustainability" URL="http://bss.parallactic.com/resources/training-resources-for-software-productivity-and-sustainability"];
 "continuous integration testing" ->  "DistributedVersionControlAndContinuousIntegrationTesting.md" [colorscheme="svg" color="aqua"];
 "DistributedVersionControlAndContinuousIntegrationTesting.md" [label="Distributed Version Control and Continuous Integration Testing" URL="http://bss.parallactic.com/resources/distributed-version-control-and-continuous-integration-testing"];
 "continuous integration testing" ->  "JenkinsCI.md" [colorscheme="svg" color="aqua"];

@@ -5,5 +5,5 @@ digraph bettersoftware {
             node [shape = box];
 "tools" [colorscheme="svg" color="lightcoral"];
 "tools" ->  "CppUnit.md" [colorscheme="svg" color="lightcoral"];
-"improving productivity and sustainability" ->  "CseCollaborationThroughSoftwareImprovingProductivityAndSustainability.SIAM-CSE17.md" [colorscheme="svg" color="yellowgreen"];
+"CppUnit.md" [label="Cpp Unit" URL="http://bss.parallactic.com/resources/cpp-unit"];
 }

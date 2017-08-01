@@ -37,11 +37,11 @@ digraph bettersoftware {
 "2" ->  "DistributedVersionControlAndContinuousIntegrationTesting.md" [colorscheme="svg" color="orangered"];
 "DistributedVersionControlAndContinuousIntegrationTesting.md" [label="Distributed Version Control and Continuous Integration Testing" URL="http://bss.parallactic.com/resources/distributed-version-control-and-continuous-integration-testing"]
 "2" ->  "DocumentationTools.Doxygen.md" [colorscheme="svg" color="orangered"];
-"DocumentationTools.Doxygen.md" [label="Kitchen-sink resource test" URL="http://bss.parallactic.com/resources/kitchen-sink-resource-test"]
+"DocumentationTools.Doxygen.md" [label="DocumentationTools-Doxygen" URL="http://bss.parallactic.com/resources/kitchen-sink-resource-test"]
 "2" ->  "DocumentationTools.ReadTheDocs.md" [colorscheme="svg" color="orangered"];
-"DocumentationTools.ReadTheDocs.md" [label="Kitchen-sink resource test" URL="http://bss.parallactic.com/resources/kitchen-sink-resource-test"]
+"DocumentationTools.ReadTheDocs.md" [label="DocumentationTools-ReadTheDocs" URL="http://bss.parallactic.com/resources/kitchen-sink-resource-test"]
 "2" ->  "DocumentationTools.Sphinx.md" [colorscheme="svg" color="orangered"];
-"DocumentationTools.Sphinx.md" [label="Kitchen-sink resource test" URL="http://bss.parallactic.com/resources/kitchen-sink-resource-test"]
+"DocumentationTools.Sphinx.md" [label="DocumentationTools-Sphinx.md" URL="http://bss.parallactic.com/resources/kitchen-sink-resource-test"]
 "2" ->  "DocumentationTools.md" [colorscheme="svg" color="orangered"];
 "DocumentationTools.md" [label="Documentation Tools" URL="http://bss.parallactic.com/resources/documentation-tools"]
 "2" ->  "FORCE11SoftwareCitationImplementationWorkingGroup.md" [colorscheme="svg" color="orangered"];

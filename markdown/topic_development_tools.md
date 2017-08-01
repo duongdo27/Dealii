@@ -1,4 +1,4 @@
 Topic: Development Tools
 ========================
 
-\dotfile topic_deployment_tools.dot
+\dotfile topic_development_tools.dot

@@ -15,11 +15,11 @@ digraph bettersoftware {
 "development" ->  "CppUnit.md" [colorscheme="svg" color="palegreen"];
 "CppUnit.md" [label="Cpp Unit" URL="http://bss.parallactic.com/resources/cpp-unit"]
 "development" ->  "DocumentationTools.Doxygen.md" [colorscheme="svg" color="palegreen"];
-"DocumentationTools.Doxygen.md" [label="Kitchen-sink resource test" URL="http://bss.parallactic.com/resources/kitchen-sink-resource-test"]
+"DocumentationTools.Doxygen.md" [label="DocumentationTools-Doxygen" URL="http://bss.parallactic.com/resources/kitchen-sink-resource-test"]
 "development" ->  "DocumentationTools.ReadTheDocs.md" [colorscheme="svg" color="palegreen"];
-"DocumentationTools.ReadTheDocs.md" [label="Kitchen-sink resource test" URL="http://bss.parallactic.com/resources/kitchen-sink-resource-test"]
+"DocumentationTools.ReadTheDocs.md" [label="DocumentationTools-ReadTheDocs" URL="http://bss.parallactic.com/resources/kitchen-sink-resource-test"]
 "development" ->  "DocumentationTools.Sphinx.md" [colorscheme="svg" color="palegreen"];
-"DocumentationTools.Sphinx.md" [label="Kitchen-sink resource test" URL="http://bss.parallactic.com/resources/kitchen-sink-resource-test"]
+"DocumentationTools.Sphinx.md" [label="DocumentationTools-Sphinx" URL="http://bss.parallactic.com/resources/kitchen-sink-resource-test"]
 "development" ->  "DocumentationTools.md" [colorscheme="svg" color="palegreen"];
 "DocumentationTools.md" [label="Documentation Tools" URL="http://bss.parallactic.com/resources/documentation-tools"]
 "development" ->  "GettingGitRight.md" [colorscheme="svg" color="palegreen"];
