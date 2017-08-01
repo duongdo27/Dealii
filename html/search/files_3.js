@@ -26,7 +26,7 @@ var searchData=
   ['topic_5fsoftware_5fengineering_2emd',['topic_software_engineering.md',['../topic__software__engineering_8md.html',1,'']]],
   ['topic_5fsoftware_5finteroperability_2emd',['topic_software_interoperability.md',['../topic__software__interoperability_8md.html',1,'']]],
   ['topic_5fsoftware_5fpublishing_5fand_5fcitation_2emd',['topic_software_publishing_and_citation.md',['../topic__software__publishing__and__citation_8md.html',1,'']]],
-  ['topic_5fstategies_5ffor_5fmore_5feffective_5fteams_2emd',['topic_stategies_for_more_effective_teams.md',['../topic__stategies__for__more__effective__teams_8md.html',1,'']]],
+  ['topic_5fstrategies_5ffor_5fmore_5feffective_5fteams_2emd',['topic_strategies_for_more_effective_teams.md',['../topic__strategies__for__more__effective__teams_8md.html',1,'']]],
   ['topic_5ftesting_2emd',['topic_testing.md',['../topic__testing_8md.html',1,'']]],
   ['topic_5ftools_2emd',['topic_tools.md',['../topic__tools_8md.html',1,'']]],
   ['topic_5fversion_5fcontrol_2emd',['topic_version_control.md',['../topic__version__control_8md.html',1,'']]]

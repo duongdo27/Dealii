@@ -43,7 +43,7 @@ var NAVTREEINDEX0 =
 "md_markdown_topic_software_engineering.html":[37],
 "md_markdown_topic_software_interoperability.html":[38],
 "md_markdown_topic_software_publishing_and_citation.html":[39],
-"md_markdown_topic_stategies_for_more_effective_teams.html":[40],
+"md_markdown_topic_strategies_for_more_effective_teams.html":[40],
 "md_markdown_topic_testing.html":[41],
 "md_markdown_topic_tools.html":[42],
 "md_markdown_topic_version_control.html":[43],

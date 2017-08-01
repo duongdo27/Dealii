@@ -26,7 +26,7 @@ var searchData=
   ['topic_3a_20software_20engineering',['Topic: Software Engineering',['../md_markdown_topic_software_engineering.html',1,'']]],
   ['topic_3a_20software_20interoperability',['Topic: Software Interoperability',['../md_markdown_topic_software_interoperability.html',1,'']]],
   ['topic_3a_20software_20publishing_20and_20citation',['Topic: Software Publishing and Citation',['../md_markdown_topic_software_publishing_and_citation.html',1,'']]],
-  ['topic_3a_20strategies_20for_20more_20effective_20teams',['Topic: Strategies for more effective teams',['../md_markdown_topic_stategies_for_more_effective_teams.html',1,'']]],
+  ['topic_3a_20strategies_20for_20more_20effective_20teams',['Topic: Strategies for more effective teams',['../md_markdown_topic_strategies_for_more_effective_teams.html',1,'']]],
   ['topic_3a_20testing',['Topic: Testing',['../md_markdown_topic_testing.html',1,'']]],
   ['topic_3a_20tools',['Topic: Tools',['../md_markdown_topic_tools.html',1,'']]],
   ['topic_3a_20version_20control',['Topic: Version control',['../md_markdown_topic_version_control.html',1,'']]]

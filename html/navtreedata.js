@@ -41,7 +41,7 @@ var NAVTREE =
     [ "Topic: Software Engineering", "md_markdown_topic_software_engineering.html", null ],
     [ "Topic: Software Interoperability", "md_markdown_topic_software_interoperability.html", null ],
     [ "Topic: Software Publishing and Citation", "md_markdown_topic_software_publishing_and_citation.html", null ],
-    [ "Topic: Strategies for more effective teams", "md_markdown_topic_stategies_for_more_effective_teams.html", null ],
+    [ "Topic: Strategies for more effective teams", "md_markdown_topic_strategies_for_more_effective_teams.html", null ],
     [ "Topic: Testing", "md_markdown_topic_testing.html", null ],
     [ "Topic: Tools", "md_markdown_topic_tools.html", null ],
     [ "Topic: Version control", "md_markdown_topic_version_control.html", null ],

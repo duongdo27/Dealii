@@ -110,7 +110,7 @@ digraph bettersoftware {
 "FellowshipProgrammeSoftwareSustainabilityInstituteUK.md" [label="Fellowship Programme — Software Sustainability Institute (Uk)" URL="http://bss.parallactic.com/resources/fellowship-programme-software-sustainability-institute-uk"];
 "version control" ->  "GettingGitRight.md" [colorscheme="svg" color="cadetblue"];
 "GettingGitRight.md" [label="Getting Git Right" URL="http://bss.parallactic.com/resources/getting-git-right"];
-"version control" ->  "GitHub.md" [colorscheme="svg" color="cadetblue" md_markdown_topic_version_control.html"];
+"version control" ->  "GitHub.md" [colorscheme="svg" color="cadetblue" URL="md_markdown_topic_version_control.html"];
 "GitHub.md" [label="GitHub" URL="http://bss.parallactic.com/resources/git-hub"];
 "version control" ->  "GitTutorialAndReferenceCollection.md" [colorscheme="svg" color="cadetblue"];
 "GitTutorialAndReferenceCollection.md" [label="Git Tutorial and Reference Collection" URL="http://bss.parallactic.com/resources/git-tutorial-and-reference-collection"];
