@@ -10,7 +10,10 @@ digraph bettersoftware {
 "MethodsAndToolsEditor.md" [label="Methods & Tools Editor" URL="http://bss.parallactic.com/resources/methods-tools-editor"];
 "software engineering" ->  "Conference.SC17.md" [colorscheme="svg" color="goldenrod"];
 "Conference.SC17.md" [label="SC17" URL="http://bss.parallactic.com/events/sc17"];
+"software engineering" ->  "Conference.ScientificSoftwareDays17.md" [colorscheme="svg" color="goldenrod"];
+"Conference.ScientificSoftwareDays17.md" [label="8th Annual Scientific Software Days" URL="http://bss.parallactic.com/resources/8th-annual-scientific-software-days"];
 "software engineering" ->  "WSSSPE5.1.md" [colorscheme="svg" color="goldenrod"];
+"WSSSPE5.1.md" [label="Wssspe5.1\n" URL="http://bss.parallactic.com/events/wssspe5-1 "];
 "software engineering" ->  "WSSSPE5.2.md" [colorscheme="svg" color="goldenrod"];
 "WSSSPE5.2.md" [label="Wssspe5.2\n" URL="http://bss.parallactic.com/events/wssspe5-2 "];
 "software engineering" ->  "Workshop.SE4Science17.md" [colorscheme="svg" color="goldenrod"];

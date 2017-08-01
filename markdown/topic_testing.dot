@@ -16,14 +16,18 @@ digraph bettersoftware {
 "ClaimsAboutSoftwareEnginScienceReview.md" [label="Claims about the use of software engineering practices in science: A systematic literature review", URL="http://bss.parallactic.com/resources/claims-about-the-use-of-software-engineering-practices-in-science-a-systematic-literature-review"];
 "testing" ->  "CppUnit.md" [colorscheme="svg" color="darksalmon"];
 "CppUnit.md" [label="Cpp Unit" URL="http://bss.parallactic.com/resources/cpp-unit"];
+"testing" ->  "CseCollaborationThroughSoftwareImprovingProductivityAndSustainability.SIAM-CSE17.md" [colorscheme="svg" color="darksalmon"];
+"CseCollaborationThroughSoftwareImprovingProductivityAndSustainability.SIAM-CSE17.md" [label="Training Resources for Software Productivity and Sustainability" URL="http://bss.parallactic.com/resources/training-resources-for-software-productivity-and-sustainability"];
 "testing" ->  "HerouxATPESC2016.md" [colorscheme="svg" color="darksalmon"];
-"configuration and building" [colorscheme="svg" color="blue"];
+"HerouxATPESC2016.md" [label="HPC Complete: Reproducible, Sustainable, Productive" URL="http://bss.parallactic.com/resources/hpc-complete-reproducible-sustainable-productive"];
 "testing" ->  "HowToImproveTestingForCseSw.md" [colorscheme="svg" color="darksalmon"];
 "HowToImproveTestingForCseSw.md" [label="How to Improve Testing for CSE Software" URL="http://bss.parallactic.com/resources/how-to-improve-testing-for-cse-software"];
 "testing" ->  "JenkinsCI.md" [colorscheme="svg" color="darksalmon"];
 "JenkinsCI.md" [label="Jenkins Continuous Integration" URL="http://bss.parallactic.com/resources/jenkins-continuous-integration"];
 "testing" ->  "SoftwareDevelopmentPracticesInAcademiaACaseStudyComparison.md" [colorscheme="svg" color="darksalmon"];
-"reliability" ->  "SoftwareDevelopmentPracticesInAcademiaACaseStudyComparison.md" [colorscheme="svg" color="mediumvioletred"];
+"SoftwareDevelopmentPracticesInAcademiaACaseStudyComparison.md" [label="Software Development Practices In Academia: A Case Study Comparison", URL="http://bss.parallactic.com/resources/software-development-practices-in-academia-a-case-study-comparison"];
+"testing" ->  "SwProductivityAndSustainabilityForCseAndDataScience.SIAM-CSE17.md" [colorscheme="svg" color="darksalmon"];
+"SwProductivityAndSustainabilityForCseAndDataScience.SIAM-CSE17.md" [label="Software Productivity And Sustainability For Cse And Data Science" URL="http://bss.parallactic.com/events/siam-conference-on-computational-science-and-engineering-cse17 "]
 "testing" ->  "SwTestingTutorialTutorialsPoint.md" [colorscheme="svg" color="darksalmon"];
 "SwTestingTutorialTutorialsPoint.md" [label="Software Testing Tutorial (Tutorials Point)" URL="http://bss.parallactic.com/resources/software-testing-tutorial-tutorials-point"];
 "testing" ->  "SwTestingTutorials.Cse.md" [colorscheme="svg" color="darksalmon"];

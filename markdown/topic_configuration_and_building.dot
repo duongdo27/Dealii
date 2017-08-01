@@ -3,6 +3,7 @@ digraph bettersoftware {
             ratio = fill;
             node [style=filled];
             node [shape = box];
+"configuration and building" [colorscheme="svg" color="blue"]
 "configuration and building" ->  "HowToConfigureSw.md" [colorscheme="svg" color="blue"];
 "HowToConfigureSw.md" [label="How to Configure Software" URL="http://bss.parallactic.com/resources/how-to-configure-software"];
 "configuration and building" ->  "WhatIsSwConfiguration.md" [colorscheme="svg" color="blue"];

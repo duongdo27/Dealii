@@ -3,6 +3,6 @@ digraph bettersoftware {
             ratio = fill;
             node [style=filled];
             node [shape = box];
+"software interoperability" [colorscheme="svg" color="darkviolet"];
 "software interoperability" ->  "SwProductivityAndSustainabilityForCseAndDataScience.SIAM-CSE17.md" [colorscheme="svg" color="darkviolet"];
-"strategies for more effective teams" ->  "SwProductivityAndSustainabilityForCseAndDataScience.SIAM-CSE17.md" [colorscheme="svg" color="darkorange"];
 }

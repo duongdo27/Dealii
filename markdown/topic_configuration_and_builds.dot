@@ -5,5 +5,4 @@ digraph bettersoftware {
             node [shape = box];
 "configuration and builds" [colorscheme="svg" color="darkturquoise"];
 "configuration and builds" ->  "SwProductivityAndSustainabilityForCseAndDataScience.SIAM-CSE17.md" [colorscheme="svg" color="darkturquoise"];
-"testing" ->  "SwProductivityAndSustainabilityForCseAndDataScience.SIAM-CSE17.md" [colorscheme="svg" color="darksalmon"];
 }
